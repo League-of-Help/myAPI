@@ -1,0 +1,26 @@
+{
+  "display_name": "Gragas",
+  "name": "Gragas",
+  "abilities": {
+    "p": [
+      "Happy Hour",
+      "Gragas periodically heals upon using a skill."
+    ],
+    "q": [
+      "Barrel Roll",
+      "Gragas rolls his cask to a location, which can be activated to explode or will explode on its own after 4 seconds. Enemies struck by the blast have their Movement Speed slowed."
+    ],
+    "w": [
+      "Drunken Rage",
+      "Gragas guzzles down brew from his cask for 1 second. After finishing, he becomes drunkenly empowered, dealing magic damage to all nearby enemies on his next basic attack and reducing damage received."
+    ],
+    "e": [
+      "Body Slam",
+      "Gragas charges to a location and collides with the first enemy unit he comes across, dealing damage to all nearby enemy units and stunning them."
+    ],
+    "r": [
+      "Explosive Cask",
+      "Gragas hurls his cask to a location, dealing damage and knocking back enemies caught in the blast radius."
+    ]
+  }
+}

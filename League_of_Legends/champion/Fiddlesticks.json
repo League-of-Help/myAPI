@@ -1,0 +1,26 @@
+{
+  "display_name": "Fiddlesticks",
+  "name": "Fiddlesticks",
+  "abilities": {
+    "p": [
+      "A Harmless Scarecrow",
+      "Fiddlesticks' trinket is replaced by scarecrow effigies."
+    ],
+    "q": [
+      "Terrify",
+      "Fiddlesticks damaging enemies with spells while unseen or targeting an enemy with Terrify's activation strikes a target unit with fear, causing it to flee in terror for a duration."
+    ],
+    "w": [
+      "Bountiful Harvest",
+      "Fiddlesticks drains health from nearby enemies, dealing bonus execute damage at the end of the duration."
+    ],
+    "e": [
+      "Reap",
+      "Fiddlesticks slashes an area with its scythe, slowing all enemies hit and silencing enemies hit in the center of the slash."
+    ],
+    "r": [
+      "Crowstorm",
+      "A murder of crows flock wildly around Fiddlesticks, dealing damage per second to all enemy units in the area."
+    ]
+  }
+}

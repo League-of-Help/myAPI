@@ -1,0 +1,26 @@
+{
+  "display_name": "Quinn",
+  "name": "Quinn",
+  "abilities": {
+    "p": [
+      "Harrier",
+      "Valor, Quinn's Demacian eagle, periodically marks enemies as Vulnerable. Quinn's first basic attack against Vulnerable targets will deal bonus physical damage."
+    ],
+    "q": [
+      "Blinding Assault",
+      "Quinn calls Valor to mark an enemy and hinder its vision before damaging all enemies in the immediate area."
+    ],
+    "w": [
+      "Heightened Senses",
+      "Passively grants Quinn Attack Speed and Movement Speed after she attacks a Vulnerable target. Activate to have Valor reveal a large area nearby."
+    ],
+    "e": [
+      "Vault",
+      "Quinn dashes to an enemy, dealing physical damage and slowing the target's Movement Speed. Upon reaching the target, she leaps off the target, briefly interrupting it, and lands near her maximum Attack Range away from the target."
+    ],
+    "r": [
+      "Behind Enemy Lines",
+      "Quinn and Valor team up to fly around at great speed.  Ending the ability casts Skystrike, which deals damage to nearby enemies and marks champions as Vulnerable."
+    ]
+  }
+}

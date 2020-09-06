@@ -1,0 +1,26 @@
+{
+  "display_name": "Trundle",
+  "name": "Trundle",
+  "abilities": {
+    "p": [
+      "King's Tribute",
+      "When an enemy unit dies near Trundle, he heals for a percent of its maximum Health."
+    ],
+    "q": [
+      "Chomp",
+      "Trundle bites his opponent, dealing damage, briefly slowing and sapping some of their Attack Damage."
+    ],
+    "w": [
+      "Frozen Domain",
+      "Trundle turns target location into his domain, gaining Attack Speed, Movement Speed, and increased healing from all sources while on it."
+    ],
+    "e": [
+      "Pillar of Ice",
+      "Trundle creates an ice pillar at target location, becoming impassable terrain and slowing all nearby enemy units."
+    ],
+    "r": [
+      "Subjugate",
+      "Trundle immediately steals a percent of his target's Health, Armor and Magic Resistance. Over the next 4 seconds the amount of Health, Armor, and Magic Resistance stolen is doubled."
+    ]
+  }
+}

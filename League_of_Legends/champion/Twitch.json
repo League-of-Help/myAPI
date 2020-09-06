@@ -1,0 +1,26 @@
+{
+  "display_name": "Twitch",
+  "name": "Twitch",
+  "abilities": {
+    "p": [
+      "Deadly Venom",
+      "Twitch's basic attacks infect the target, dealing true damage each second."
+    ],
+    "q": [
+      "Ambush",
+      "Twitch becomes Camouflaged for a short duration and gains Movement Speed. When leaving Camouflage, Twitch gains Attack Speed for a short duration.  When an enemy champion with Deadly Venom dies, Ambush's cooldown is reset."
+    ],
+    "w": [
+      "Venom Cask",
+      "Twitch hurls a cask of venom that explodes in an area, slowing targets and applying deadly venom to the target."
+    ],
+    "e": [
+      "Contaminate",
+      "Twitch wreaks further havoc on poisoned enemies with a blast of his vile diseases."
+    ],
+    "r": [
+      "Spray and Pray",
+      "Twitch unleashes the full power of his crossbow, shooting bolts over a great distance that pierce all enemies caught in their path."
+    ]
+  }
+}

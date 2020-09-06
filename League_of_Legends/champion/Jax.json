@@ -1,0 +1,26 @@
+{
+  "display_name": "Jax",
+  "name": "Jax",
+  "abilities": {
+    "p": [
+      "Relentless Assault",
+      "Jax's consecutive basic attacks continuously increase his Attack Speed."
+    ],
+    "q": [
+      "Leap Strike",
+      "Jax leaps toward a unit. If they are an enemy, he strikes them with his weapon."
+    ],
+    "w": [
+      "Empower",
+      "Jax charges his weapon with energy, causing his next attack to deal additional damage."
+    ],
+    "e": [
+      "Counter Strike",
+      "Jax's combat prowess allows him to dodge all incoming attacks for a short duration and then quickly counterattack, stunning all surrounding enemies."
+    ],
+    "r": [
+      "Grandmaster's Might",
+      "Every third consecutive attack deals additional Magic Damage. Additionally, Jax can activate this ability to strengthen his resolve, increasing his Armor and Magic Resist for a short duration."
+    ]
+  }
+}

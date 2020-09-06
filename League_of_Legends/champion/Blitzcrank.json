@@ -1,0 +1,26 @@
+{
+  "display_name": "Blitzcrank",
+  "name": "Blitzcrank",
+  "abilities": {
+    "p": [
+      "Mana Barrier",
+      "Blitzcrank gains a shield based on his mana when dropping to low health."
+    ],
+    "q": [
+      "Rocket Grab",
+      "Blitzcrank fires his right hand to grab an opponent on its path, dealing damage and dragging it back to him."
+    ],
+    "w": [
+      "Overdrive",
+      "Blitzcrank super charges himself to get dramatically increased Movement and Attack Speed. He is temporarily slowed after the effect ends."
+    ],
+    "e": [
+      "Power Fist",
+      "Blitzcrank charges up his fist to make his next attack deal double damage and pop his target up in the air."
+    ],
+    "r": [
+      "Static Field",
+      "Enemies attacked by Blitzcrank are marked and take lightning damage after 1 second. Additionally, Blitzcrank can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly."
+    ]
+  }
+}

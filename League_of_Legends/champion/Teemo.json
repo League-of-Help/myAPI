@@ -1,0 +1,26 @@
+{
+  "display_name": "Teemo",
+  "name": "Teemo",
+  "abilities": {
+    "p": [
+      "Guerrilla Warfare",
+      "If Teemo stands still and takes no actions for a short duration, he becomes Invisible indefinitely. If he's in brush, Teemo can enter and maintain his Invisibility while moving. After leaving Invisibility, Teemo gains the Element of Surprise, increasing his Attack Speed for 3 seconds."
+    ],
+    "q": [
+      "Blinding Dart",
+      "Obscures an enemy's vision with a powerful venom, dealing damage to the target unit and blinding it for the duration."
+    ],
+    "w": [
+      "Move Quick",
+      "Teemo scampers around, passively increasing his Movement Speed until he is struck by an enemy champion or turret. Teemo can sprint to gain bonus Movement Speed that isn't stopped by being struck for a short time."
+    ],
+    "e": [
+      "Toxic Shot",
+      "Each of Teemo's attacks will poison the target, dealing damage on impact and each second after for 4 seconds."
+    ],
+    "r": [
+      "Noxious Trap",
+      "Teemo throws an explosive poisonous trap using one of the mushrooms stored in his pack. If an enemy steps on the trap, it will release a poisonous cloud, slowing enemies and damaging them over time. If Teemo throws a mushroom onto another mushroom it will bounce, gaining additional range."
+    ]
+  }
+}

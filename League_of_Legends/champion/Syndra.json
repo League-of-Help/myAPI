@@ -1,0 +1,26 @@
+{
+  "display_name": "Syndra",
+  "name": "Syndra",
+  "abilities": {
+    "p": [
+      "Transcendent",
+      "Spells gain extra effects at max rank.  Dark Sphere: Deals 25% more damage against champions. Force of Will: Deals 20% bonus true damage. Scatter the Weak: Spell width increased by 50%. Unleashed Power: Range increased by 75."
+    ],
+    "q": [
+      "Dark Sphere",
+      "Syndra conjures a Dark Sphere dealing magic damage. The sphere remains and can be manipulated by her other powers."
+    ],
+    "w": [
+      "Force of Will",
+      "Syndra picks up and throws a Dark Sphere or enemy minion dealing magic damage and slowing the Movement Speed of enemies."
+    ],
+    "e": [
+      "Scatter the Weak",
+      "Syndra knocks enemies and Dark Spheres back dealing magic damage. Enemies hit by Dark Spheres become stunned."
+    ],
+    "r": [
+      "Unleashed Power",
+      "Syndra bombards an enemy Champion with all of her Dark Spheres."
+    ]
+  }
+}

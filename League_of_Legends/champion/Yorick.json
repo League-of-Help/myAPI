@@ -1,0 +1,26 @@
+{
+  "display_name": "Yorick",
+  "name": "Yorick",
+  "abilities": {
+    "p": [
+      "Shepherd of Souls",
+      "The Cursed Horde: Yorick can summon Mist Walkers to swarm and attack nearby enemies."
+    ],
+    "q": [
+      "Last Rites",
+      "Yorick deals bonus damage on his next attack and heals himself. If the target dies a grave will be dug."
+    ],
+    "w": [
+      "Dark Procession",
+      "Yorick summons a destructible wall at target location that will block enemy movement."
+    ],
+    "e": [
+      "Mourning Mist",
+      "Yorick throws a globule of Black Mist that damages, slows and marks enemies."
+    ],
+    "r": [
+      "Eulogy of the Isles",
+      "Yorick summons the Maiden of the Mist that causes Yorick's attacks against the Maiden's target to deal bonus damage. The Maiden will also automatically raise Walkers from dead enemies."
+    ]
+  }
+}

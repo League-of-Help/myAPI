@@ -1,0 +1,26 @@
+{
+  "display_name": "Qiyana",
+  "name": "Qiyana",
+  "abilities": {
+    "p": [
+      "Royal Privilege",
+      "Qiyana's first basic attack or ability against each enemy deals bonus damage."
+    ],
+    "q": [
+      "Elemental Wrath / Edge of Ixtal",
+      "Qiyana swings her weapon, dealing damage with a bonus effect based on her element."
+    ],
+    "w": [
+      "Terrashape",
+      "Qiyana dashes to a location and enchants her weapon with an element. Her attacks and abilities deal bonus damage while her weapon is enchanted. "
+    ],
+    "e": [
+      "Audacity",
+      "Qiyana dashes to an enemy, damaging them."
+    ],
+    "r": [
+      "Supreme Display of Talent",
+      "Qiyana sends out a shockwave that detonates whatever elements she hits with it, stunning and damaging nearby enemies."
+    ]
+  }
+}

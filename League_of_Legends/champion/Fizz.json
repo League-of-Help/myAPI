@@ -1,0 +1,26 @@
+{
+  "display_name": "Fizz",
+  "name": "Fizz",
+  "abilities": {
+    "p": [
+      "Nimble Fighter",
+      "Fizz can move through units and takes a flat amount of reduced damage from all sources"
+    ],
+    "q": [
+      "Urchin Strike",
+      "Fizz dashes through his target, dealing magic damage and applying on hit effects."
+    ],
+    "w": [
+      "Seastone Trident",
+      "Fizz's attacks bleed his enemies, dealing magic damage over several seconds. Fizz can empower his next attack to deal bonus damage and empower his further attacks for a short time."
+    ],
+    "e": [
+      "Playful / Trickster",
+      "Fizz hops into the air, landing gracefully upon his spear and becoming untargetable. From this position, Fizz can either slam the ground or choose to jump again before smashing back down."
+    ],
+    "r": [
+      "Chum the Waters",
+      "Fizz tosses a fish in a direction that attaches to any champion that touches it, slowing the target. After a short delay, a shark erupts from the ground, knocking up the target and knocking any nearby enemies aside. All enemies hit are dealt magic damage and slowed."
+    ]
+  }
+}

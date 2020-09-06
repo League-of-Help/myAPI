@@ -1,0 +1,26 @@
+{
+  "display_name": "Kled",
+  "name": "Kled",
+  "abilities": {
+    "p": [
+      "Skaarl, the Cowardly Lizard",
+      "Kled rides his trusty steed, Skaarl, who takes damage for him. When Skaarl's health depletes, Kled dismounts.  While dismounted, Kled's abilities change and he deals less damage to champions. Kled can restore Skaarl's courage by fighting enemies. At maximum courage, Kled remounts with a portion of Skaarl's health."
+    ],
+    "q": [
+      "Bear Trap on a Rope",
+      "Kled throws a bear trap that damages and hooks an enemy champion. If shackled for a short duration, the target takes additional physical damage and is yanked toward Kled.  When dismounted, this ability is replaced by Pocket Pistol, a ranged gun blast that knocks back Kled and restores courage."
+    ],
+    "w": [
+      "Violent Tendencies",
+      "Kled gains massive attack speed for four attacks. The fourth attack deals more damage."
+    ],
+    "e": [
+      "Jousting",
+      "Kled dashes, dealing physical damage and gaining a short burst of speed. Kled can cast this ability again to dash back through his initial target, dealing the same damage."
+    ],
+    "r": [
+      "Chaaaaaaaarge!!!",
+      "Kled and Skaarl charge to a location, leaving a speed-granting trail behind them and gaining a shield. Skaarl locks onto and rams the first enemy champion encountered."
+    ]
+  }
+}

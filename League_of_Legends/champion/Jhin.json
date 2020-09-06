@@ -1,0 +1,26 @@
+{
+  "display_name": "Jhin",
+  "name": "Jhin",
+  "abilities": {
+    "p": [
+      "Whisper",
+      "Jhin's hand cannon, Whisper, is a precise instrument designed to deal superior damage. It fires at a fixed rate and carries only four shots. Jhin imbues the final bullet with dark magics to critically strike and deal bonus execute damage. Whenever Whisper crits, it inspires Jhin with a burst of movement speed."
+    ],
+    "q": [
+      "Dancing Grenade",
+      "Jhin launches a magical cartridge at an enemy. It can hit up to four targets and gains damage each time it kills."
+    ],
+    "w": [
+      "Deadly Flourish",
+      "Jhin brandishes his cane, firing a single shot with incredible range. It pierces through minions and monsters, but stops on the first champion hit. If the target was recently struck by Jhin's allies, lotus traps, or damaged by Jhin, they are rooted."
+    ],
+    "e": [
+      "Captive Audience",
+      "Jhin places an invisible lotus trap that blooms when walked over. It slows nearby enemies before dealing damage with an explosion of serrated petals.   Beauty in Death - When Jhin kills an enemy champion, a lotus trap will bloom near their corpse."
+    ],
+    "r": [
+      "Curtain Call",
+      "Jhin channels, transforming Whisper into a shoulder-mounted mega-cannon. It is able to fire 4 super shots at extreme range that pierce through minions and monsters, but stop on the first champion impacted. Whisper cripples enemies hit, which slows them and deals execute damage. The 4th shot is perfectly crafted, epically powerful, and guaranteed to critically strike."
+    ]
+  }
+}

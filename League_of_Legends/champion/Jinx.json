@@ -1,0 +1,26 @@
+{
+  "display_name": "Jinx",
+  "name": "Jinx",
+  "abilities": {
+    "p": [
+      "Get Excited!",
+      "Jinx receives massively increased Movement Speed and Attack Speed whenever she damages an enemy champion, epic monster, or structure that is then killed or destroyed within 3 seconds."
+    ],
+    "q": [
+      "Switcheroo!",
+      "Jinx modifies her basic attacks by swapping between Pow-Pow, her minigun and Fishbones, her rocket launcher. Attacks with Pow-Pow grant Attack Speed, while attacks with Fishbones deal area of effect damage, gain increased range, and drain Mana."
+    ],
+    "w": [
+      "Zap!",
+      "Jinx uses Zapper, her shock pistol, to fire a blast that deals damage to the first enemy hit, slowing and revealing it."
+    ],
+    "e": [
+      "Flame Chompers!",
+      "Jinx throws out a line of snare grenades that explode after 5 seconds, lighting enemies on fire. Flame Chompers will bite enemy champions who walk over them, rooting them in place."
+    ],
+    "r": [
+      "Super Mega Death Rocket!",
+      "Jinx fires a super rocket across the map that gains damage as it travels. The rocket will explode upon colliding with an enemy champion, dealing damage to it and surrounding enemies based on their missing Health."
+    ]
+  }
+}

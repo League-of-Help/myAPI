@@ -1,0 +1,26 @@
+{
+  "display_name": "Bard",
+  "name": "Bard",
+  "abilities": {
+    "p": [
+      "Traveler's Call",
+      "Meeps: Bard attracts lesser spirits that assist with his basic attacks to deal extra magic damage. When Bard has collected enough  Chimes, his meeps will also deal damage in an area and slow enemies hit.  Chimes: Ancient chimes randomly appear for Bard to collect. These grant experience, maximum mana, and out-of-combat movement speed stacks. "
+    ],
+    "q": [
+      "Cosmic Binding",
+      "Bard fires a missile which will slow the first enemy struck, and continue onward. If it strikes a wall, it will stun the initial target; if it strikes another enemy, it will stun them both."
+    ],
+    "w": [
+      "Caretaker's Shrine",
+      "Reveals a healing shrine which powers up over a short time, disappearing after healing the first ally that touches it."
+    ],
+    "e": [
+      "Magical Journey",
+      "Bard opens a portal in nearby terrain. Allies and enemies alike can take a one-way trip through that terrain by moving into the portal."
+    ],
+    "r": [
+      "Tempered Fate",
+      "Bard sends spirit energy arcing to a location, putting all champions, minions, monsters, and turrets hit into stasis for a brief time."
+    ]
+  }
+}

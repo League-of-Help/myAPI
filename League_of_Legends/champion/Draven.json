@@ -1,0 +1,26 @@
+{
+  "display_name": "Draven",
+  "name": "Draven",
+  "abilities": {
+    "p": [
+      "League of Draven",
+      "Draven gains his fans' Adoration when he catches a Spinning Axe or kills a minion, monster, or tower. Killing enemy champions grants Draven bonus gold based on how much Adoration he has."
+    ],
+    "q": [
+      "Spinning Axe",
+      "Draven's next attack will deal bonus physical damage. This axe will ricochet off the target high up into the air. If Draven catches it, he automatically readies another Spinning Axe. Draven can have two Spinning Axes at once."
+    ],
+    "w": [
+      "Blood Rush",
+      "Draven gains increased Movement Speed and Attack Speed. The Movement Speed bonus decreases rapidly over its duration. Catching a Spinning Axe will refresh the cooldown of Blood Rush."
+    ],
+    "e": [
+      "Stand Aside",
+      "Draven throws his axes, dealing physical damage to targets hit and knocking them aside. Targets hit are slowed."
+    ],
+    "r": [
+      "Whirling Death",
+      "Draven hurls two massive axes to deal physical damage to each unit struck. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion. Draven may also activate this ability while the axes are in flight to cause it to return early. Deals less damage for each unit hit and resets when the axes reverse direction."
+    ]
+  }
+}

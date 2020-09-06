@@ -1,0 +1,26 @@
+{
+  "display_name": "Garen",
+  "name": "Garen",
+  "abilities": {
+    "p": [
+      "Perseverance",
+      "If Garen has not recently been struck by damage or enemy abilities, he regenerates a percentage of his total health each second."
+    ],
+    "q": [
+      "Decisive Strike",
+      "Garen gains a burst of movement speed, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and silencing them."
+    ],
+    "w": [
+      "Courage",
+      "Garen passively increases his armor and magic resist by killing enemies. He may also activate this ability to give him a shield and tenacity for a brief moment followed by a lesser amount of damage reduction for a longer duration."
+    ],
+    "e": [
+      "Judgment",
+      "Garen rapidly spins his sword around his body, dealing physical damage to nearby enemies."
+    ],
+    "r": [
+      "Demacian Justice",
+      "Garen calls upon the might of Demacia to attempt to execute an enemy champion."
+    ]
+  }
+}

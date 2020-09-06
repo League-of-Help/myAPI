@@ -1,0 +1,26 @@
+{
+  "display_name": "Neeko",
+  "name": "Neeko",
+  "abilities": {
+    "p": [
+      "Inherent Glamour",
+      "Neeko can look like an ally champion. Taking damage from enemy Champions or casting damaging spells breaks the disguise."
+    ],
+    "q": [
+      "Blooming Burst",
+      "Neeko throws a seed dealing magic damage. The seed blooms again on hitting champions or killing units."
+    ],
+    "w": [
+      "Shapesplitter",
+      "Neeko passively deals bonus magic damage every third attack. Neeko can activate to send a clone in a direction."
+    ],
+    "e": [
+      "Tangle-Barbs",
+      "Neeko slings a tangle that damage and root everything it passes through. If the tangle kills an enemy or passes through a champion, it becomes larger, faster, and roots for longer."
+    ],
+    "r": [
+      "Pop Blossom",
+      "After a short preparation, Neeko leaps into the air and gains a shield. Upon landing, nearby enemies are damaged and stunned. The preparation is hidden if Neeko is disguised."
+    ]
+  }
+}

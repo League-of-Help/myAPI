@@ -1,0 +1,26 @@
+{
+  "display_name": "Kennen",
+  "name": "Kennen",
+  "abilities": {
+    "p": [
+      "Mark of the Storm",
+      "Kennen stuns enemies he hits 3 times with his abilities."
+    ],
+    "q": [
+      "Thundering Shuriken",
+      "Kennen throws a fast moving shuriken towards a location, causing damage and adding a Mark of the Storm to any opponent that it hits."
+    ],
+    "w": [
+      "Electrical Surge",
+      "Kennen passively deals extra damage and adds a Mark of the Storm to his target every few attacks, and he can activate this ability to damage and add another Mark of the Storm to targets who are already marked."
+    ],
+    "e": [
+      "Lightning Rush",
+      "Kennen morphs into a lightning form, enabling him to pass through units and apply a Mark of the Storm. Kennen gains movement speed when entering this form, and attack speed when leaving it."
+    ],
+    "r": [
+      "Slicing Maelstrom",
+      "Kennen summons a storm that strikes at nearby enemy champions for magical damage."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Ivern",
+  "name": "Ivern",
+  "abilities": {
+    "p": [
+      "Friend of the Forest",
+      "Ivern cannot attack or be attacked by non-epic monsters. Ivern can create magical groves on jungle camps which grow over time. When the grove is fully grown, Ivern may free the monsters to receive gold and experience. After level 5 Ivern can share jungle buffs with allies."
+    ],
+    "q": [
+      "Rootcaller",
+      "Ivern conjures a vine, dealing damage and rooting enemy targets hit. Ivern's allies can dash to the rooted target."
+    ],
+    "w": [
+      "Brushmaker",
+      "In brush, Ivern's attacks deal bonus magic damage. Ivern can activate this ability to create a patch of brush."
+    ],
+    "e": [
+      "Triggerseed",
+      "Ivern places a shield on an ally which explodes after a short duration slowing and damaging enemies."
+    ],
+    "r": [
+      "Daisy!",
+      "Ivern summons his Sentinel friend Daisy to fight with him. Daisy will send out a shockwave if she attacks the same champion three times in a row."
+    ]
+  }
+}

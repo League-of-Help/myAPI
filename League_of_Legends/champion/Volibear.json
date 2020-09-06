@@ -1,0 +1,26 @@
+{
+  "display_name": "Volibear",
+  "name": "Volibear",
+  "abilities": {
+    "p": [
+      "The Relentless Storm",
+      "Volibear's attacks and abilities grant attack speed, and eventually cause his basic attacks to deal bonus magic damage to nearby enemies."
+    ],
+    "q": [
+      "Thundering Smash",
+      "Volibear gains speed towards enemies, stunning and damaging the first one he attacks."
+    ],
+    "w": [
+      "Frenzied Maul",
+      "Volibear damages an enemy, applying on-hit effects and marking them.  Casting this spell again on the same target deals bonus damage and heals Volibear."
+    ],
+    "e": [
+      "Sky Splitter",
+      "Volibear summons a lightning bolt at a location, dealing damage and slowing enemies while granting Volibear a shield if he's inside the blast radius."
+    ],
+    "r": [
+      "Stormbringer",
+      "Volibear leaps to a target location, slowing and damaging enemies beneath him while gaining bonus health.  Enemy towers near his landing location become temporarily disabled."
+    ]
+  }
+}

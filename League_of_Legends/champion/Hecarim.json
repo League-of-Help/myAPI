@@ -1,0 +1,26 @@
+{
+  "display_name": "Hecarim",
+  "name": "Hecarim",
+  "abilities": {
+    "p": [
+      "Warpath",
+      "Hecarim gains Attack Damage equal to a percentage of his bonus Movement Speed."
+    ],
+    "q": [
+      "Rampage",
+      "Hecarim cleaves nearby enemies dealing physical damage. If Hecarim damages at least one enemy, he increases the damage and lowers the cooldown of subsequent Rampages."
+    ],
+    "w": [
+      "Spirit of Dread",
+      "Hecarim deals magic damage to nearby enemies for a short duration. Hecarim gains Health equal to a percentage of any damage those enemies suffer."
+    ],
+    "e": [
+      "Devastating Charge",
+      "Hecarim gains increasing Movement Speed and can move through units for a short duration. His next attack knocks the target back and deals additional physical damage based on the distance he has traveled since activating the ability."
+    ],
+    "r": [
+      "Onslaught of Shadows",
+      "Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, causing nearby enemies to flee in terror."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Sett",
+  "name": "Sett",
+  "abilities": {
+    "p": [
+      "Pit Grit",
+      "Sett's basic attacks alternate between left and right punch. Right punch is slightly stronger and faster. Sett also hates losing, gaining additional health regeneration based off of his missing health."
+    ],
+    "q": [
+      "Knuckle Down",
+      "Sett's next two attacks deal additional damage based off of the target's max health. Sett also gains movement speed while moving towards enemy champions."
+    ],
+    "w": [
+      "Haymaker",
+      "Sett passively stores damage he takes as Grit. On cast, Sett expends all stored Grit to gain a shield and punch an area, dealing true damage in the center and physical damage on the sides."
+    ],
+    "e": [
+      "Facebreaker",
+      "Sett pulls in all enemies on opposite sides of him, dealing damage and stunning them. If enemies were only on one side, they are slowed instead of stunned."
+    ],
+    "r": [
+      "The Show Stopper",
+      "Sett carries an enemy champion through the air and slams them into the ground, dealing damage and slowing all enemies near where they land."
+    ]
+  }
+}

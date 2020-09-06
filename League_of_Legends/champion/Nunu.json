@@ -1,0 +1,26 @@
+{
+  "display_name": "Nunu & Willump",
+  "name": "Nunu",
+  "abilities": {
+    "p": [
+      "Call of the Freljord",
+      "Nunu increases the attack speed and movement speed of Willump and a nearby ally, and causes Willump's basic attacks to damage enemies around the target."
+    ],
+    "q": [
+      "Consume",
+      "Willump takes a bite out of a minion, monster, or enemy champion, dealing damage and healing himself."
+    ],
+    "w": [
+      "Biggest Snowball Ever!",
+      "Willump creates a snowball that grows in size and speed as he rolls it.  The snowball damages and knocks up enemies."
+    ],
+    "e": [
+      "Snowball Barrage",
+      "Nunu throws multiple snowballs that damage enemies.  When he's finished, Willump roots any champions or large monsters that were hit by a snowball."
+    ],
+    "r": [
+      "Absolute Zero",
+      "Nunu & Willump create a powerful blizzard in an area that slows enemies and deals massive damage at the end."
+    ]
+  }
+}

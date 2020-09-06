@@ -1,0 +1,26 @@
+{
+  "display_name": "Sona",
+  "name": "Sona",
+  "abilities": {
+    "p": [
+      "Power Chord",
+      "After 3 spell casts, Sona's next attack will deal bonus magic damage in addition to an additional effect based on what song Sona last activated."
+    ],
+    "q": [
+      "Hymn of Valor",
+      "Sona plays the Hymn of Valor, sends out bolts of sound, dealing magic damage to two nearby enemies, prioritizing champions and monsters. Sona gains a temporary aura that grants allies tagged by the zone bonus damage on their next attack against enemies."
+    ],
+    "w": [
+      "Aria of Perseverance",
+      "Sona plays the Aria of Perseverance, sending out protective melodies, healing Sona and a nearby wounded ally. Sona gains a temporary aura that grants allies tagged by the zone a temporary shield."
+    ],
+    "e": [
+      "Song of Celerity",
+      "Sona plays the Song of Celerity, granting nearby allies bonus Movement Speed. Sona gains a temporary aura that grants allied champions tagged by the zone bonus Movement Speed."
+    ],
+    "r": [
+      "Crescendo",
+      "Sona plays her ultimate chord, stunning enemy champions and forcing them to dance and dealing magic damage to them. Each rank reduces the base cooldown of Sona's basic abilities."
+    ]
+  }
+}

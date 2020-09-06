@@ -1,0 +1,26 @@
+{
+  "display_name": "Talon",
+  "name": "Talon",
+  "abilities": {
+    "p": [
+      "Blade's End",
+      "Talon's spells Wound champions and large monsters, stacking up to 3 times. When Talon attacks a champion with 3 stacks of Wound, they bleed for heavy damage over time."
+    ],
+    "q": [
+      "Noxian Diplomacy",
+      "Talon stabs the target unit. If they are within melee range, this attack deals critical damage. If they are outside melee range, Talon will leap at his target before stabbing them. Talon refunds some health and cooldown if this ability kills the target."
+    ],
+    "w": [
+      "Rake",
+      "Talon sends out a volley of daggers that then return back to him, dealing physical damage every time it passes through an enemy. The returning blades deal bonus damage and slow units hit."
+    ],
+    "e": [
+      "Assassin's Path",
+      "Talon vaults over any terrain or structure, up to a max distance. This ability has a low cooldown, but puts the used terrain on a long cooldown."
+    ],
+    "r": [
+      "Shadow Assault",
+      "Talon disperses a ring of blades and becomes Invisible while gaining additional Movement Speed. When Talon emerges from Invisibility, the blades converge on his location. Each time the blades move, Shadow Assault deals physical damage to enemies hit by at least one blade."
+    ]
+  }
+}

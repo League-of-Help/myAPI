@@ -1,0 +1,26 @@
+{
+  "display_name": "Cho'Gath",
+  "name": "Cho-Gath",
+  "abilities": {
+    "p": [
+      "Carnivore",
+      "Whenever Cho'Gath kills a unit, he recovers Health and Mana. The values restored increase with Cho'Gath's level."
+    ],
+    "q": [
+      "Rupture",
+      "Ruptures the ground at target location, popping enemy units into the air, dealing damage and slowing them."
+    ],
+    "w": [
+      "Feral Scream",
+      "Cho'Gath unleashes a terrible scream at enemies in a cone, dealing magic damage and Silencing enemies for a few seconds."
+    ],
+    "e": [
+      "Vorpal Spikes",
+      "Cho'Gath's attacks release deadly spikes, dealing damage and slowing all enemy units in front of him."
+    ],
+    "r": [
+      "Feast",
+      "Devours an enemy unit, dealing a high amount of true damage. If the target is killed, Cho'Gath grows, gaining maximum Health."
+    ]
+  }
+}

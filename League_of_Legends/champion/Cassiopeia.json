@@ -1,0 +1,26 @@
+{
+  "display_name": "Cassiopeia",
+  "name": "Cassiopeia",
+  "abilities": {
+    "p": [
+      "Serpentine Grace",
+      "Cassiopeia gains Movement Speed per level, but she cannot purchase Boots items."
+    ],
+    "q": [
+      "Noxious Blast",
+      "Cassiopeia blasts an area with Poison after a brief delay, granting her increased Movement Speed if she hits an enemy champion."
+    ],
+    "w": [
+      "Miasma",
+      "Cassiopeia releases several clouds of poison, slowing, grounding, and lightly damaging enemies that pass through them. Grounded enemies cannot use Movement abilities."
+    ],
+    "e": [
+      "Twin Fang",
+      "Cassiopeia lets loose an attack that deals increased damage to Poisoned targets and heals her for a percentage of the damage dealt. If the target dies from this attack, Cassiopeia regains Mana."
+    ],
+    "r": [
+      "Petrifying Gaze",
+      "Cassiopeia releases a swirl of magical energy from her eyes, stunning any enemies in front of her that are facing her and slowing any others with their back turned."
+    ]
+  }
+}

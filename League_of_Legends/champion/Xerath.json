@@ -1,0 +1,26 @@
+{
+  "display_name": "Xerath",
+  "name": "Xerath",
+  "abilities": {
+    "p": [
+      "Mana Surge",
+      "Xerath's basic attacks periodically restore Mana."
+    ],
+    "q": [
+      "Arcanopulse",
+      "Fires a long-range beam of energy, dealing magic damage to all targets hit."
+    ],
+    "w": [
+      "Eye of Destruction",
+      "Calls down a barrage of arcane energy, slowing and dealing magic damage to all enemies in an area. Targets in the middle receive additional damage and a stronger slow."
+    ],
+    "e": [
+      "Shocking Orb",
+      "Deals magic damage to an enemy and stuns them."
+    ],
+    "r": [
+      "Rite of the Arcane",
+      "Xerath immobilizes himself and gains numerous long-range barrages."
+    ]
+  }
+}

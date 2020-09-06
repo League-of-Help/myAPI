@@ -1,0 +1,26 @@
+{
+  "display_name": "Heimerdinger",
+  "name": "Heimerdinger",
+  "abilities": {
+    "p": [
+      "Hextech Affinity",
+      "Gain Movement Speed while near allied towers and turrets deployed by Heimerdinger."
+    ],
+    "q": [
+      "H-28 G Evolution Turret",
+      "Heimerdinger lays down a rapid-fire cannon turret equipped with a secondary pass-through beam attack (turrets deal half damage to towers)."
+    ],
+    "w": [
+      "Hextech Micro-Rockets",
+      "Heimerdinger fires long-range rockets that converge on his cursor."
+    ],
+    "e": [
+      "CH-2 Electron Storm Grenade",
+      "Heimerdinger lobs a grenade at a location, dealing damage to enemy units, as well as stunning anyone directly hit and slowing surrounding units."
+    ],
+    "r": [
+      "UPGRADE!!!",
+      "Heimerdinger invents an upgrade, causing his next spell to have increased effects. "
+    ]
+  }
+}

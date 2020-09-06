@@ -1,0 +1,26 @@
+{
+  "display_name": "Taliyah",
+  "name": "Taliyah",
+  "abilities": {
+    "p": [
+      "Rock Surfing",
+      "Taliyah gains movement speed near walls."
+    ],
+    "q": [
+      "Threaded Volley",
+      "Taliyah throws a volley of missiles in a target direction, moving freely as she does. This works the ground below her. If Taliyah casts Threaded Volley on worked ground, she only throws one missile."
+    ],
+    "w": [
+      "Seismic Shove",
+      "Taliyah causes an area of ground to erupt and throws enemies within in a direction of her choosing."
+    ],
+    "e": [
+      "Unraveled Earth",
+      "Taliyah creates a slowing minefield that explodes if enemies dash through it or are pushed/pulled through it."
+    ],
+    "r": [
+      "Weaver's Wall",
+      "Taliyah creates a very long wall and then surfs it."
+    ]
+  }
+}

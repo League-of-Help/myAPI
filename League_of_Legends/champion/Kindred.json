@@ -1,0 +1,26 @@
+{
+  "display_name": "Kindred",
+  "name": "Kindred",
+  "abilities": {
+    "p": [
+      "Mark of the Kindred",
+      "Kindred can mark targets to Hunt. Successfully completing a Hunt permanently empowers Kindred's basic abilities. Every 4 hunts completed also increases Kindred's basic attack range."
+    ],
+    "q": [
+      "Dance of Arrows",
+      "Kindred tumbles and shoots up to three arrows at nearby targets."
+    ],
+    "w": [
+      "Wolf's Frenzy",
+      "Wolf enrages and attacks enemies around him.  Lamb passively gains stacks by moving and attacking. When fully charged, Lamb's next attack restores health."
+    ],
+    "e": [
+      "Mounting Dread",
+      "Lamb fires a carefully placed shot, slowing the target. If Lamb attacks the target two more times, her third attack instead directs Wolf to pounce on the enemy, savaging them for massive damage."
+    ],
+    "r": [
+      "Lamb's Respite",
+      "Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed."
+    ]
+  }
+}

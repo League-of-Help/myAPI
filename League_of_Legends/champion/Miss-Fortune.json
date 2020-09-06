@@ -1,0 +1,26 @@
+{
+  "display_name": "Miss Fortune",
+  "name": "Miss-Fortune",
+  "abilities": {
+    "p": [
+      "Love Tap",
+      "Miss Fortune deals bonus physical damage whenever she basic attacks a new target."
+    ],
+    "q": [
+      "Double Up",
+      "Miss Fortune fires a bullet at an enemy, damaging them and a target behind them. Both strikes can also apply Love Tap."
+    ],
+    "w": [
+      "Strut",
+      "Miss Fortune passively gains Movement Speed when not attacked. This ability can be activated to grant bonus Attack Speed for a short duration. While it's on cooldown, Love Taps reduce the remaining cooldown of Strut."
+    ],
+    "e": [
+      "Make It Rain",
+      "Miss Fortune reveals an area with a flurry of bullets, dealing waves of damage to opponents and slowing them."
+    ],
+    "r": [
+      "Bullet Time",
+      "Miss Fortune channels a barrage of bullets into a cone in front of her, dealing large amounts of damage to enemies. Each wave of Bullet Time can critically strike"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Veigar",
+  "name": "Veigar",
+  "abilities": {
+    "p": [
+      "Phenomenal Evil Power",
+      "Veigar is the greatest Evil to ever strike at the hearts of Runeterra - and he's only getting bigger! Striking an enemy Champion with a spell or scoring a takedown grants Veigar permanently increased Ability Power."
+    ],
+    "q": [
+      "Baleful Strike",
+      "Veigar unleashes a bolt of dark energy that deals magic damage to the first two enemies hit. Units killed by this bolt grant Veigar some ability power permanently."
+    ],
+    "w": [
+      "Dark Matter",
+      "Veigar calls a great mass of dark matter to fall from the sky to the target location, dealing magic damage when it lands. Stacks of Phenomenal Evil reduce Dark Matter's cooldown."
+    ],
+    "e": [
+      "Event Horizon",
+      "After a brief delay Veigar twists the edges of space around the target location for 3 seconds, stunning enemies who pass through the perimeter."
+    ],
+    "r": [
+      "Primordial Burst",
+      "Blasts target enemy champion, dealing a large amount of magic damage, increasing based on the target's missing health."
+    ]
+  }
+}

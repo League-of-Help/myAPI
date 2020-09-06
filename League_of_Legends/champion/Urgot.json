@@ -1,0 +1,26 @@
+{
+  "display_name": "Urgot",
+  "name": "Urgot",
+  "abilities": {
+    "p": [
+      "Echoing Flames",
+      "Urgot's basic attacks and Purge periodically trigger blasts of flame from his legs, dealing physical damage."
+    ],
+    "q": [
+      "Corrosive Charge",
+      "Fires an explosive charge at the target location, dealing physical damage and slowing enemies caught in the explosion."
+    ],
+    "w": [
+      "Purge",
+      "Urgot slows himself while he unloads his weapon on nearby enemies. Prioritizes enemy champions Urgot has recently struck with other abilities and triggers Echoing Flames."
+    ],
+    "e": [
+      "Disdain",
+      "Urgot charges in a direction, shielding himself and trampling non-champion enemies. If he catches an enemy champion, he will stop and hurl them out of his way."
+    ],
+    "r": [
+      "Fear Beyond Death",
+      "Urgot fires a chem-drill that impales the first enemy champion hit. If that champion falls below a health threshold, Urgot judges them weak and can execute them."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Soraka",
+  "name": "Soraka",
+  "abilities": {
+    "p": [
+      "Salvation",
+      "Soraka runs faster towards nearby low health allies."
+    ],
+    "q": [
+      "Starcall",
+      "A star falls from the sky at the target location dealing magic damage and slowing enemies. If an enemy champion is hit by Starcall, Soraka recovers Health."
+    ],
+    "w": [
+      "Astral Infusion",
+      "Soraka sacrifices a portion of her own health to heal another friendly champion."
+    ],
+    "e": [
+      "Equinox",
+      "Creates a zone at a location that silences all enemies inside. When the zone expires, all enemies still inside are rooted."
+    ],
+    "r": [
+      "Wish",
+      "Soraka fills her allies with hope, instantly restoring health to herself and all friendly champions."
+    ]
+  }
+}

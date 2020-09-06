@@ -1,0 +1,26 @@
+{
+  "display_name": "Rakan",
+  "name": "Rakan",
+  "abilities": {
+    "p": [
+      "Fey Feathers",
+      "Rakan periodically gains a shield."
+    ],
+    "q": [
+      "Gleaming Quill",
+      "Flings a magical feather that deals magic damage. Striking a champion or epic monster enables Rakan to heal his allies."
+    ],
+    "w": [
+      "Grand Entrance",
+      "Dashes to a location, knocking up nearby enemies on arrival."
+    ],
+    "e": [
+      "Battle Dance",
+      "Flies to an allied champion granting them a shield. Can be re-cast for free for a short duration."
+    ],
+    "r": [
+      "The Quickness",
+      "Gains movement speed, charming and dealing magic damage to enemies touched."
+    ]
+  }
+}

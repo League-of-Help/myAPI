@@ -1,0 +1,26 @@
+{
+  "display_name": "Kassadin",
+  "name": "Kassadin",
+  "abilities": {
+    "p": [
+      "Void Stone",
+      "Kassadin takes 15% reduced magic damage and ignores unit collision."
+    ],
+    "q": [
+      "Null Sphere",
+      "Kassadin fires an orb of void energy at a target, dealing damage and interrupting channels. The excess energy forms around himself, granting a temporary shield that absorbs magic damage."
+    ],
+    "w": [
+      "Nether Blade",
+      "Passive: Kassadin's basic attacks deal bonus magic damage. Active: Kassadin's next basic attack deals significant bonus magic damage and restores Mana."
+    ],
+    "e": [
+      "Force Pulse",
+      "Kassadin draws energy from spells cast in his vicinity. Upon charging up, Kassadin can use Force Pulse to damage and slow enemies in a cone in front of him."
+    ],
+    "r": [
+      "Riftwalk",
+      "Kassadin teleports to a nearby location dealing damage to nearby enemy units. Multiple Riftwalks in a short period of time cost additional Mana but also deal additional damage."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Tahm Kench",
+  "name": "Tahm-Kench",
+  "abilities": {
+    "p": [
+      "An Acquired Taste",
+      "Tahm Kench puts the heft of his immense body behind his attacks and abilities, gaining extra damage based on his total health. Damaging enemy champions builds stacks of An Acquired Taste. At three stacks, he can use Devour on an enemy champion."
+    ],
+    "q": [
+      "Tongue Lash",
+      "Tahm Kench lashes out with his tongue, damaging and slowing the first unit hit. This ability gains a stun after three stacks of An Acquired Taste."
+    ],
+    "w": [
+      "Devour",
+      "Tahm Kench devours a target, dealing a percentage of their maximum health as magic damage. He can spit devoured minions and monsters out as a skillshot that deals magic damage in an area upon impact."
+    ],
+    "e": [
+      "Thick Skin",
+      "Tahm Kench turns incoming damage into gray health. As gray health decays, Tahm Kench is healed for a percentage of the gray health amount. When activated, this ability turns all gray health into a shield."
+    ],
+    "r": [
+      "Abyssal Voyage",
+      "Tahm Kench teleports across the map, and he may bring one ally champion with him."
+    ]
+  }
+}

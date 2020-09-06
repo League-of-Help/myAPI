@@ -1,0 +1,26 @@
+{
+  "display_name": "Ziggs",
+  "name": "Ziggs",
+  "abilities": {
+    "p": [
+      "Short Fuse",
+      "Periodically, Ziggs' next basic attack deals bonus magic damage. This cooldown is reduced whenever Ziggs uses an ability."
+    ],
+    "q": [
+      "Bouncing Bomb",
+      "Ziggs throws a bouncing bomb that deals magic damage."
+    ],
+    "w": [
+      "Satchel Charge",
+      "Ziggs flings an explosive charge that detonates after 4 seconds, or when this ability is activated again. The explosion deals magic damage to enemies, knocking them away. Ziggs is also knocked away, but takes no damage. Ziggs can use the Satchel to hexplode vulnerable enemy turrets."
+    ],
+    "e": [
+      "Hexplosive Minefield",
+      "Ziggs scatters proximity mines that detonate on enemy contact, dealing magic damage and slowing. Successive mine detonations on the same target deal reduced damage."
+    ],
+    "r": [
+      "Mega Inferno Bomb",
+      "Ziggs deploys his ultimate creation, the Mega Inferno Bomb, hurling it an enormous distance. Enemies in the primary blast zone take more damage than those farther away."
+    ]
+  }
+}

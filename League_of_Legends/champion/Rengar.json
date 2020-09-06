@@ -1,0 +1,26 @@
+{
+  "display_name": "Rengar",
+  "name": "Rengar",
+  "abilities": {
+    "p": [
+      "Unseen Predator",
+      "While in brush, Rengar leaps at his target with his basic attack. Leaping while at no Ferocity generates Ferocity.  At Max Ferocity, his next ability is empowered. Casting an empowered ability increases Rengar's Movement Speed for a few seconds.  Killing enemy champions awards trophies on Rengar's Bonetooth Necklace, granting bonus attack damage."
+    ],
+    "q": [
+      "Savagery",
+      "Rengar's next attack brutally stabs his target for bonus damage.  Ferocity effect: deals increased damage and grants Attack Speed."
+    ],
+    "w": [
+      "Battle Roar",
+      "Rengar lets out a battle roar, damaging enemies and healing for some of the recent damage he has taken.  Ferocity effect: additionally breaks crowd control effects."
+    ],
+    "e": [
+      "Bola Strike",
+      "Rengar throws a bola, slowing the first target hit for a short duration.  Ferocity effect: roots the target."
+    ],
+    "r": [
+      "Thrill of the Hunt",
+      "Rengar's predatory instincts take over, Camouflaging him and revealing the nearest enemy champion in a large radius around him. During Thrill of the Hunt, Rengar gains Movement Speed and he can leap to the tracked enemy without being in brush, reducing their armor."
+    ]
+  }
+}

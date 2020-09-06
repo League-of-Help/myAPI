@@ -1,0 +1,26 @@
+{
+  "display_name": "Xin Zhao",
+  "name": "Xin-Zhao",
+  "abilities": {
+    "p": [
+      "Determination",
+      "Every third attack deals bonus damage and heals Xin Zhao."
+    ],
+    "q": [
+      "Three Talon Strike",
+      "Xin Zhao's next 3 standard attacks deal increased damage with the third attack knocking an opponent into the air."
+    ],
+    "w": [
+      "Wind Becomes Lightning",
+      "Xin Zhao slashes in front of himself with his spear, then thrusts it forward, slowing affected enemies."
+    ],
+    "e": [
+      "Audacious Charge",
+      "Xin Zhao charges to an enemy, dealing damage to all enemies in the area and slowing them briefly."
+    ],
+    "r": [
+      "Crescent Guard",
+      "Xin Zhao deals damage to nearby enemies based on their current Health and knocks non-challenged targets back. Xin Zhao is impervious to damage dealt by champions outside of the circle created."
+    ]
+  }
+}

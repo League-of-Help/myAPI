@@ -1,0 +1,26 @@
+{
+  "display_name": "Sylas",
+  "name": "Sylas",
+  "abilities": {
+    "p": [
+      "Petricite Burst",
+      "After casting a spell, Sylas stores a charge of Petricite Burst.  Sylas's basic attacks will expend a charge and whirl his energized chains around him dealing bonus magic damage to enemies hit. While Sylas has a charge of Petricite Burst, he gains attack speed. "
+    ],
+    "q": [
+      "Chain Lash",
+      "Sylas lashes his chains out, intersecting at his targeted location dealing damage to and slowing enemies.   After a delay, magical energy explodes from the intersection point dealing damage."
+    ],
+    "w": [
+      "Kingslayer",
+      "Sylas lunges at an enemy with magical force dealing execute based damage and healing himself against enemy champions."
+    ],
+    "e": [
+      "Abscond / Abduct",
+      "Sylas dashes to a location. Sylas can recast the ability to throw his chains out, pulling himself to an enemy he hits."
+    ],
+    "r": [
+      "Hijack",
+      "Sylas steals the enemy's ultimate ability and can cast it freely."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Lucian",
+  "name": "Lucian",
+  "abilities": {
+    "p": [
+      "Lightslinger",
+      "Whenever Lucian uses an ability, his next attack becomes a double-shot."
+    ],
+    "q": [
+      "Piercing Light",
+      "Lucian shoots a bolt of piercing light through a target."
+    ],
+    "w": [
+      "Ardent Blaze",
+      "Lucian shoots a missile that explodes in a star shape, marking and briefly revealing enemies. Lucian gains Movement Speed for attacking marked enemies."
+    ],
+    "e": [
+      "Relentless Pursuit",
+      "Lucian quickly dashes a short distance. Lightslinger attacks reduce Relentless Pursuit's cooldown."
+    ],
+    "r": [
+      "The Culling",
+      "Lucian unleashes a torrent of shots from his weapons."
+    ]
+  }
+}

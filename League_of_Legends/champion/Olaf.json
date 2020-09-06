@@ -1,0 +1,26 @@
+{
+  "display_name": "Olaf",
+  "name": "Olaf",
+  "abilities": {
+    "p": [
+      "Berserker Rage",
+      "Olaf's Attack Speed is increased by 1% for each 1% of his Health he is missing."
+    ],
+    "q": [
+      "Undertow",
+      "Olaf throws an axe into the ground at a target location, dealing damage to enemies it passes through and slowing their Movement Speed. If Olaf picks up the axe, the ability's cooldown is reduced by 4.5 seconds."
+    ],
+    "w": [
+      "Vicious Strikes",
+      "Olaf's Attack Speed is increased, he gains Life Steal and has increased healing from all sources based on how much Health he is missing."
+    ],
+    "e": [
+      "Reckless Swing",
+      "Olaf attacks with such force that it deals true damage to his target and himself, refunding the Health cost if he destroys the target."
+    ],
+    "r": [
+      "Ragnarok",
+      "Olaf temporarily becomes immune to disables."
+    ]
+  }
+}

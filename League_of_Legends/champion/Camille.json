@@ -1,0 +1,26 @@
+{
+  "display_name": "Camille",
+  "name": "Camille",
+  "abilities": {
+    "p": [
+      "Adaptive Defenses",
+      "Basic attacks on champions grant a shield equal to 20% of Camille's maximum health against their damage type (Physical or Magic) for a brief duration."
+    ],
+    "q": [
+      "Precision Protocol",
+      "Camille's next attack deals bonus damage and grants bonus movement speed. This spell can be recast for a short period of time, doing significantly increased bonus damage if Camille delays a period of time between the two attacks."
+    ],
+    "w": [
+      "Tactical Sweep",
+      "Camille blasts in a cone after a delay, dealing damage. Enemies in the outer half are slowed and take extra damage, while also healing Camille."
+    ],
+    "e": [
+      "Hookshot",
+      "Camille pulls herself to a wall, leaping off and knocking up enemy champions upon landing."
+    ],
+    "r": [
+      "The Hextech Ultimatum",
+      "Camille dashes to target champion, anchoring them to the area. She also deals bonus magic damage to the target with her basic attacks."
+    ]
+  }
+}

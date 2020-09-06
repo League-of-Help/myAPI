@@ -1,0 +1,26 @@
+{
+  "display_name": "Graves",
+  "name": "Graves",
+  "abilities": {
+    "p": [
+      "New Destiny",
+      "Graves's shotgun holds two shells. After firing them he must reload. Each attack fires several bullets in a cone. Hitting an enemy with multiple bullets does bonus damage. These bullets cannot pass through units."
+    ],
+    "q": [
+      "End of the Line",
+      "Graves fires an explosive shell that detonates after 2 seconds, or 0.2 seconds if it strikes terrain."
+    ],
+    "w": [
+      "Smoke Screen",
+      "Graves fires a smoke canister at the target area creating a cloud of smoke that reduces sight range. Enemies caught in the initial impact are dealt magic damage and have their movement speed reduced briefly."
+    ],
+    "e": [
+      "Quickdraw",
+      "Graves dashes forward gaining an Armor boost for several seconds. If Graves dashes towards an enemy champion, gain two stacks of True Grit instead. Hitting enemies with basic attacks lowers the cooldown of this skill and refreshes the resistance boost."
+    ],
+    "r": [
+      "Collateral Damage",
+      "Graves fires an explosive shell dealing heavy damage to the first champion it hits. After hitting a champion or reaching the end of its range, the shell explodes dealing damage in a cone."
+    ]
+  }
+}

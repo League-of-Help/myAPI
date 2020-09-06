@@ -1,0 +1,26 @@
+{
+  "display_name": "Morgana",
+  "name": "Morgana",
+  "abilities": {
+    "p": [
+      "Soul Siphon",
+      "Morgana drains spirit from her enemies, healing as she deals damage to champions, large minions, and large monsters."
+    ],
+    "q": [
+      "Dark Binding",
+      "Morgana binds an enemy in place with dark magic, forcing them to feel the pain they've caused and dealing magic damage. "
+    ],
+    "w": [
+      "Tormented Shadow",
+      "Morgana casts a cursed shadow on an area, damaging enemies who dare stand in her dark circle. They receive magic damage over time, which increases the lower health they are."
+    ],
+    "e": [
+      "Black Shield",
+      "Morgana anoints an ally with a protective barrier of starfire, which absorbs magical damage and disabling effects until it is broken."
+    ],
+    "r": [
+      "Soul Shackles",
+      "Morgana unleashes the full force of her Celestial power as she unbinds her wings and hovers above the ground. She lashes chains of dark pain onto nearby enemy champions, gaining movement speed towards them. The chains slow and deal initial damage and, after a delay, stun those who are unable to break them."
+    ]
+  }
+}

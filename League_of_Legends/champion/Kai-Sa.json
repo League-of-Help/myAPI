@@ -1,0 +1,26 @@
+{
+  "display_name": "Kai'Sa",
+  "name": "Kai-Sa",
+  "abilities": {
+    "p": [
+      "Second Skin",
+      "Kai'Sa's basic attacks stack Plasma, dealing increasing bonus magic damage. Allies' immobilizing effects help stack Plasma. Additionally, Kai'Sa's item purchases upgrade her basic spells to have more powerful properties."
+    ],
+    "q": [
+      "Icathian Rain",
+      "Kai'Sa shoots a swarm of missiles that seek out nearby targets.  Living Weapon: Icathian Rain is upgraded to shoot more missiles."
+    ],
+    "w": [
+      "Void Seeker",
+      "Kai'Sa shoots a long range missile, marking enemies with her passive.  Living Weapon: Void Seeker is upgraded to apply more passive marks and reduce cooldown on champion hit."
+    ],
+    "e": [
+      "Supercharge",
+      "Kai'Sa briefly increases her movement speed, then increases her attack speed.  Living Weapon: Supercharge is upgraded to briefly grant Invisibility."
+    ],
+    "r": [
+      "Killer Instinct",
+      "Kai'Sa dashes near an enemy champion."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Irelia",
+  "name": "Irelia",
+  "abilities": {
+    "p": [
+      "Ionian Fervor",
+      "When Irelia strikes enemies with spells she gains stacking bonus Attack Speed. At maximum stacks she also gains bonus damage on hit."
+    ],
+    "q": [
+      "Bladesurge",
+      "Irelia dashes forward to strike her target, healing herself. If the target is Marked or dies to Bladesurge, its cooldown refreshes."
+    ],
+    "w": [
+      "Defiant Dance",
+      "Irelia charges a strike that deals more damage as she charges. She takes reduced physical damage during the charge."
+    ],
+    "e": [
+      "Flawless Duet",
+      "Irelia sends out two blades which converge on each other. Enemies caught in between are damaged, stunned and Marked."
+    ],
+    "r": [
+      "Vanguard's Edge",
+      "Irelia fires a massive number of blades that explode outward upon hitting an enemy champion. Enemies hit by the blades are damaged and Marked. Afterwards the blades form a wall that will damage and slow enemies that walk through it."
+    ]
+  }
+}

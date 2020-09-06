@@ -1,0 +1,26 @@
+{
+  "display_name": "Ahri",
+  "name": "Ahri",
+  "abilities": {
+    "p": [
+      "Vastayan Grace",
+      "Whenever Ahri's spells hit a champion 2 times within a short period, she briefly gains movement speed."
+    ],
+    "q": [
+      "Orb of Deception",
+      "Ahri sends out and pulls back her orb, dealing magic damage on the way out and true damage on the way back. After earning several spell hits, Ahri's next orb hits will restore her health."
+    ],
+    "w": [
+      "Fox-Fire",
+      "Ahri releases three fox-fires, that lock onto and attack nearby enemies."
+    ],
+    "e": [
+      "Charm",
+      "Ahri blows a kiss that damages and charms an enemy it encounters, instantly stopping movement abilities and causing them to walk harmlessly towards her. The target temporarily takes increased damage from Ahri."
+    ],
+    "r": [
+      "Spirit Rush",
+      "Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown."
+    ]
+  }
+}

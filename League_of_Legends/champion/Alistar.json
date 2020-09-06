@@ -1,0 +1,26 @@
+{
+  "display_name": "Alistar",
+  "name": "Alistar",
+  "abilities": {
+    "p": [
+      "Triumphant Roar",
+      "Alistar charges his roar by stunning or displacing enemy champions or when nearby enemies die. When fully charged he heals himself all nearby allied champions."
+    ],
+    "q": [
+      "Pulverize",
+      "Alistar smashes the ground, dealing damage to nearby enemies and tossing them into the air."
+    ],
+    "w": [
+      "Headbutt",
+      "Alistar rams a target with his head, dealing damage and knocking the target back."
+    ],
+    "e": [
+      "Trample",
+      "Alistar tramples nearby enemy units, ignoring unit collision and gaining stacks if he damages an enemy champion. At full stacks Alistar's next basic attack against an enemy champion deals additional magic damage and stuns them."
+    ],
+    "r": [
+      "Unbreakable Will",
+      "Alistar lets out a wild roar, removing all crowd control effects on himself, and reducing incoming physical and magical damage for the duration."
+    ]
+  }
+}

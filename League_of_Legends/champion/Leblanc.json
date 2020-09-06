@@ -1,0 +1,26 @@
+{
+  "display_name": "Leblanc",
+  "name": "Leblanc",
+  "abilities": {
+    "p": [
+      "Mirror Image",
+      "When LeBlanc drops below 40% health, she becomes invisible for 1 second and creates a Mirror Image that deals no damage and lasts for up to 8 seconds."
+    ],
+    "q": [
+      "Sigil of Malice",
+      "LeBlanc projects a sigil, dealing damage and marking the target for 3.5 seconds. Damaging the marked target with an ability detonates the sigil, dealing additional damage."
+    ],
+    "w": [
+      "Distortion",
+      "LeBlanc dashes to a location, dealing damage to enemies near her destination. For the next 4 seconds, activate Distortion again to return LeBlanc to her starting location."
+    ],
+    "e": [
+      "Ethereal Chains",
+      "LeBlanc launches a chain that shackles the first enemy hit. If the target remains shackled for 1.5 seconds, LeBlanc roots them and deals additional damage."
+    ],
+    "r": [
+      "Mimic",
+      "LeBlanc casts a mimicked version of one of her basic spells."
+    ]
+  }
+}

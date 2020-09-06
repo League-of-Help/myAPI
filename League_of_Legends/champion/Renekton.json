@@ -1,0 +1,26 @@
+{
+  "display_name": "Renekton",
+  "name": "Renekton",
+  "abilities": {
+    "p": [
+      "Reign of Anger",
+      "Renekton's attacks generate Fury, increased when he is low on life. This Fury can empower his abilities with bonus effects."
+    ],
+    "q": [
+      "Cull the Meek",
+      "Renekton swings his blade, dealing moderate physical damage to all targets around him, and heals for a small portion of the damage dealt. If he has more than 50 Fury, his damage and heal are increased."
+    ],
+    "w": [
+      "Ruthless Predator",
+      "Renekton slashes his target twice, dealing moderate physical damage and stuns them for 0.75 seconds. If Renekton has more than 50 Fury, he slashes his target three times, destroying damage shields on the target, dealing high physical damage, and stunning them for 1.5 seconds."
+    ],
+    "e": [
+      "Slice and Dice",
+      "Renekton dashes, dealing damage to units along the way. Empowered, Renekton deals bonus damage and reduces the Armor of units hit."
+    ],
+    "r": [
+      "Dominus",
+      "Renekton transforms into the Tyrant form, gaining bonus Health and dealing damage to enemies around him. While in this form, Renekton gains Fury periodically."
+    ]
+  }
+}

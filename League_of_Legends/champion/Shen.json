@@ -1,0 +1,26 @@
+{
+  "display_name": "Shen",
+  "name": "Shen",
+  "abilities": {
+    "p": [
+      "Ki Barrier",
+      "After casting a spell, Shen gets a shield. Affecting other champions reduces the cooldown of this effect."
+    ],
+    "q": [
+      "Twilight Assault",
+      "Shen recalls his spirit blade to attack with it, dealing damage based on the target's max health. The attacks are greatly empowered if it collides with an enemy champion, and all collided enemies are slowed while running away from Shen."
+    ],
+    "w": [
+      "Spirit's Refuge",
+      "Attacks that would hit Shen or his allies near his spirit blade are blocked."
+    ],
+    "e": [
+      "Shadow Dash",
+      "Shen dashes in a direction, taunting enemies in his path."
+    ],
+    "r": [
+      "Stand United",
+      "Shen shields target allied champion from incoming damage, and soon after teleports to their location."
+    ]
+  }
+}

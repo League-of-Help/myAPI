@@ -1,0 +1,26 @@
+{
+  "display_name": "Caitlyn",
+  "name": "Caitlyn",
+  "abilities": {
+    "p": [
+      "Headshot",
+      "Every few basic attacks, or against a target she has trapped or netted, Caitlyn will fire a headshot dealing bonus damage that scales with her critical strike chance. On trapped or netted targets, Caitlyn's Headshot attack range is doubled."
+    ],
+    "q": [
+      "Piltover Peacemaker",
+      "Caitlyn revs up her rifle for 1 second to unleash a penetrating shot that deals physical damage (deals less damage to subsequent targets)."
+    ],
+    "w": [
+      "Yordle Snap Trap",
+      "Caitlyn sets a trap to find sneaky yordles. When sprung, the trap reveals and immobilizes the enemy champion for 1.5 seconds, granting Caitlyn an empowered Headshot."
+    ],
+    "e": [
+      "90 Caliber Net",
+      "Caitlyn fires a heavy net to slow her target. The recoil knocks Caitlyn back."
+    ],
+    "r": [
+      "Ace in the Hole",
+      "Caitlyn takes time to line up the perfect shot, dealing massive damage to a single target at a huge range. Enemy champions can intercept the bullet for their ally."
+    ]
+  }
+}

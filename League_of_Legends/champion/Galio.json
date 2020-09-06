@@ -1,0 +1,26 @@
+{
+  "display_name": "Galio",
+  "name": "Galio",
+  "abilities": {
+    "p": [
+      "Colossal Smash",
+      "Every few seconds, Galio's next basic attack deals bonus magic damage in an area."
+    ],
+    "q": [
+      "Winds of War",
+      "Galio fires two windblasts that converge into a large tornado that deals damage over time."
+    ],
+    "w": [
+      "Shield of Durand",
+      "Galio charges a defensive stance, moving slowly. Upon releasing the charge, Galio will taunt and damage nearby enemies."
+    ],
+    "e": [
+      "Justice Punch",
+      "Galio will briefly step back and charge, knocking up the first enemy champion he encounters."
+    ],
+    "r": [
+      "Hero's Entrance",
+      "Galio designates an ally's position as his landing spot, granting all allies in the area a magic shield. After a delay Galio smashes down location, knocking up nearby enemies."
+    ]
+  }
+}

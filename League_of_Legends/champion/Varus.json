@@ -1,0 +1,26 @@
+{
+  "display_name": "Varus",
+  "name": "Varus",
+  "abilities": {
+    "p": [
+      "Living Vengeance",
+      "On kill or assist, Varus temporarily gains Attack Speed. This bonus is larger if the enemy is a champion."
+    ],
+    "q": [
+      "Piercing Arrow",
+      "Varus readies and then fires a powerful shot that gains extra range and damage the longer he spends preparing to fire."
+    ],
+    "w": [
+      "Blighted Quiver",
+      "Passive: Varus' basic attacks deal bonus magic damage and apply Blight. Varus' other abilities detonate Blight, dealing magic damage based on the target's maximum Health. Active: Varus empowers his next Piercing Arrow."
+    ],
+    "e": [
+      "Hail of Arrows",
+      "Varus fires a hail of arrows that deal physical damage and desecrate the ground. Desecrated ground slows enemies' Movement Speed and reduces their self healing and regeneration."
+    ],
+    "r": [
+      "Chain of Corruption",
+      "Varus flings out a damaging tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact."
+    ]
+  }
+}

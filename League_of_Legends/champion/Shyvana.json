@@ -1,0 +1,26 @@
+{
+  "display_name": "Shyvana",
+  "name": "Shyvana",
+  "abilities": {
+    "p": [
+      "Fury of the Dragonborn",
+      "Shyvana deals bonus damage to dragons and gains Armor and Magic Resistance. As Shyvana and her allies slay more dragons, she gains more bonus Armor and Magic Resistance."
+    ],
+    "q": [
+      "Twin Bite",
+      "Shyvana strikes twice on her next attack. Basic attacks reduce the cooldown of Twin Bite by 0.5 seconds.  Dragon Form: Twin Bite cleaves all units in front of Shyvana."
+    ],
+    "w": [
+      "Burnout",
+      "Shyvana surrounds herself in fire, dealing magic damage per second to nearby enemies and moving faster for 3 seconds, part of this damage is applied again when Shyvana basic attacks an enemy with Burnout active. The Movement Speed reduces over the duration of the spell. Basic attacks extend the duration of Burnout.   Dragon Form: Burnout grows in size."
+    ],
+    "e": [
+      "Flame Breath",
+      "Shyvana unleashes a fireball that deals damage to all enemies it encounters and leaves cinders on the target, marking them for 5 seconds. Shyvana's basic attacks on marked targets deal a percentage of their maximum Health as damage on-hit.  Dragon Form: Flame Breath explodes on impact or at target location, dealing bonus damage and scorching the earth for a short duration."
+    ],
+    "r": [
+      "Dragon's Descent",
+      "Shyvana transforms into a dragon and takes flight to a target location. Enemies along her path take damage and are knocked toward her target location.  Shyvana passively gains Fury per second and gains 2 Fury on basic attack."
+    ]
+  }
+}

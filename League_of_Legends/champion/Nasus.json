@@ -1,0 +1,26 @@
+{
+  "display_name": "Nasus",
+  "name": "Nasus",
+  "abilities": {
+    "p": [
+      "Soul Eater",
+      "Nasus drains his foe's spiritual energy, giving him bonus Life Steal."
+    ],
+    "q": [
+      "Siphoning Strike",
+      "Nasus strikes his foe, dealing damage and increasing the power of his future Siphoning Strikes if he slays his target."
+    ],
+    "w": [
+      "Wither",
+      "Nasus ages an enemy champion, decelerating their Movement and Attack Speeds over time."
+    ],
+    "e": [
+      "Spirit Fire",
+      "Nasus unleashes a spirit flame at a location, dealing damage and reducing the Armor of enemies who stand on it."
+    ],
+    "r": [
+      "Fury of the Sands",
+      "Nasus unleashes a mighty sandstorm that batters nearby enemies. While the storm rages, he gains increased Health, Attack Range, damages nearby enemies, has a reduced cooldown on Siphoning Strike, and gains bonus Armor and Magic Resistance for the duration."
+    ]
+  }
+}

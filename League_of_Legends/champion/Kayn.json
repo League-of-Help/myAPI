@@ -1,0 +1,26 @@
+{
+  "display_name": "Kayn",
+  "name": "Kayn",
+  "abilities": {
+    "p": [
+      "The Darkin Scythe",
+      "Kayn wields an ancient weapon and fights Rhaast, the darkin within it, for control. Either the Darkin will triumph, or Kayn will master Rhaast and become the Shadow Assassin.  Darkin: Heal for a percentage of spell damage dealt to champions.  Shadow Assassin: For the first few seconds in combat with enemy champions, deal bonus damage."
+    ],
+    "q": [
+      "Reaping Slash",
+      "Kayn dashes, then slashes. Both deal damage."
+    ],
+    "w": [
+      "Blade's Reach",
+      "Kayn damages and slows targets in a line."
+    ],
+    "e": [
+      "Shadow Step",
+      "Kayn can walk through terrain."
+    ],
+    "r": [
+      "Umbral Trespass",
+      "Kayn hides in an enemy's body, dealing massive damage when he bursts out."
+    ]
+  }
+}

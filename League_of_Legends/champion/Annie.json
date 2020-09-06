@@ -1,0 +1,26 @@
+{
+  "display_name": "Annie",
+  "name": "Annie",
+  "abilities": {
+    "p": [
+      "Pyromania",
+      "After casting 4 spells, Annie's next offensive spell will stun the target."
+    ],
+    "q": [
+      "Disintegrate",
+      "Annie hurls a Mana infused fireball, dealing damage and refunding the Mana cost if it destroys the target."
+    ],
+    "w": [
+      "Incinerate",
+      "Annie casts a blazing cone of fire, dealing damage to all enemies in the area."
+    ],
+    "e": [
+      "Molten Shield",
+      "Grants Annie increased percentage Damage Reduction, a burst of Movement Speed, and damages enemies who attack her with basic attacks."
+    ],
+    "r": [
+      "Summon: Tibbers",
+      "Annie wills her bear Tibbers to life, dealing damage to units in the area. Tibbers can attack and also burns enemies that stand near him."
+    ]
+  }
+}

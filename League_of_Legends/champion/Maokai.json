@@ -1,0 +1,26 @@
+{
+  "display_name": "Maokai",
+  "name": "Maokai",
+  "abilities": {
+    "p": [
+      "Sap Magic",
+      "Maokai's basic attack also heal him on a moderate cooldown. Each time Maokai casts a spell or is struck by an enemy's spell, this cooldown is reduced."
+    ],
+    "q": [
+      "Bramble Smash",
+      "Maokai knocks back nearby enemies with a shockwave, dealing magic damage and slowing them."
+    ],
+    "w": [
+      "Twisted Advance",
+      "Maokai contorts into a mass of moving roots, becoming untargetable and dashing to the target. Upon arrival, he roots the target."
+    ],
+    "e": [
+      "Sapling Toss",
+      "Maokai flings a sapling to the target area to stand guard. More effective in brush."
+    ],
+    "r": [
+      "Nature's Grasp",
+      "Maokai summons a colossal wall of brambles and thorns that slowly advances forwards, damaging and rooting any enemies in the path."
+    ]
+  }
+}

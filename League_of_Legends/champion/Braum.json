@@ -1,0 +1,26 @@
+{
+  "display_name": "Braum",
+  "name": "Braum",
+  "abilities": {
+    "p": [
+      "Concussive Blows",
+      "Braum's basic attacks apply Concussive Blows. Once the first stack is applied, ally basic attacks also stack Concussive Blows.   Upon reaching 4 stacks, the target is stunned and takes magic damage. For the next few seconds they cannot receive new stacks, but take bonus magic damage from Braum's attacks."
+    ],
+    "q": [
+      "Winter's Bite",
+      "Braum propels freezing ice from his shield, slowing and dealing magic damage.  Applies a stack of Concussive Blows."
+    ],
+    "w": [
+      "Stand Behind Me",
+      "Braum leaps to a target allied champion or minion. On arrival, Braum and the ally gain Armor and Magic Resist for a few seconds."
+    ],
+    "e": [
+      "Unbreakable",
+      "Braum raises his shield in a direction for several seconds, intercepting all projectiles causing them to hit him and be destroyed. He negates the damage of the first attack completely and reduces the damage of all subsequent attacks from this direction."
+    ],
+    "r": [
+      "Glacial Fissure",
+      "Braum slams the ground, knocking up enemies nearby and in a line in front of him. A fissure is left along the line that slows enemies."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Tristana",
+  "name": "Tristana",
+  "abilities": {
+    "p": [
+      "Draw a Bead",
+      "Increases Tristana's Attack Range as she levels."
+    ],
+    "q": [
+      "Rapid Fire",
+      "Tristana fires her weapon rapidly, increasing her Attack Speed for a short time."
+    ],
+    "w": [
+      "Rocket Jump",
+      "Tristana fires at the ground to propel her to a distant location, dealing damage and slowing surrounding units for a brief period where she lands."
+    ],
+    "e": [
+      "Explosive Charge",
+      "When Tristana kills a unit, her cannonballs burst into shrapnel, dealing damage to surrounding enemies. Can be activated to place a bomb on a target enemy that explodes after a short duration dealing damage to surrounding units."
+    ],
+    "r": [
+      "Buster Shot",
+      "Tristana loads a massive cannonball into her weapon and fires it at an enemy unit. This deals Magic Damage and knocks the target back. If the target is carrying the Explosive Charge bomb, the bomb detonation radius is doubled."
+    ]
+  }
+}

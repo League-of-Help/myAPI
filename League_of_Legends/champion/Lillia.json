@@ -1,0 +1,26 @@
+{
+  "display_name": "Lillia",
+  "name": "Lillia",
+  "abilities": {
+    "p": [
+      "Dream-Laden Bough",
+      "Hitting a champion or monster with a skill will deal additional max Health damage over time."
+    ],
+    "q": [
+      "Blooming Blows",
+      "Passively, Lillia gains stacking Move Speed when hitting enemies with spells. She can activate this to deal magic damage to nearby enemies, dealing extra true damage on the edge."
+    ],
+    "w": [
+      "Watch Out! Eep!",
+      "Lillia deals damage in a nearby area, dealing heavy damage in the center."
+    ],
+    "e": [
+      "Swirlseed",
+      "Lillia hurls a seed that damages and slows those it lands on. If it doesn't hit anything, it will continue rolling until it hits a wall or target."
+    ],
+    "r": [
+      "Lilting Lullaby",
+      "Lillia causes all enemies with Dream Dust on them to become Drowsy before falling asleep. Those enemies will take extra damage on being forcibly woken up."
+    ]
+  }
+}

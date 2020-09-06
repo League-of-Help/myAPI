@@ -1,0 +1,26 @@
+{
+  "display_name": "Karthus",
+  "name": "Karthus",
+  "abilities": {
+    "p": [
+      "Death Defied",
+      "Upon dying, Karthus enters a spirit form that allows him to continue casting spells for 7 seconds."
+    ],
+    "q": [
+      "Lay Waste",
+      "Karthus unleashes a delayed blast at a location, dealing damage to nearby enemies. Deals increased damage to isolated enemies. "
+    ],
+    "w": [
+      "Wall of Pain",
+      "Karthus creates a passable screen of leeching energy. Any enemy units that walk through the screen have their Movement Speed and Magic Resist reduced for a period."
+    ],
+    "e": [
+      "Defile",
+      "Karthus passively steals energy from his victims, gaining Mana on each kill. Alternatively, Karthus can surround himself in the souls of his prey, dealing damage to nearby enemies, but quickly draining his own Mana."
+    ],
+    "r": [
+      "Requiem",
+      "After channeling for 3 seconds, Karthus deals damage to all enemy champions."
+    ]
+  }
+}

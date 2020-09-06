@@ -1,0 +1,26 @@
+{
+  "display_name": "Gangplank",
+  "name": "Gangplank",
+  "abilities": {
+    "p": [
+      "Trial by Fire",
+      "Every few seconds, Gangplank's melee strike will set his opponent on fire."
+    ],
+    "q": [
+      "Parrrley",
+      "Shoots target, plundering Gold for each enemy unit killed."
+    ],
+    "w": [
+      "Remove Scurvy",
+      "Eats citrus to cure crowd control effects and restore Health."
+    ],
+    "e": [
+      "Powder Keg",
+      "Gangplank uncovers a powder keg at target location. If he attacks it, it explodes, spreading the attack's damage to enemies in the area, slowing them."
+    ],
+    "r": [
+      "Cannon Barrage",
+      "Gangplank signals his ship to bombard an area, slowing and damaging enemies."
+    ]
+  }
+}

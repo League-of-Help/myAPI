@@ -1,0 +1,26 @@
+{
+  "display_name": "Vladimir",
+  "name": "Vladimir",
+  "abilities": {
+    "p": [
+      "Crimson Pact",
+      "Every 40 points of bonus Health gives Vladimir 1 Ability Power and every 1 point of Ability Power gives Vladimir 1.4 bonus Health (does not stack with itself)."
+    ],
+    "q": [
+      "Transfusion",
+      "Vladimir steals life from the target enemy. When Vladimir's resource is full, Transfusion will benefit from massively increased damage and healing for a brief time."
+    ],
+    "w": [
+      "Sanguine Pool",
+      "Vladimir sinks into a pool of blood, becoming untargetable for 2 seconds. Additionally, enemies on the pool are slowed and Vladimir siphons life from them."
+    ],
+    "e": [
+      "Tides of Blood",
+      "Vladimir pays his own health to charge up a reservoir of blood which, when released, deals damage in the area around him but can be blocked by enemy units."
+    ],
+    "r": [
+      "Hemoplague",
+      "Vladimir infects an area with a virulent plague. Affected enemies take increased damage for the duration. After a few seconds, Hemoplague deals magic damage to infected enemies and heals Vladimir for each enemy Champion hit."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Singed",
+  "name": "Singed",
+  "abilities": {
+    "p": [
+      "Noxious Slipstream",
+      "Singed drafts off nearby champions, gaining a burst of movement speed when passing them."
+    ],
+    "q": [
+      "Poison Trail",
+      "Leaves a trail of poison behind Singed, dealing damage to enemies caught in the path."
+    ],
+    "w": [
+      "Mega Adhesive",
+      "Throws a vial of mega adhesive on the ground, slowing and grounding enemies who walk on it."
+    ],
+    "e": [
+      "Fling",
+      "Damages target enemy unit and flings them into the air behind Singed. If the target Singed flings lands in his Mega Adhesive, they are also rooted."
+    ],
+    "r": [
+      "Insanity Potion",
+      "Singed drinks a potent brew of chemicals, granting him increased combat stats."
+    ]
+  }
+}

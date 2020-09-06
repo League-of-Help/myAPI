@@ -1,0 +1,26 @@
+{
+  "display_name": "Thresh",
+  "name": "Thresh",
+  "abilities": {
+    "p": [
+      "Damnation",
+      "Thresh can harvest the souls of enemies that die near him, permanently granting him Armor and Ability Power."
+    ],
+    "q": [
+      "Death Sentence",
+      "Thresh binds an enemy in chains and pulls them toward him. Activating this ability a second time pulls Thresh to the enemy."
+    ],
+    "w": [
+      "Dark Passage",
+      "Thresh throws out a lantern that shields nearby allied Champions from damage. Allies can click the lantern to dash to Thresh."
+    ],
+    "e": [
+      "Flay",
+      "Thresh's attacks wind up, dealing more damage the longer he waits between attacks. When activated, Thresh sweeps his chain, knocking all enemies hit in the direction of the blow."
+    ],
+    "r": [
+      "The Box",
+      "A prison of walls that slow and deal damage if broken."
+    ]
+  }
+}

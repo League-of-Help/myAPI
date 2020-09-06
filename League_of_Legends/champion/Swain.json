@@ -1,0 +1,26 @@
+{
+  "display_name": "Swain",
+  "name": "Swain",
+  "abilities": {
+    "p": [
+      "Ravenous Flock",
+      "Swain's ravens collect Soul Fragments that heal him and permanently increase his maximum health. Swain can right-click an immobilized enemy champions to pull them closer to him, dealing damage and ripping out a Soul Fragment."
+    ],
+    "q": [
+      "Death's Hand",
+      "Swain unleashes several bolts of eldritch power that pierce through enemies. Enemies hit take more damage for each bolt they are struck by."
+    ],
+    "w": [
+      "Vision of Empire",
+      "Swain opens a demon eye that deals damage and slows enemies. Champions hit are revealed and also grant Swain a Soul Fragment."
+    ],
+    "e": [
+      "Nevermove",
+      "Swain launches a wave of demonic power forward. It then returns to Swain and roots enemies it hits."
+    ],
+    "r": [
+      "Demonic Ascension",
+      "Swain transforms into a demon and drains health from nearby enemy champions, minions, and neutral monsters. Swain can cast Demonflare to decimate nearby enemies with a nova of soulfire, dealing damage equal to a portion of the health he drained and ending his transformation."
+    ]
+  }
+}

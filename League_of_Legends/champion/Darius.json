@@ -1,0 +1,26 @@
+{
+  "display_name": "Darius",
+  "name": "Darius",
+  "abilities": {
+    "p": [
+      "Hemorrhage",
+      "Darius's attacks and damaging abilities cause enemies to bleed for physical damage over 5 seconds, stacking up to 5 times."
+    ],
+    "q": [
+      "Decimate",
+      "Darius winds up and swings his axe in a wide circle. Enemies struck by the blade take more damage than those struck by the handle. Darius heals based on enemy champions and large monsters hit by the blade."
+    ],
+    "w": [
+      "Crippling Strike",
+      "Darius's next attack strikes an enemy's crucial artery. As they bleed out, their Movement Speed is slowed."
+    ],
+    "e": [
+      "Apprehend",
+      "Darius hones his axe, passively causing his physical damage to ignore a percentage of his target's Armor. When activated, Darius sweeps up his enemies with his axe's hook and pulls them to him."
+    ],
+    "r": [
+      "Noxian Guillotine",
+      "Darius leaps to an enemy champion and strikes a lethal blow, dealing true damage. This damage is increased for each stack of Hemorrhage on the target. If Noxian Guillotine is a killing blow, its cooldown is refreshed for a brief duration."
+    ]
+  }
+}

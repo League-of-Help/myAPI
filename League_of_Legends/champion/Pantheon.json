@@ -1,0 +1,26 @@
+{
+  "display_name": "Pantheon",
+  "name": "Pantheon",
+  "abilities": {
+    "p": [
+      "Mortal Will",
+      "Every few spells or attacks, Pantheon's next spell is empowered."
+    ],
+    "q": [
+      "Comet Spear",
+      "Pantheon either thrusts his spear or throws his spear in the chosen direction."
+    ],
+    "w": [
+      "Shield Vault",
+      "Pantheon dashes to a target, damaging and stunning them."
+    ],
+    "e": [
+      "Aegis Assault",
+      "Pantheon sets his shield, becoming invulnerable to damage from the front and striking repeatedly with his spear."
+    ],
+    "r": [
+      "Grand Starfall",
+      "Pantheon composes himself and then leaps into the air, landing at a chosen location as a comet."
+    ]
+  }
+}

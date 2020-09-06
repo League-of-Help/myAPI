@@ -1,0 +1,26 @@
+{
+  "display_name": "Sejuani",
+  "name": "Sejuani",
+  "abilities": {
+    "p": [
+      "Fury of the North",
+      "After being out of combat, Sejuani gains Frost Armor which grants Armor and Magic Resist and immunity to slows. Frost Armor persists for a short time after Sejuani takes damage.  Sejuani can damage a stunned enemy to shatter it, dealing massive magic damage."
+    ],
+    "q": [
+      "Arctic Assault",
+      "Sejuani charges forward, knocking enemies into the air. The charge stops after hitting an enemy champion."
+    ],
+    "w": [
+      "Winter's Wrath",
+      "Sejuani swings her mace twice, dealing damage and applying Frost stacks."
+    ],
+    "e": [
+      "Permafrost",
+      "Sejuani freezes and stuns an enemy champion that has maximum Frost stacks."
+    ],
+    "r": [
+      "Glacial Prison",
+      "Sejuani throws her bola that freezes and stuns the first champion hit and creates an ice storm that slows other enemies."
+    ]
+  }
+}

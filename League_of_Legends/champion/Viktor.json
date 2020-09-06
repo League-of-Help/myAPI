@@ -1,0 +1,26 @@
+{
+  "display_name": "Viktor",
+  "name": "Viktor",
+  "abilities": {
+    "p": [
+      "Glorious Evolution",
+      "Viktor starts with the Prototype Hex Core that can be upgraded three times in the store to augment his abilities."
+    ],
+    "q": [
+      "Siphon Power",
+      "Viktor blasts an enemy unit dealing magic damage, gaining a shield and empowering his next basic attack.  Augment: Siphon Power's shield is increased by 60% and Viktor gains bonus Movement Speed after casting."
+    ],
+    "w": [
+      "Gravity Field",
+      "Viktor conjures a heavy gravitational field that slows enemies in its radius. Enemies who stay within the device for too long are stunned.  Augment: Enemies stunned by Gravity Field are dragged to the center."
+    ],
+    "e": [
+      "Death Ray",
+      "Viktor uses his robotic arm to fire a chaos beam that cuts across the field in a line, dealing damage to all enemies in its path.  Augment: An explosion follows the Death Ray's wake, dealing magic damage."
+    ],
+    "r": [
+      "Chaos Storm",
+      "Viktor conjures a singularity on the field which deals magic damage and interrupts enemy channels. The singularity then periodically does magic damage to all nearby enemies. Viktor can redirect the singularity.  Augment: The Chaos Storm moves 25% faster."
+    ]
+  }
+}

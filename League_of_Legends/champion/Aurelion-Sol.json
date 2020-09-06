@@ -1,0 +1,26 @@
+{
+  "display_name": "Aurelion Sol",
+  "name": "Aurelion-Sol",
+  "abilities": {
+    "p": [
+      "Center of the Universe",
+      "Stars orbit Aurelion Sol, dealing magic damage when they hit an enemy."
+    ],
+    "q": [
+      "Starsurge",
+      "Aurelion Sol creates an expanding disk, which explodes to stun and damage enemies when it moves too far away from him."
+    ],
+    "w": [
+      "Celestial Expansion",
+      "Aurelion Sol pushes his stars farther out, increasing their damage and speed."
+    ],
+    "e": [
+      "Comet of Legend",
+      "Aurelion Sol takes off flying for a long distance."
+    ],
+    "r": [
+      "Voice of Light",
+      "Aurelion Sol projects a blast of pure starfire, damaging and slowing all enemies caught in it and knocking nearby enemies back to a safer distance."
+    ]
+  }
+}

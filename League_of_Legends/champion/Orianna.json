@@ -1,0 +1,26 @@
+{
+  "display_name": "Orianna",
+  "name": "Orianna",
+  "abilities": {
+    "p": [
+      "Clockwork Windup",
+      "Orianna's autoattack deals additional magic damage. This damage increases the more Orianna attacks the same target."
+    ],
+    "q": [
+      "Command: Attack",
+      "Orianna commands her Ball to fire toward a target location, dealing magic damage to targets along the way (deals less damage to subsequent targets). Her Ball remains at the target location after."
+    ],
+    "w": [
+      "Command: Dissonance",
+      "Orianna commands the Ball to release a pulse of energy, dealing magic damage around it. This leaves a field behind that speeds up allies and slows enemies."
+    ],
+    "e": [
+      "Command: Protect",
+      "Orianna commands her Ball to attach to an allied champion, shielding them and dealing magic damage to any enemies it passes through on the way. Additionally, the Ball grants additional Armor and Magic Resist to the champion it is attached to."
+    ],
+    "r": [
+      "Command: Shockwave",
+      "Orianna commands her Ball to unleash a shockwave, dealing magic damage and launching nearby enemies towards the Ball after a short delay."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display_name": "Corki",
+  "name": "Corki",
+  "abilities": {
+    "p": [
+      "Hextech Munitions",
+      "Corki's basic attack deals a percentage of their damage as magic instead of physical. Every once in a while, The Package arrives in Corki's base to be picked up, temporarily granting him out of combat Movement Speed and upgrading Valkyrie into Special Delivery."
+    ],
+    "q": [
+      "Phosphorus Bomb",
+      "Corki fires a flash bomb at a target location, dealing magic damage to enemies in the area. This attack additionally reveals units in the area for a duration."
+    ],
+    "w": [
+      "Valkyrie",
+      "Corki flies a short distance, dropping bombs that create a trail of fire that damages opponents who remain in it."
+    ],
+    "e": [
+      "Gatling Gun",
+      "Corki's gatling gun rapidly fires in a cone in front of him, dealing damage and reducing enemy Armor and Magic Resist."
+    ],
+    "r": [
+      "Missile Barrage",
+      "Corki fires a missile toward his target location that explodes on impact, dealing damage to enemies in an area. Corki stores missiles over time, up to a maximum. Every 3rd missile fired will be a Big One, dealing extra damage."
+    ]
+  }
+}

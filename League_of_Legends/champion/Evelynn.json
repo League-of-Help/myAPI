@@ -1,0 +1,26 @@
+{
+  "display_name": "Evelynn",
+  "name": "Evelynn",
+  "abilities": {
+    "p": [
+      "Demon Shade",
+      "When out of combat, Evelynn enters Demon Shade. Demon Shade heals Evelynn when she is low on health and grants Camouflage after level 6."
+    ],
+    "q": [
+      "Hate Spike",
+      "Evelynn strikes out with her Lasher, dealing damage to the first unit hit. Then, Evelynn can shoot a line of spikes at nearby foes up to 3 times."
+    ],
+    "w": [
+      "Allure",
+      "Evelynn curses her target, causing her next attack or spell after a delay to charm her target and reduce their magic resist."
+    ],
+    "e": [
+      "Whiplash",
+      "Evelynn whips her target with her Lasher, dealing damage. She then gains movement speed for a short duration."
+    ],
+    "r": [
+      "Last Caress",
+      "Evelynn briefly goes untargetable and decimates the area in front of her before warping backwards a long distance."
+    ]
+  }
+}

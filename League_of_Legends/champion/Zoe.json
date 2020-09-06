@@ -1,0 +1,26 @@
+{
+  "display_name": "Zoe",
+  "name": "Zoe",
+  "abilities": {
+    "p": [
+      "More Sparkles!",
+      "Zoe's next basic attack after casting a spell deals bonus magic damage."
+    ],
+    "q": [
+      "Paddle Star!",
+      "Zoe fires a missile that she can redirect in flight. Deals more damage the longer it flies in a straight line."
+    ],
+    "w": [
+      "Spell Thief",
+      "Zoe can pick up the remnants of enemy summoner spell and active item casts and cast them once herself. Whenever she casts a summoner spell, she gains 3 missiles that fire at the nearest target."
+    ],
+    "e": [
+      "Sleepy Trouble Bubble",
+      "Causes the target to become drowsy, then fall asleep. The first source of damage that breaks the sleep is doubled, up to a cap."
+    ],
+    "r": [
+      "Portal Jump",
+      "Blink to a nearby position for 1 second. Then blink back."
+    ]
+  }
+}

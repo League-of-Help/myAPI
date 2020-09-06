@@ -1,0 +1,26 @@
+{
+  "display_name": "Zilean",
+  "name": "Zilean",
+  "abilities": {
+    "p": [
+      "Time In A Bottle",
+      "Zilean stores time as Experience.   When he has enough Experience to finish an ally's level, he can right-click them to impart it. Zilean receives as much Experience as he gives. Cannot be used in combat."
+    ],
+    "q": [
+      "Time Bomb",
+      "Tosses a bomb to target area that sticks to units that come near it (prioritizes Champions). It detonates after 3 seconds, dealing area of effect damage. If a Time Bomb is detonated early by another Time Bomb, it also stuns enemies."
+    ],
+    "w": [
+      "Rewind",
+      "Zilean can prepare himself for future confrontations, reducing the cooldowns of his other basic abilities."
+    ],
+    "e": [
+      "Time Warp",
+      "Zilean bends time around any unit, decreasing an enemy's Movement Speed or increasing an ally's Movement Speed for a short time."
+    ],
+    "r": [
+      "Chronoshift",
+      "Zilean places a protective time rune on an allied champion, teleporting the champion back in time if they take lethal damage."
+    ]
+  }
+}

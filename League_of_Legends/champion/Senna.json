@@ -1,0 +1,26 @@
+{
+  "display_name": "Senna",
+  "name": "Senna",
+  "abilities": {
+    "p": [
+      "Absolution",
+      "When units die near Senna, their souls are periodically trapped by the Black Mist. Senna can attack these souls to free them, absorbing the Mist that held them in death. Mist fuels her Relic Cannon's power with increased Attack Damage, Attack Range, and Critical Strike Chance.   Attacks from Senna's Relic Cannon take longer to fire, deals bonus damage , and briefly grant her a portion of her target's Movement Speed."
+    ],
+    "q": [
+      "Piercing Darkness",
+      "From the twin barrels of her Relic Cannon, Senna fires a unified beam of light and shadow through a target, healing allies and damaging enemies."
+    ],
+    "w": [
+      "Last Embrace",
+      "Senna sends forth a wave of Black Mist. If it hits an enemy it latches onto them hungrily, rooting them and everything nearby after a brief delay."
+    ],
+    "e": [
+      "Curse of the Black Mist",
+      "Senna draws the Mist she has stored in her weapon into a storm around her, embracing darkness and becoming a wraith within. Allies who enter the area are camouflaged and also appear as wraiths as the Mist shrouds them. Wraiths gain increased movement speed, are unselectable, and hide their identities."
+    ],
+    "r": [
+      "Dawning Shadow",
+      "Senna calls upon the relic stones of fallen Sentinels, splitting her relic cannon into a holy array of shadow and light. She then fires a global beam that shields allies from harm, while damaging enemies caught in the center."
+    ]
+  }
+}

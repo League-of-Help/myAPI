@@ -1,0 +1,26 @@
+{
+  "display_name": "Sivir",
+  "name": "Sivir",
+  "abilities": {
+    "p": [
+      "Fleet of Foot",
+      "Sivir gains a short burst of Movement Speed when she attacks an enemy champion."
+    ],
+    "q": [
+      "Boomerang Blade",
+      "Sivir hurls her crossblade like a boomerang, dealing damage each way."
+    ],
+    "w": [
+      "Ricochet",
+      "Sivir's next few basic attacks will bounce to nearby targets, dealing reduced damage to secondary targets."
+    ],
+    "e": [
+      "Spell Shield",
+      "Creates a magical barrier that blocks a single enemy ability cast on Sivir. She receives Mana back if a spell is blocked."
+    ],
+    "r": [
+      "On The Hunt",
+      "Sivir leads her allies in battle, granting them a surge Movement Speed for a period of time. Additionally passively grants Sivir bonus Attack Speed while Ricochet is active."
+    ]
+  }
+}

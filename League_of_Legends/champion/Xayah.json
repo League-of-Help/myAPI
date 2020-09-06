@@ -1,0 +1,26 @@
+{
+  "display_name": "Xayah",
+  "name": "Xayah",
+  "abilities": {
+    "p": [
+      "Clean Cuts",
+      "After using an ability, Xayah's next basic attacks will hit all targets along their path and leave a Feather."
+    ],
+    "q": [
+      "Double Daggers",
+      "Xayah throws two damaging daggers that also drop Feathers she can recall."
+    ],
+    "w": [
+      "Deadly Plumage",
+      "Xayah creates a storm of blades that increase her basic attack speed and damage while granting her movement speed if she attacks a champion."
+    ],
+    "e": [
+      "Bladecaller",
+      "Xayah calls back all her dropped Feathers dealing damage and rooting enemies."
+    ],
+    "r": [
+      "Featherstorm",
+      "Xayah leaps into the air becoming untargetable and throwing out a fan of daggers, dropping Feathers she can recall."
+    ]
+  }
+}
