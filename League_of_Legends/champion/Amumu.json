@@ -1,6 +1,8 @@
 {
   "display_name": "Amumu",
   "name": "Amumu",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Cursed Touch",

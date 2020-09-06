@@ -1,6 +1,8 @@
 {
   "display_name": "Warwick",
   "name": "Warwick",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Eternal Hunger",

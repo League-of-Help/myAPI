@@ -1,6 +1,8 @@
 {
   "display_name": "Thresh",
   "name": "Thresh",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Damnation",

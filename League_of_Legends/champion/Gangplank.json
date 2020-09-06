@@ -1,6 +1,8 @@
 {
   "display_name": "Gangplank",
   "name": "Gangplank",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Trial by Fire",

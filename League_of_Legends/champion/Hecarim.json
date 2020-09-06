@@ -1,6 +1,8 @@
 {
   "display_name": "Hecarim",
   "name": "Hecarim",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Warpath",

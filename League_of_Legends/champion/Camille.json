@@ -1,6 +1,8 @@
 {
   "display_name": "Camille",
   "name": "Camille",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Adaptive Defenses",

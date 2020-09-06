@@ -1,6 +1,8 @@
 {
   "display_name": "Kassadin",
   "name": "Kassadin",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Void Stone",

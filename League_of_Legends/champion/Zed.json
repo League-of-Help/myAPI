@@ -1,6 +1,8 @@
 {
   "display_name": "Zed",
   "name": "Zed",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Contempt for the Weak",

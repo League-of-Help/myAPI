@@ -1,6 +1,8 @@
 {
   "display_name": "Rengar",
   "name": "Rengar",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Unseen Predator",

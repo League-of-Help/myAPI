@@ -1,6 +1,8 @@
 {
   "display_name": "Master Yi",
   "name": "Master-Yi",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Double Strike",

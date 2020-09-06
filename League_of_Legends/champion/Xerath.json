@@ -1,6 +1,8 @@
 {
   "display_name": "Xerath",
   "name": "Xerath",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Mana Surge",

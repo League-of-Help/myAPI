@@ -1,6 +1,8 @@
 {
   "display_name": "Vladimir",
   "name": "Vladimir",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Crimson Pact",

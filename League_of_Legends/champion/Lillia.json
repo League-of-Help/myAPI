@@ -1,6 +1,8 @@
 {
   "display_name": "Lillia",
   "name": "Lillia",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Dream-Laden Bough",

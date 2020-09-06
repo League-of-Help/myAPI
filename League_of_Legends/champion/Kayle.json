@@ -1,6 +1,8 @@
 {
   "display_name": "Kayle",
   "name": "Kayle",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Divine Ascent",

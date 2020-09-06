@@ -1,6 +1,8 @@
 {
   "display_name": "Talon",
   "name": "Talon",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Blade's End",

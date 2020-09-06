@@ -1,6 +1,8 @@
 {
   "display_name": "Miss Fortune",
   "name": "Miss-Fortune",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Love Tap",

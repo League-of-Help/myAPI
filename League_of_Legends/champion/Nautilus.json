@@ -1,6 +1,8 @@
 {
   "display_name": "Nautilus",
   "name": "Nautilus",
+  "meta_tier": 3,
+  "free": true,
   "abilities": {
     "p": [
       "Staggering Blow",

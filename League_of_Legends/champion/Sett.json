@@ -1,6 +1,8 @@
 {
   "display_name": "Sett",
   "name": "Sett",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Pit Grit",

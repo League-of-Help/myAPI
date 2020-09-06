@@ -1,6 +1,8 @@
 {
   "display_name": "Lulu",
   "name": "Lulu",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Pix, Faerie Companion",

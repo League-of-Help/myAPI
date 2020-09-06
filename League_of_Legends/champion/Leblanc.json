@@ -1,6 +1,8 @@
 {
   "display_name": "Leblanc",
   "name": "Leblanc",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Mirror Image",

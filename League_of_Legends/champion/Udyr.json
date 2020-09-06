@@ -1,6 +1,8 @@
 {
   "display_name": "Udyr",
   "name": "Udyr",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Monkey's Agility",

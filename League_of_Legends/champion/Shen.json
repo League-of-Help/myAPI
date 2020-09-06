@@ -1,6 +1,8 @@
 {
   "display_name": "Shen",
   "name": "Shen",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Ki Barrier",

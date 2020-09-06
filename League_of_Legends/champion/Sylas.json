@@ -1,6 +1,8 @@
 {
   "display_name": "Sylas",
   "name": "Sylas",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Petricite Burst",

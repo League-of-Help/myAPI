@@ -1,6 +1,8 @@
 {
   "display_name": "Aurelion Sol",
   "name": "Aurelion-Sol",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Center of the Universe",

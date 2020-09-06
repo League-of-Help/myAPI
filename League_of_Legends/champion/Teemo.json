@@ -1,6 +1,8 @@
 {
   "display_name": "Teemo",
   "name": "Teemo",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Guerrilla Warfare",

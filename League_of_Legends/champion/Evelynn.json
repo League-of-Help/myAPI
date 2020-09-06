@@ -1,6 +1,8 @@
 {
   "display_name": "Evelynn",
   "name": "Evelynn",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Demon Shade",

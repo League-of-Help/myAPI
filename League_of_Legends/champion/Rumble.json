@@ -1,6 +1,8 @@
 {
   "display_name": "Rumble",
   "name": "Rumble",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Junkyard Titan",

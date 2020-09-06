@@ -1,6 +1,8 @@
 {
   "display_name": "Volibear",
   "name": "Volibear",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "The Relentless Storm",

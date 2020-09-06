@@ -1,6 +1,8 @@
 {
   "display_name": "Brand",
   "name": "Brand",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Blaze",

@@ -1,6 +1,8 @@
 {
   "display_name": "Zilean",
   "name": "Zilean",
+  "meta_tier": 2,
+  "free": true,
   "abilities": {
     "p": [
       "Time In A Bottle",

@@ -1,6 +1,8 @@
 {
   "display_name": "Zyra",
   "name": "Zyra",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Garden of Thorns",

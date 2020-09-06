@@ -1,6 +1,8 @@
 {
   "display_name": "Tahm Kench",
   "name": "Tahm-Kench",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "An Acquired Taste",

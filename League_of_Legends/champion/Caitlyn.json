@@ -1,6 +1,8 @@
 {
   "display_name": "Caitlyn",
   "name": "Caitlyn",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Headshot",

@@ -1,6 +1,8 @@
 {
   "display_name": "Ivern",
   "name": "Ivern",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Friend of the Forest",

@@ -1,6 +1,8 @@
 {
   "display_name": "Vel'Koz",
   "name": "Vel-Koz",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Organic Deconstruction",

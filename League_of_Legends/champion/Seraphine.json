@@ -1,6 +1,8 @@
 {
   "display_name": "Seraphine",
   "name": "Seraphine",
+  "meta_tier": None,
+  "free": false,
   "abilities": {
     "p": [
       "HARMONY / ECHO",

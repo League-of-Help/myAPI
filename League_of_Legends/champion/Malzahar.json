@@ -1,6 +1,8 @@
 {
   "display_name": "Malzahar",
   "name": "Malzahar",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Void Shift",

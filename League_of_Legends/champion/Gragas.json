@@ -1,6 +1,8 @@
 {
   "display_name": "Gragas",
   "name": "Gragas",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Happy Hour",

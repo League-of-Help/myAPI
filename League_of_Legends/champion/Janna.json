@@ -1,6 +1,8 @@
 {
   "display_name": "Janna",
   "name": "Janna",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Tailwind",

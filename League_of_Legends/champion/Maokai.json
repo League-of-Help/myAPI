@@ -1,6 +1,8 @@
 {
   "display_name": "Maokai",
   "name": "Maokai",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Sap Magic",

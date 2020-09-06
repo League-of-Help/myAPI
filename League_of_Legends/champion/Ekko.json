@@ -1,6 +1,8 @@
 {
   "display_name": "Ekko",
   "name": "Ekko",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Z-Drive Resonance",

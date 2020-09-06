@@ -1,6 +1,8 @@
 {
   "display_name": "Aatrox",
   "name": "Aatrox",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Deathbringer Stance",

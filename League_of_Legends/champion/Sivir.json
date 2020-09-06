@@ -1,6 +1,8 @@
 {
   "display_name": "Sivir",
   "name": "Sivir",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Fleet of Foot",

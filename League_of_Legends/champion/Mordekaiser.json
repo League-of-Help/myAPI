@@ -1,6 +1,8 @@
 {
   "display_name": "Mordekaiser",
   "name": "Mordekaiser",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Darkness Rise",

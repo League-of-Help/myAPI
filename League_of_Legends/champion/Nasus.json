@@ -1,6 +1,8 @@
 {
   "display_name": "Nasus",
   "name": "Nasus",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Soul Eater",

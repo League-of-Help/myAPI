@@ -1,6 +1,8 @@
 {
   "display_name": "Varus",
   "name": "Varus",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Living Vengeance",

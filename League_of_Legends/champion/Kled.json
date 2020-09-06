@@ -1,6 +1,8 @@
 {
   "display_name": "Kled",
   "name": "Kled",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Skaarl, the Cowardly Lizard",

@@ -1,6 +1,8 @@
 {
   "display_name": "Nocturne",
   "name": "Nocturne",
+  "meta_tier": 5,
+  "free": true,
   "abilities": {
     "p": [
       "Umbra Blades",

@@ -1,6 +1,8 @@
 {
   "display_name": "Skarner",
   "name": "Skarner",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Crystal Spires",

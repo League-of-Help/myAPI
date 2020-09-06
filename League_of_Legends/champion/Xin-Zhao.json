@@ -1,6 +1,8 @@
 {
   "display_name": "Xin Zhao",
   "name": "Xin-Zhao",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Determination",

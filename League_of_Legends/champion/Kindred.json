@@ -1,6 +1,8 @@
 {
   "display_name": "Kindred",
   "name": "Kindred",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Mark of the Kindred",

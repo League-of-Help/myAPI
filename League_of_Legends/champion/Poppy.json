@@ -1,6 +1,8 @@
 {
   "display_name": "Poppy",
   "name": "Poppy",
+  "meta_tier": 3,
+  "free": true,
   "abilities": {
     "p": [
       "Iron Ambassador",

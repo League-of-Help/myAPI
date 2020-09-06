@@ -1,6 +1,8 @@
 {
   "display_name": "Twitch",
   "name": "Twitch",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Deadly Venom",

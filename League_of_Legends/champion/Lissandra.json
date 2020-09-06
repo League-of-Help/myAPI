@@ -1,6 +1,8 @@
 {
   "display_name": "Lissandra",
   "name": "Lissandra",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Iceborn Subjugation",

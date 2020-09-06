@@ -1,6 +1,8 @@
 {
   "display_name": "Nunu & Willump",
   "name": "Nunu",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Call of the Freljord",

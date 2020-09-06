@@ -1,6 +1,8 @@
 {
   "display_name": "Lux",
   "name": "Lux",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Illumination",

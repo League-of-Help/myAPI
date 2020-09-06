@@ -1,6 +1,8 @@
 {
   "display_name": "Akali",
   "name": "Akali",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Assassin's Mark",

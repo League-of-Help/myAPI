@@ -1,6 +1,8 @@
 {
   "display_name": "Galio",
   "name": "Galio",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Colossal Smash",

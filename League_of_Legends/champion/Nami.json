@@ -1,6 +1,8 @@
 {
   "display_name": "Nami",
   "name": "Nami",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Surging Tides",

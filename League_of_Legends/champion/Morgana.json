@@ -1,6 +1,8 @@
 {
   "display_name": "Morgana",
   "name": "Morgana",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Soul Siphon",

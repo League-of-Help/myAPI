@@ -1,6 +1,8 @@
 {
   "display_name": "Cho'Gath",
   "name": "Cho-Gath",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Carnivore",

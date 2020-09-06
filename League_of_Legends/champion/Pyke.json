@@ -1,6 +1,8 @@
 {
   "display_name": "Pyke",
   "name": "Pyke",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Gift of the Drowned Ones",

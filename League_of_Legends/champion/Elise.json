@@ -1,6 +1,8 @@
 {
   "display_name": "Elise",
   "name": "Elise",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Spider Queen",

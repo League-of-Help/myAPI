@@ -1,6 +1,8 @@
 {
   "display_name": "Viktor",
   "name": "Viktor",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Glorious Evolution",

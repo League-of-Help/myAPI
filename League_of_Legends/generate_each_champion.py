@@ -2,46 +2,85 @@ from lxml import html
 import os, requests, game_data
 
 # Create the champion folder if it doesn't exist.
-parent_dir = os.path.dirname(os.path.abspath(__file__))
-print(parent_dir)
-directory = 'champion'
-path = os.path.join(parent_dir, directory)
-try: os.mkdir(path)
+parent_dir = os.path.dirname(os.path.abspath(__file__)) # Get current folder
+directory = 'champion'                                  # Define the name of the folder where the champions' files will be saved
+path = os.path.join(parent_dir, directory)              # Define the path where the champions' files will be saved
+try: os.mkdir(path)                                     # Try to create the file if it does not exist
 except: print(f'Creating {path} file failed.')
 
-def get_champ_ability(champion):
-  url = f'https://na.leagueoflegends.com/en-us/champions/{champion}/'
-  tree = html.fromstring(requests.get(url).content)
+# Check the internet connection
+internet_access = False                                 # Set internet access to False by default
+try:
+  requests.head('http://216.58.192.142', timeout=2)     # Try logging on to "Google.com"
+  internet_access = True                                # If logged successfuly set internet access to True
+except:
+  input('Please check your internet connection or try again later...')
 
-  try:
-    return (
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[1]/h5/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[1]/p/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[2]/h5/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[2]/p/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[3]/h5/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[3]/p/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[4]/h5/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[4]/p/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[5]/h5/text()')[0].replace("\n", " "),
-      tree.xpath('//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[5]/p/text()')[0].replace("\n", " ")
-    )
-  except:
-    try: return game_data.RECENT_ABILITIES[champion[0].upper() + champion[1:]]
-    except: print(f"Unable to load {champion}'s abilities.")
 
-if __name__ == '__main__':
-  for champion in game_data.CHAMPIONS:
-    print(f"Generating {champion}'s file.")
+class load_LoL_data():
+  def __init__(self):
+    self.urls = {
+      'league of legends': {
+        'champions': 'https://na.leagueoflegends.com/champions'
+      },
+      'league of legends fandom': {
+        'free rotation': 'https://leagueoflegends.fandom.com/wiki/Free_champion_rotation'
+      },
+      'opgg': {
+        'champions': 'https://na.op.gg/champion'
+      }
+    }
+  
+  def load_url(self, url):
+    return html.fromstring(requests.get(url).content)
+
+  def get_champion_rotation(self):
+    tree = self.load_url(f'{self.urls["league of legends fandom"]["free rotation"]}')
+    return [tree.xpath(f'//*[@id="mw-content-text"]/div[1]/div[1]/ol/li[{i}]/div/div[2]/a/text()')[0] for i in range (1, 16)]
+
+  def get_champion_meta_tier(self, champion):
+    champion = champion.replace('-', '').lower()
+    tree = self.load_url(f'{self.urls["opgg"]["champions"]}/{champion}/statistics')
+    try: return tree.xpath('//*[@class="champion-stats-header-info__tier"]/b/text()')[0][-1]
+    except: print(f"Unable to load champion meta tier.")
+
+  def get_champion_ability(self, champion):
+    tree = self.load_url(f'{self.urls["league of legends"]["champions"]}/{champion}/')
+    xpaths = []
+
+    try:
+      for i in range(1, 6):
+        xpaths.append(
+          tree.xpath(f'//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[{i}]/h5/text()')[0].replace("\n", " "),
+        )
+        xpaths.append(
+          tree.xpath(f'//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[{i}]/p/text()')[0].replace("\n", " ")
+        )
+      return xpaths
+    except:
+      try: return game_data.RECENT_ABILITIES[champion[0].upper() + champion[1:]]
+      except: print(f"Unable to load champion abilities.")
+    
+
+if __name__ == '__main__' and internet_access:          # Run the programm if this specific file is executed
+  data = load_LoL_data()                                # Initializing an instance of the class load_LoL_data
+  free_rotation = data.get_champion_rotation()          # Create the list of free champions in weekly rotation
+  for champion in game_data.CHAMPIONS:                  # Generate a file for each champion
+    print(f"Generating {champion}'s file...")           # Print the champion currently being generated
 
     if champion in game_data.LoL_NAMES: name = game_data.LoL_NAMES[champion]
     else: name = champion
-    champion_abilities = get_champ_ability(name.lower())
+    champion_abilities = data.get_champion_ability(name.lower())
+
+    if champion in free_rotation: free = 'true'
+    else: free = 'false'
 
     try:
       word = f'''{{
   "display_name": "{champion}",
   "name": "{name}",
+  "meta_tier": {data.get_champion_meta_tier(champion)},
+  "free": {free},
   "abilities": {{
     "p": [
       "{champion_abilities[0]}",

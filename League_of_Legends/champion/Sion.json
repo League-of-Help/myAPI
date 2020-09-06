@@ -1,6 +1,8 @@
 {
   "display_name": "Sion",
   "name": "Sion",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Glory in Death",

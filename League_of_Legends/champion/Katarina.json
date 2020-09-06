@@ -1,6 +1,8 @@
 {
   "display_name": "Katarina",
   "name": "Katarina",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Voracity",

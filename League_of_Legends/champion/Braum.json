@@ -1,6 +1,8 @@
 {
   "display_name": "Braum",
   "name": "Braum",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Concussive Blows",

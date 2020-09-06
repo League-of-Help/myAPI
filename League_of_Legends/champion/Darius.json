@@ -1,6 +1,8 @@
 {
   "display_name": "Darius",
   "name": "Darius",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Hemorrhage",

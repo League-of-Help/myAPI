@@ -1,6 +1,8 @@
 {
   "display_name": "Karthus",
   "name": "Karthus",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Death Defied",

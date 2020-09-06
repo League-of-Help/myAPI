@@ -1,6 +1,8 @@
 {
   "display_name": "Dr. Mundo",
   "name": "Dr-Mundo",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Adrenaline Rush",

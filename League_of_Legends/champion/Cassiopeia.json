@@ -1,6 +1,8 @@
 {
   "display_name": "Cassiopeia",
   "name": "Cassiopeia",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Serpentine Grace",

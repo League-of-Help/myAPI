@@ -1,6 +1,8 @@
 {
   "display_name": "Kog'Maw",
   "name": "Kog-Maw",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Icathian Surprise",

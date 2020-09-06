@@ -1,6 +1,8 @@
 {
   "display_name": "Jhin",
   "name": "Jhin",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Whisper",

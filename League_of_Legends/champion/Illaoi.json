@@ -1,6 +1,8 @@
 {
   "display_name": "Illaoi",
   "name": "Illaoi",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Prophet of an Elder God",

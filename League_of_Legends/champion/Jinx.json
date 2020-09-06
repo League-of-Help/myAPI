@@ -1,6 +1,8 @@
 {
   "display_name": "Jinx",
   "name": "Jinx",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Get Excited!",

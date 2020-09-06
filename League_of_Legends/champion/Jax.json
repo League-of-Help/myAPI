@@ -1,6 +1,8 @@
 {
   "display_name": "Jax",
   "name": "Jax",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Relentless Assault",

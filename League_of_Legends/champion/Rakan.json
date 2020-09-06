@@ -1,6 +1,8 @@
 {
   "display_name": "Rakan",
   "name": "Rakan",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Fey Feathers",

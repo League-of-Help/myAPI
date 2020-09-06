@@ -1,6 +1,8 @@
 {
   "display_name": "Graves",
   "name": "Graves",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "New Destiny",

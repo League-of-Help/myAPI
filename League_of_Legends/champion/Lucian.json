@@ -1,6 +1,8 @@
 {
   "display_name": "Lucian",
   "name": "Lucian",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Lightslinger",

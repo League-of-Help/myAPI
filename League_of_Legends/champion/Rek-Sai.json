@@ -1,6 +1,8 @@
 {
   "display_name": "Rek'Sai",
   "name": "Rek-Sai",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Fury of the Xer'Sai",

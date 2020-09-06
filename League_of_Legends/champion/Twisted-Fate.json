@@ -1,6 +1,8 @@
 {
   "display_name": "Twisted Fate",
   "name": "Twisted-Fate",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Loaded Dice",

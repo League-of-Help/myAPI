@@ -1,6 +1,8 @@
 {
   "display_name": "Jayce",
   "name": "Jayce",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Hextech Capacitor",

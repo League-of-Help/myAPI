@@ -1,6 +1,8 @@
 {
   "display_name": "Wukong",
   "name": "Wukong",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Stone Skin",

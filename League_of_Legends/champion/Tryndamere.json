@@ -1,6 +1,8 @@
 {
   "display_name": "Tryndamere",
   "name": "Tryndamere",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Battle Fury",

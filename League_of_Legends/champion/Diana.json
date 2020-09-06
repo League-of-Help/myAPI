@@ -1,6 +1,8 @@
 {
   "display_name": "Diana",
   "name": "Diana",
+  "meta_tier": 4,
+  "free": true,
   "abilities": {
     "p": [
       "Moonsilver Blade",

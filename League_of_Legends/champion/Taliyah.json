@@ -1,6 +1,8 @@
 {
   "display_name": "Taliyah",
   "name": "Taliyah",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Rock Surfing",

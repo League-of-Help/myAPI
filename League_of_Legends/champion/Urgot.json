@@ -1,6 +1,8 @@
 {
   "display_name": "Urgot",
   "name": "Urgot",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "Echoing Flames",

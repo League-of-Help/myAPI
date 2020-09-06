@@ -1,6 +1,8 @@
 {
   "display_name": "Qiyana",
   "name": "Qiyana",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Royal Privilege",

@@ -1,6 +1,8 @@
 {
   "display_name": "Kennen",
   "name": "Kennen",
+  "meta_tier": 5,
+  "free": true,
   "abilities": {
     "p": [
       "Mark of the Storm",

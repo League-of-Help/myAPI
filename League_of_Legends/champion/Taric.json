@@ -1,6 +1,8 @@
 {
   "display_name": "Taric",
   "name": "Taric",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Bravado",

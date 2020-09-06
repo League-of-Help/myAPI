@@ -1,6 +1,8 @@
 {
   "display_name": "Vayne",
   "name": "Vayne",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Night Hunter",

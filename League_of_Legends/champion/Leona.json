@@ -1,6 +1,8 @@
 {
   "display_name": "Leona",
   "name": "Leona",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Sunlight",

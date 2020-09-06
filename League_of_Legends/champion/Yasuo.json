@@ -1,6 +1,8 @@
 {
   "display_name": "Yasuo",
   "name": "Yasuo",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Way of the Wanderer",

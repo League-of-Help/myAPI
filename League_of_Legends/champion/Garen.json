@@ -1,6 +1,8 @@
 {
   "display_name": "Garen",
   "name": "Garen",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Perseverance",

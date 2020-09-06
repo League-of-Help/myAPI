@@ -1,6 +1,8 @@
 {
   "display_name": "Lee Sin",
   "name": "Lee-Sin",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Flurry",

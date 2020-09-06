@@ -1,6 +1,8 @@
 {
   "display_name": "Gnar",
   "name": "Gnar",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Rage Gene",

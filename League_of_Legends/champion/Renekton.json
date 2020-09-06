@@ -1,6 +1,8 @@
 {
   "display_name": "Renekton",
   "name": "Renekton",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Reign of Anger",

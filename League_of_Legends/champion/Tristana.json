@@ -1,6 +1,8 @@
 {
   "display_name": "Tristana",
   "name": "Tristana",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Draw a Bead",

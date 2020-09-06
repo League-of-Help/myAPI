@@ -1,6 +1,8 @@
 {
   "display_name": "Aphelios",
   "name": "Aphelios",
+  "meta_tier": 4,
+  "free": false,
   "abilities": {
     "p": [
       "The Hitman and the Seer",

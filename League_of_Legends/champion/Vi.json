@@ -1,6 +1,8 @@
 {
   "display_name": "Vi",
   "name": "Vi",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Blast Shield",

@@ -1,6 +1,8 @@
 {
   "display_name": "Ashe",
   "name": "Ashe",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Frost Shot",

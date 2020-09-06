@@ -1,6 +1,8 @@
 {
   "display_name": "Bard",
   "name": "Bard",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Traveler's Call",

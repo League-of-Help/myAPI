@@ -1,6 +1,8 @@
 {
   "display_name": "Draven",
   "name": "Draven",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "League of Draven",

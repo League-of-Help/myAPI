@@ -1,6 +1,8 @@
 {
   "display_name": "Olaf",
   "name": "Olaf",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Berserker Rage",

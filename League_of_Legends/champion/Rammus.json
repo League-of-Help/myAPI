@@ -1,6 +1,8 @@
 {
   "display_name": "Rammus",
   "name": "Rammus",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Spiked Shell",

@@ -1,6 +1,8 @@
 {
   "display_name": "Quinn",
   "name": "Quinn",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Harrier",

@@ -1,6 +1,8 @@
 {
   "display_name": "Kha'Zix",
   "name": "Kha-Zix",
+  "meta_tier": 3,
+  "free": true,
   "abilities": {
     "p": [
       "Unseen Threat",

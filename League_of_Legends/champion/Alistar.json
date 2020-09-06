@@ -1,6 +1,8 @@
 {
   "display_name": "Alistar",
   "name": "Alistar",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Triumphant Roar",

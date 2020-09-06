@@ -1,6 +1,8 @@
 {
   "display_name": "Yone",
   "name": "Yone",
+  "meta_tier": 1,
+  "free": false,
   "abilities": {
     "p": [
       "Way of the Hunter",

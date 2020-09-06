@@ -1,6 +1,8 @@
 {
   "display_name": "Fiddlesticks",
   "name": "Fiddlesticks",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "A Harmless Scarecrow",

@@ -1,6 +1,8 @@
 {
   "display_name": "Samira",
   "name": "Samira",
+  "meta_tier": None,
+  "free": false,
   "abilities": {
     "p": [
       "Daredevil Impulse",

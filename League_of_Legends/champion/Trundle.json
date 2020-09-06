@@ -1,6 +1,8 @@
 {
   "display_name": "Trundle",
   "name": "Trundle",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "King's Tribute",

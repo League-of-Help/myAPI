@@ -1,6 +1,8 @@
 {
   "display_name": "Yorick",
   "name": "Yorick",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Shepherd of Souls",

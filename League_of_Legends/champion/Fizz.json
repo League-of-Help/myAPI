@@ -1,6 +1,8 @@
 {
   "display_name": "Fizz",
   "name": "Fizz",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Nimble Fighter",

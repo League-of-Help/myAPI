@@ -1,6 +1,8 @@
 {
   "display_name": "Nidalee",
   "name": "Nidalee",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Prowl",

@@ -1,6 +1,8 @@
 {
   "display_name": "Kayn",
   "name": "Kayn",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "The Darkin Scythe",

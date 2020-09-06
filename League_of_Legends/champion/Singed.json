@@ -1,6 +1,8 @@
 {
   "display_name": "Singed",
   "name": "Singed",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Noxious Slipstream",

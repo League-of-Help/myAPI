@@ -1,6 +1,8 @@
 {
   "display_name": "Ahri",
   "name": "Ahri",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Vastayan Grace",

@@ -1,6 +1,8 @@
 {
   "display_name": "Sona",
   "name": "Sona",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Power Chord",

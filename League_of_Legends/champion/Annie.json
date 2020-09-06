@@ -1,6 +1,8 @@
 {
   "display_name": "Annie",
   "name": "Annie",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Pyromania",

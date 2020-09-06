@@ -1,6 +1,8 @@
 {
   "display_name": "Orianna",
   "name": "Orianna",
+  "meta_tier": 3,
+  "free": false,
   "abilities": {
     "p": [
       "Clockwork Windup",

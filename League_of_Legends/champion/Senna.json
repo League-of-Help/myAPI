@@ -1,6 +1,8 @@
 {
   "display_name": "Senna",
   "name": "Senna",
+  "meta_tier": 2,
+  "free": false,
   "abilities": {
     "p": [
       "Absolution",

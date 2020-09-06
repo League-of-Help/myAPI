@@ -1,6 +1,8 @@
 {
   "display_name": "Ziggs",
   "name": "Ziggs",
+  "meta_tier": 5,
+  "free": false,
   "abilities": {
     "p": [
       "Short Fuse",
