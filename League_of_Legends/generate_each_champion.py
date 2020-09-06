@@ -39,45 +39,31 @@ if __name__ == '__main__':
     champion_abilities = get_champ_ability(name.lower())
 
     try:
-      word = '''{
-  "display_name": "%s",
-  "name": "%s",
-  "abilities": {
+      word = f'''{{
+  "display_name": "{champion}",
+  "name": "{name}",
+  "abilities": {{
     "p": [
-      "%s",
-      "%s"
+      "{champion_abilities[0]}",
+      "{champion_abilities[1]}"
     ],
     "q": [
-      "%s",
-      "%s"
+      "{champion_abilities[2]}",
+      "{champion_abilities[3]}"
     ],
     "w": [
-      "%s",
-      "%s"
+      "{champion_abilities[4]}",
+      "{champion_abilities[5]}"
     ],
     "e": [
-      "%s",
-      "%s"
+      "{champion_abilities[6]}",
+      "{champion_abilities[7]}"
     ],
     "r": [
-      "%s",
-      "%s"
+      "{champion_abilities[8]}",
+      "{champion_abilities[9]}"
     ]
-  }%s''' % (
-        champion,
-        name,
-        champion_abilities[0],
-        champion_abilities[1],
-        champion_abilities[2],
-        champion_abilities[3],
-        champion_abilities[4],
-        champion_abilities[5],
-        champion_abilities[6],
-        champion_abilities[7],
-        champion_abilities[8],
-        champion_abilities[9],
-        '\n}'
-      )
+  }}\n}}'''
     except: word = '"No data"'
 
     with open(f'{path}/{name}.json', 'w+') as f:
