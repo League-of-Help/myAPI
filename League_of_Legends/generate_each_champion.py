@@ -1,4 +1,5 @@
 from lxml import html
+from time import time
 import os, requests, game_data
 
 # Create the champion folder if it doesn't exist.
@@ -63,10 +64,17 @@ class load_LoL_data():
     
 
 if __name__ == '__main__' and internet_access:          # Run the programm if this specific file is executed
+  time0 = time()                                        # Set the time to 0 for the remaining time estimation
   data = load_LoL_data()                                # Initializing an instance of the class load_LoL_data
   free_rotation = data.get_champion_rotation()          # Create the list of free champions in weekly rotation
-  for champion in game_data.CHAMPIONS:                  # Generate a file for each champion
-    print(f"Generating {champion}'s file...")           # Print the champion currently being generated
+  total_champions = len(game_data.CHAMPIONS)
+  for index, champion in enumerate(game_data.CHAMPIONS):# Generate a file for each champion
+    # Print the champion currently being generated
+    if index > 0:
+      print(f"Generating {champion}'s file ([{index + 1}/{total_champions}] | {round((time() - time0) * (total_champions - index))} seconds left)...")    
+    else:
+      print(f"Generating {champion}'s file ([{index + 1}/{total_champions}] | {round((time() - time0) * (total_champions * 4))} estimated remaining seconds).")    
+    time0 = time()
 
     if champion in game_data.LoL_NAMES: name = game_data.LoL_NAMES[champion]
     else: name = champion
