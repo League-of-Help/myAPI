@@ -89,12 +89,14 @@ if __name__ == '__main__' and internet_access:          # Run the programm if th
 
     if champion in game_data.LoL_NAMES: name = game_data.LoL_NAMES[champion]
     else: name = champion
-    champion_abilities = data.get_champion_ability(name.lower())
+
+    try: champion_abilities = data.get_champion_ability(name.lower())
+    except: champion_abilities = ['?' for _ in range(10)]
 
     try: champion_riot_data = data.load_ddragon(name.replace('-', ''))
     except:
       try: champion_riot_data = data.load_ddragon(name[0] + name[1:].replace('-', '').lower())
-      except: pass
+      except: champion_riot_data = ['?' for _ in range(26)]
 
     if champion in free_rotation: free = 'true'
     else: free = 'false'
