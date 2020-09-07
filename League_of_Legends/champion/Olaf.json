@@ -1,8 +1,4 @@
 {
-  "display_name": "Olaf",
-  "name": "Olaf",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Berserker Rage",
@@ -24,5 +20,37 @@
       "Ragnarok",
       "Olaf temporarily becomes immune to disables."
     ]
-  }
+	},
+  "blurd": "An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward's fate, and a great...",
+  "display_name": "Olaf",
+  "free": false,
+  "key": "2",
+  "meta_tier": 3,
+  "name": "Olaf",
+  "partype": "Mana",
+  "stats": {
+    "hp": 597.24,
+    "hpperlevel": 93,
+    "mp": 315.6,
+    "mpperlevel": 42,
+    "movespeed": 350,
+    "armor": 35,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.9,
+    "mpregen": 7.466,
+    "mpregenlevel": 0.575,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2.7,
+    "attackspeed": 0.694
+  },
+  "title": "the Berserker",
+  "version": "10.16.1"
+  
 }

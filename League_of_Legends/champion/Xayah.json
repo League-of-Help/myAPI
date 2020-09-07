@@ -1,8 +1,4 @@
 {
-  "display_name": "Xayah",
-  "name": "Xayah",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Clean Cuts",
@@ -24,5 +20,37 @@
       "Featherstorm",
       "Xayah leaps into the air becoming untargetable and throwing out a fan of daggers, dropping Feathers she can recall."
     ]
-  }
+	},
+  "blurd": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to...",
+  "display_name": "Xayah",
+  "free": false,
+  "key": "498",
+  "meta_tier": 5,
+  "name": "Xayah",
+  "partype": "Mana",
+  "stats": {
+    "hp": 590,
+    "hpperlevel": 88,
+    "mp": 340,
+    "mpperlevel": 40,
+    "movespeed": 325,
+    "armor": 25,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 3.25,
+    "hpregenperlevel": 0.75,
+    "mpregen": 8.25,
+    "mpregenlevel": 0.75,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 2.9,
+    "attackspeedperlevel": 3.3,
+    "attackspeed": 0.625
+  },
+  "title": "the Rebel",
+  "version": "10.16.1"
+  
 }

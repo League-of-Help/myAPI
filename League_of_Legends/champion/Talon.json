@@ -1,8 +1,4 @@
 {
-  "display_name": "Talon",
-  "name": "Talon",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Blade's End",
@@ -24,5 +20,37 @@
       "Shadow Assault",
       "Talon disperses a ring of blades and becomes Invisible while gaining additional Movement Speed. When Talon emerges from Invisibility, the blades converge on his location. Each time the blades move, Shadow Assault deals physical damage to enemies hit by at least one blade."
     ]
-  }
+	},
+  "blurd": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive...",
+  "display_name": "Talon",
+  "free": false,
+  "key": "91",
+  "meta_tier": 1,
+  "name": "Talon",
+  "partype": "Mana",
+  "stats": {
+    "hp": 588,
+    "hpperlevel": 95,
+    "mp": 377.2,
+    "mpperlevel": 37,
+    "movespeed": 335,
+    "armor": 30,
+    "armorperlevel": 3.5,
+    "spellblock": 39,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7.6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2.9,
+    "attackspeed": 0.625
+  },
+  "title": "the Blade's Shadow",
+  "version": "10.16.1"
+  
 }

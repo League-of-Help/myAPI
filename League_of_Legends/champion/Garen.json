@@ -1,8 +1,4 @@
 {
-  "display_name": "Garen",
-  "name": "Garen",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Perseverance",
@@ -24,5 +20,37 @@
       "Demacian Justice",
       "Garen calls upon the might of Demacia to attempt to execute an enemy champion."
     ]
-  }
+	},
+  "blurd": "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its...",
+  "display_name": "Garen",
+  "free": false,
+  "key": "86",
+  "meta_tier": 2,
+  "name": "Garen",
+  "partype": "None",
+  "stats": {
+    "hp": 620,
+    "hpperlevel": 84,
+    "mp": 0,
+    "mpperlevel": 0,
+    "movespeed": 340,
+    "armor": 36,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 0.75,
+    "attackrange": 175,
+    "hpregen": 8,
+    "hpregenperlevel": 0.5,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 4.5,
+    "attackspeedperlevel": 3.65,
+    "attackspeed": 0.625
+  },
+  "title": "The Might of Demacia",
+  "version": "10.16.1"
+  
 }

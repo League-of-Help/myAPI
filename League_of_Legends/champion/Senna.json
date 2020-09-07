@@ -1,8 +1,4 @@
 {
-  "display_name": "Senna",
-  "name": "Senna",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Absolution",
@@ -24,5 +20,37 @@
       "Dawning Shadow",
       "Senna calls upon the relic stones of fallen Sentinels, splitting her relic cannon into a holy array of shadow and light. She then fires a global beam that shields allies from harm, while damaging enemies caught in the center."
     ]
-  }
+	},
+  "blurd": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to...",
+  "display_name": "Senna",
+  "free": false,
+  "key": "235",
+  "meta_tier": 2,
+  "name": "Senna",
+  "partype": "Mana",
+  "stats": {
+    "hp": 520,
+    "hpperlevel": 75,
+    "mp": 350,
+    "mpperlevel": 45,
+    "movespeed": 330,
+    "armor": 28,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 600,
+    "hpregen": 3.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 50,
+    "attackdamageperlevel": 0,
+    "attackspeedperlevel": 4,
+    "attackspeed": 0.625
+  },
+  "title": "the Redeemer",
+  "version": "10.16.1"
+  
 }

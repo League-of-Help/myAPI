@@ -1,8 +1,4 @@
 {
-  "display_name": "Darius",
-  "name": "Darius",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Hemorrhage",
@@ -24,5 +20,37 @@
       "Noxian Guillotine",
       "Darius leaps to an enemy champion and strikes a lethal blow, dealing true damage. This damage is increased for each stack of Hemorrhage on the target. If Noxian Guillotine is a killing blow, its cooldown is refreshed for a brief duration."
     ]
-  }
+	},
+  "blurd": "There is no greater symbol of Noxian might than Darius, the nation's most feared and battle-hardened commander. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire's enemies—many of them Noxians themselves. Knowing that...",
+  "display_name": "Darius",
+  "free": false,
+  "key": "122",
+  "meta_tier": 1,
+  "name": "Darius",
+  "partype": "Mana",
+  "stats": {
+    "hp": 582.24,
+    "hpperlevel": 100,
+    "mp": 263,
+    "mpperlevel": 37.5,
+    "movespeed": 340,
+    "armor": 39,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 10,
+    "hpregenperlevel": 0.95,
+    "mpregen": 6.6,
+    "mpregenlevel": 0.35,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 5,
+    "attackspeedperlevel": 1,
+    "attackspeed": 0.625
+  },
+  "title": "the Hand of Noxus",
+  "version": "10.16.1"
+  
 }

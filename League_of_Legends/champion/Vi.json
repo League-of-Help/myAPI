@@ -1,8 +1,4 @@
 {
-  "display_name": "Vi",
-  "name": "Vi",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Blast Shield",
@@ -24,5 +20,37 @@
       "Assault and Battery",
       "Vi runs down an enemy, knocking aside anyone in the way. When she reaches her target she knocks it into the air, jumps after it, and slams it back into the ground."
     ]
-  }
+	},
+  "blurd": "Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up all but alone, Vi developed finely honed survival instincts as well as a wickedly abrasive...",
+  "display_name": "Vi",
+  "free": false,
+  "key": "254",
+  "meta_tier": 3,
+  "name": "Vi",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 85,
+    "mp": 295,
+    "mpperlevel": 45,
+    "movespeed": 340,
+    "armor": 30,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 10,
+    "hpregenperlevel": 1,
+    "mpregen": 8,
+    "mpregenlevel": 0.65,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.644
+  },
+  "title": "the Piltover Enforcer",
+  "version": "10.16.1"
+  
 }

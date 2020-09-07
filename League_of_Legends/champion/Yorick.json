@@ -1,8 +1,4 @@
 {
-  "display_name": "Yorick",
-  "name": "Yorick",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Shepherd of Souls",
@@ -24,5 +20,37 @@
       "Eulogy of the Isles",
       "Yorick summons the Maiden of the Mist that causes Yorick's attacks against the Maiden's target to deal bonus damage. The Maiden will also automatically raise Walkers from dead enemies."
     ]
-  }
+	},
+  "blurd": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick's monstrous...",
+  "display_name": "Yorick",
+  "free": false,
+  "key": "83",
+  "meta_tier": 5,
+  "name": "Yorick",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 100,
+    "mp": 300,
+    "mpperlevel": 40,
+    "movespeed": 340,
+    "armor": 39,
+    "armorperlevel": 4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8,
+    "hpregenperlevel": 0.8,
+    "mpregen": 7.5,
+    "mpregenlevel": 0.75,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 62,
+    "attackdamageperlevel": 5,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.625
+  },
+  "title": "Shepherd of Souls",
+  "version": "10.16.1"
+  
 }

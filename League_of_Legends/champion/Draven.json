@@ -1,8 +1,4 @@
 {
-  "display_name": "Draven",
-  "name": "Draven",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "League of Draven",
@@ -24,5 +20,37 @@
       "Whirling Death",
       "Draven hurls two massive axes to deal physical damage to each unit struck. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion. Draven may also activate this ability while the axes are in flight to cause it to return early. Deals less damage for each unit hit and resets when the axes reverse direction."
     ]
-  }
+	},
+  "blurd": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and...",
+  "display_name": "Draven",
+  "free": false,
+  "key": "119",
+  "meta_tier": 3,
+  "name": "Draven",
+  "partype": "Mana",
+  "stats": {
+    "hp": 605,
+    "hpperlevel": 90,
+    "mp": 360.56,
+    "mpperlevel": 39,
+    "movespeed": 330,
+    "armor": 29,
+    "armorperlevel": 3.3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.7,
+    "mpregen": 8.042,
+    "mpregenlevel": 0.65,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 3.61,
+    "attackspeedperlevel": 2.7,
+    "attackspeed": 0.679
+  },
+  "title": "the Glorious Executioner",
+  "version": "10.16.1"
+  
 }

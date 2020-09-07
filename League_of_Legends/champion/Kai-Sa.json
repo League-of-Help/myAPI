@@ -1,8 +1,4 @@
 {
-  "display_name": "Kai'Sa",
-  "name": "Kai-Sa",
-  "meta_tier": 3,
-  "free": true,
   "abilities": {
     "p": [
       "Second Skin",
@@ -24,5 +20,37 @@
       "Killer Instinct",
       "Kai'Sa dashes near an enemy champion."
     ]
-  }
+	},
+  "blurd": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered...",
+  "display_name": "Kai'Sa",
+  "free": true,
+  "key": "145",
+  "meta_tier": 3,
+  "name": "Kai-Sa",
+  "partype": "Mana",
+  "stats": {
+    "hp": 600,
+    "hpperlevel": 88,
+    "mp": 344.88,
+    "mpperlevel": 38,
+    "movespeed": 335,
+    "armor": 28,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 3.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8.2,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 59,
+    "attackdamageperlevel": 1.7,
+    "attackspeedperlevel": 1.8,
+    "attackspeed": 0.644
+  },
+  "title": "Daughter of the Void",
+  "version": "10.16.1"
+  
 }

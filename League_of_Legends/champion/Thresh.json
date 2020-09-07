@@ -1,8 +1,4 @@
 {
-  "display_name": "Thresh",
-  "name": "Thresh",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Damnation",
@@ -24,5 +20,37 @@
       "The Box",
       "A prison of walls that slow and deal damage if broken."
     ]
-  }
+	},
+  "blurd": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with...",
+  "display_name": "Thresh",
+  "free": false,
+  "key": "412",
+  "meta_tier": 2,
+  "name": "Thresh",
+  "partype": "Mana",
+  "stats": {
+    "hp": 560.52,
+    "hpperlevel": 93,
+    "mp": 273.92,
+    "mpperlevel": 44,
+    "movespeed": 335,
+    "armor": 28,
+    "armorperlevel": 0,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 450,
+    "hpregen": 7,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 56,
+    "attackdamageperlevel": 2.2,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Chain Warden",
+  "version": "10.16.1"
+  
 }

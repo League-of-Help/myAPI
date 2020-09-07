@@ -1,8 +1,4 @@
 {
-  "display_name": "Urgot",
-  "name": "Urgot",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Echoing Flames",
@@ -24,5 +20,37 @@
       "Fear Beyond Death",
       "Urgot fires a chem-drill that impales the first enemy champion hit. If that champion falls below a health threshold, Urgot judges them weak and can execute them."
     ]
-  }
+	},
+  "blurd": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that...",
+  "display_name": "Urgot",
+  "free": false,
+  "key": "6",
+  "meta_tier": 4,
+  "name": "Urgot",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 88,
+    "mp": 340,
+    "mpperlevel": 45,
+    "movespeed": 330,
+    "armor": 36,
+    "armorperlevel": 4.25,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 350,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.7,
+    "mpregen": 7.25,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 3.75,
+    "attackspeed": 0.625
+  },
+  "title": "the Dreadnought",
+  "version": "10.16.1"
+  
 }

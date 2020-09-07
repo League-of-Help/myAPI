@@ -1,8 +1,4 @@
 {
-  "display_name": "Tristana",
-  "name": "Tristana",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Draw a Bead",
@@ -24,5 +20,37 @@
       "Buster Shot",
       "Tristana loads a massive cannonball into her weapon and fires it at an enemy unit. This deals Magic Damage and knocks the target back. If the target is carrying the Explosive Charge bomb, the bomb detonation radius is doubled."
     ]
-  }
+	},
+  "blurd": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her...",
+  "display_name": "Tristana",
+  "free": false,
+  "key": "18",
+  "meta_tier": 5,
+  "name": "Tristana",
+  "partype": "Mana",
+  "stats": {
+    "hp": 559,
+    "hpperlevel": 88,
+    "mp": 250,
+    "mpperlevel": 32,
+    "movespeed": 325,
+    "armor": 26,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.65,
+    "mpregen": 7.2,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 1.5,
+    "attackspeed": 0.656
+  },
+  "title": "the Yordle Gunner",
+  "version": "10.16.1"
+  
 }

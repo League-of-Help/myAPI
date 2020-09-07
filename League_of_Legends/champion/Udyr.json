@@ -1,8 +1,4 @@
 {
-  "display_name": "Udyr",
-  "name": "Udyr",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Monkey's Agility",
@@ -24,5 +20,37 @@
       "Phoenix Stance",
       "Phoenix Stance: Activation - Udyr unleashes pulsing waves of fire, dealing damage to nearby enemies. Persistent Effect - Udyr's first attack and every third attack after engulfs enemies in front of him with flames."
     ]
-  }
+	},
+  "blurd": "Udyr is more than a man; he is a vessel for the untamed power of four primal animal spirits. When tapping into the spirits' bestial natures, Udyr can harness their unique strengths: The tiger grants him speed and ferocity, the turtle resilience, the...",
+  "display_name": "Udyr",
+  "free": false,
+  "key": "77",
+  "meta_tier": 4,
+  "name": "Udyr",
+  "partype": "Mana",
+  "stats": {
+    "hp": 594,
+    "hpperlevel": 99,
+    "mp": 271,
+    "mpperlevel": 30,
+    "movespeed": 350,
+    "armor": 34,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 6,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7.5,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 5,
+    "attackspeedperlevel": 2.67,
+    "attackspeed": 0.658
+  },
+  "title": "the Spirit Walker",
+  "version": "10.16.1"
+  
 }

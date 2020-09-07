@@ -1,8 +1,4 @@
 {
-  "display_name": "Shyvana",
-  "name": "Shyvana",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Fury of the Dragonborn",
@@ -24,5 +20,37 @@
       "Dragon's Descent",
       "Shyvana transforms into a dragon and takes flight to a target location. Enemies along her path take damage and are knocked toward her target location.  Shyvana passively gains Fury per second and gains 2 Fury on basic attack."
     ]
-  }
+	},
+  "blurd": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan...",
+  "display_name": "Shyvana",
+  "free": false,
+  "key": "102",
+  "meta_tier": 2,
+  "name": "Shyvana",
+  "partype": "Fury",
+  "stats": {
+    "hp": 595,
+    "hpperlevel": 95,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 350,
+    "armor": 38,
+    "armorperlevel": 3.35,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.8,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 3.4,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.658
+  },
+  "title": "the Half-Dragon",
+  "version": "10.16.1"
+  
 }

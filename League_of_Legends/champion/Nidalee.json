@@ -1,8 +1,4 @@
 {
-  "display_name": "Nidalee",
-  "name": "Nidalee",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Prowl",
@@ -24,5 +20,37 @@
       "Aspect Of The Cougar",
       "Nidalee transforms into a cougar, gaining new abilities."
     ]
-  }
+	},
+  "blurd": "Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear...",
+  "display_name": "Nidalee",
+  "free": false,
+  "key": "76",
+  "meta_tier": 2,
+  "name": "Nidalee",
+  "partype": "Mana",
+  "stats": {
+    "hp": 545,
+    "hpperlevel": 85,
+    "mp": 295.6,
+    "mpperlevel": 45,
+    "movespeed": 335,
+    "armor": 28,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 6,
+    "hpregenperlevel": 0.6,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 3.22,
+    "attackspeed": 0.638
+  },
+  "title": "the Bestial Huntress",
+  "version": "10.16.1"
+  
 }

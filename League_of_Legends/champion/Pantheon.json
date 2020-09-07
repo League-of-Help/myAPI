@@ -1,8 +1,4 @@
 {
-  "display_name": "Pantheon",
-  "name": "Pantheon",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Mortal Will",
@@ -24,5 +20,37 @@
       "Grand Starfall",
       "Pantheon composes himself and then leaps into the air, landing at a chosen location as a comet."
     ]
-  }
+	},
+  "blurd": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn...",
+  "display_name": "Pantheon",
+  "free": false,
+  "key": "80",
+  "meta_tier": 2,
+  "name": "Pantheon",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 95,
+    "mp": 317.12,
+    "mpperlevel": 31,
+    "movespeed": 355,
+    "armor": 40,
+    "armorperlevel": 3.75,
+    "spellblock": 28,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 10,
+    "hpregenperlevel": 0.65,
+    "mpregen": 7.356,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 2.95,
+    "attackspeed": 0.644
+  },
+  "title": "the Unbreakable Spear",
+  "version": "10.16.1"
+  
 }

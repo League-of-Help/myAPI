@@ -1,8 +1,4 @@
 {
-  "display_name": "Sejuani",
-  "name": "Sejuani",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Fury of the North",
@@ -24,5 +20,37 @@
       "Glacial Prison",
       "Sejuani throws her bola that freezes and stuns the first champion hit and creates an ice storm that slows other enemies."
     ]
-  }
+	},
+  "blurd": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans...",
+  "display_name": "Sejuani",
+  "free": false,
+  "key": "113",
+  "meta_tier": 5,
+  "name": "Sejuani",
+  "partype": "Mana",
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 100,
+    "mp": 400,
+    "mpperlevel": 40,
+    "movespeed": 340,
+    "armor": 34,
+    "armorperlevel": 4.25,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 8.5,
+    "hpregenperlevel": 1,
+    "mpregen": 7,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.688
+  },
+  "title": "Fury of the North",
+  "version": "10.16.1"
+  
 }

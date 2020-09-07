@@ -1,8 +1,4 @@
 {
-  "display_name": "Kha'Zix",
-  "name": "Kha-Zix",
-  "meta_tier": 3,
-  "free": true,
   "abilities": {
     "p": [
       "Unseen Threat",
@@ -24,5 +20,37 @@
       "Void Assault",
       "Each rank allows Kha'Zix to evolve one of his abilities, giving it a unique additional effect. When activated, Kha'Zix becomes Invisible, triggering Unseen Threat and increasing Movement Speed. If he chooses to Evolve Adaptive Cloaking, Void Assault gains increased Invisibility duration, and an additional use."
     ]
-  }
+	},
+  "blurd": "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha'Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more...",
+  "display_name": "Kha'Zix",
+  "free": true,
+  "key": "121",
+  "meta_tier": 3,
+  "name": "Kha-Zix",
+  "partype": "Mana",
+  "stats": {
+    "hp": 572.8,
+    "hpperlevel": 85,
+    "mp": 327.2,
+    "mpperlevel": 40,
+    "movespeed": 350,
+    "armor": 36,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7.59,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2.7,
+    "attackspeed": 0.668
+  },
+  "title": "the Voidreaver",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Lucian",
-  "name": "Lucian",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Lightslinger",
@@ -24,5 +20,37 @@
       "The Culling",
       "Lucian unleashes a torrent of shots from his weapons."
     ]
-  }
+	},
+  "blurd": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to...",
+  "display_name": "Lucian",
+  "free": false,
+  "key": "236",
+  "meta_tier": 3,
+  "name": "Lucian",
+  "partype": "Mana",
+  "stats": {
+    "hp": 571,
+    "hpperlevel": 86,
+    "mp": 348.88,
+    "mpperlevel": 38,
+    "movespeed": 335,
+    "armor": 28,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 500,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.65,
+    "mpregen": 8.176,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 2.75,
+    "attackspeedperlevel": 3.3,
+    "attackspeed": 0.638
+  },
+  "title": "the Purifier",
+  "version": "10.16.1"
+  
 }

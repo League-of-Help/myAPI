@@ -1,8 +1,4 @@
 {
-  "display_name": "Poppy",
-  "name": "Poppy",
-  "meta_tier": 3,
-  "free": true,
   "abilities": {
     "p": [
       "Iron Ambassador",
@@ -24,5 +20,37 @@
       "Keeper's Verdict",
       "Poppy channels a hammer strike that knocks enemies very far away."
     ]
-  }
+	},
+  "blurd": "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled “Hero of Demacia,” said...",
+  "display_name": "Poppy",
+  "free": true,
+  "key": "78",
+  "meta_tier": 3,
+  "name": "Poppy",
+  "partype": "Mana",
+  "stats": {
+    "hp": 540,
+    "hpperlevel": 90,
+    "mp": 280,
+    "mpperlevel": 40,
+    "movespeed": 345,
+    "armor": 38,
+    "armorperlevel": 3.5,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8,
+    "hpregenperlevel": 0.8,
+    "mpregen": 7,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.625
+  },
+  "title": "Keeper of the Hammer",
+  "version": "10.16.1"
+  
 }

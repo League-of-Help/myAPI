@@ -1,8 +1,4 @@
 {
-  "display_name": "Kindred",
-  "name": "Kindred",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Mark of the Kindred",
@@ -24,5 +20,37 @@
       "Lamb's Respite",
       "Lamb grants all living things inside a zone a respite from death. Until the effect ends, nothing can die. At the end, units are healed."
     ]
-  }
+	},
+  "blurd": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his...",
+  "display_name": "Kindred",
+  "free": false,
+  "key": "203",
+  "meta_tier": 3,
+  "name": "Kindred",
+  "partype": "Mana",
+  "stats": {
+    "hp": 540,
+    "hpperlevel": 85,
+    "mp": 300,
+    "mpperlevel": 35,
+    "movespeed": 325,
+    "armor": 29,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 500,
+    "hpregen": 7,
+    "hpregenperlevel": 0.55,
+    "mpregen": 7,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 65,
+    "attackdamageperlevel": 2.5,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.625
+  },
+  "title": "The Eternal Hunters",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Ahri",
-  "name": "Ahri",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Vastayan Grace",
@@ -24,5 +20,37 @@
       "Spirit Rush",
       "Ahri dashes forward and fires essence bolts, damaging nearby enemies. Spirit Rush can be cast up to three times before going on cooldown."
     ]
-  }
+	},
+  "blurd": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape magic into orbs of raw energy. She revels in toying with her prey by manipulating their emotions before devouring their life essence. Despite her predatory nature...",
+  "display_name": "Ahri",
+  "free": false,
+  "key": "103",
+  "meta_tier": 3,
+  "name": "Ahri",
+  "partype": "Mana",
+  "stats": {
+    "hp": 526,
+    "hpperlevel": 92,
+    "mp": 418,
+    "mpperlevel": 25,
+    "movespeed": 330,
+    "armor": 20.88,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.04,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.668
+  },
+  "title": "the Nine-Tailed Fox",
+  "version": "10.16.1"
+  
 }

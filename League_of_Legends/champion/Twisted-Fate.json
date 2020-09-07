@@ -1,8 +1,4 @@
 {
-  "display_name": "Twisted Fate",
-  "name": "Twisted-Fate",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Loaded Dice",
@@ -24,5 +20,37 @@
       "Destiny",
       "Twisted Fate predicts the fortunes of his foes, revealing all enemy champions and enabling the use of Gate, which teleports Twisted Fate to any target location in 1.5 seconds."
     ]
-  }
+	},
+  "blurd": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking...",
+  "display_name": "Twisted Fate",
+  "free": false,
+  "key": "4",
+  "meta_tier": 2,
+  "name": "Twisted-Fate",
+  "partype": "Mana",
+  "stats": {
+    "hp": 534,
+    "hpperlevel": 94,
+    "mp": 333,
+    "mpperlevel": 19,
+    "movespeed": 335,
+    "armor": 21,
+    "armorperlevel": 3.15,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 52,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 3.22,
+    "attackspeed": 0.651
+  },
+  "title": "the Card Master",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Katarina",
-  "name": "Katarina",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Voracity",
@@ -24,5 +20,37 @@
       "Death Lotus",
       "Katarina becomes a flurry of blades, dealing massive magic damage while she channels to the 3 nearest enemy champions."
     ]
-  }
+	},
+  "blurd": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven...",
+  "display_name": "Katarina",
+  "free": false,
+  "key": "55",
+  "meta_tier": 2,
+  "name": "Katarina",
+  "partype": "None",
+  "stats": {
+    "hp": 602,
+    "hpperlevel": 94,
+    "mp": 0,
+    "mpperlevel": 0,
+    "movespeed": 340,
+    "armor": 27.88,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.7,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 2.74,
+    "attackspeed": 0.658
+  },
+  "title": "the Sinister Blade",
+  "version": "10.16.1"
+  
 }

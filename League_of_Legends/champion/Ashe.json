@@ -1,8 +1,4 @@
 {
-  "display_name": "Ashe",
-  "name": "Ashe",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Frost Shot",
@@ -24,5 +20,37 @@
       "Enchanted Crystal Arrow",
       "Ashe fires a missile of ice in a straight line. If the arrow collides with an enemy Champion, it deals damage and stuns the Champion, stunning for longer the farther arrow has traveled. In addition, surrounding enemy units take damage and are slowed."
     ]
-  }
+	},
+  "blurd": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice...",
+  "display_name": "Ashe",
+  "free": false,
+  "key": "22",
+  "meta_tier": 1,
+  "name": "Ashe",
+  "partype": "Mana",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 87,
+    "mp": 280,
+    "mpperlevel": 32,
+    "movespeed": 325,
+    "armor": 26,
+    "armorperlevel": 3.4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 600,
+    "hpregen": 3.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6.972,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 2.96,
+    "attackspeedperlevel": 3.33,
+    "attackspeed": 0.658
+  },
+  "title": "the Frost Archer",
+  "version": "10.16.1"
+  
 }

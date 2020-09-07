@@ -1,8 +1,4 @@
 {
-  "display_name": "Ezreal",
-  "name": "Ezreal",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Rising Spell Force",
@@ -24,5 +20,37 @@
       "Trueshot Barrage",
       "Ezreal winds up before firing a powerful barrage of energy that deals massive damage to each unit it passes through (damage is reduced for minions and non-epic monsters)."
     ]
-  }
+	},
+  "blurd": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way...",
+  "display_name": "Ezreal",
+  "free": false,
+  "key": "81",
+  "meta_tier": 2,
+  "name": "Ezreal",
+  "partype": "Mana",
+  "stats": {
+    "hp": 530,
+    "hpperlevel": 88,
+    "mp": 375,
+    "mpperlevel": 50,
+    "movespeed": 325,
+    "armor": 22,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 4,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8.5,
+    "mpregenlevel": 0.65,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 2.5,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Prodigal Explorer",
+  "version": "10.16.1"
+  
 }

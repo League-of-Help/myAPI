@@ -1,8 +1,4 @@
 {
-  "display_name": "Tryndamere",
-  "name": "Tryndamere",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Battle Fury",
@@ -24,5 +20,37 @@
       "Undying Rage",
       "Tryndamere's lust for battle becomes so strong that he is unable to die, no matter how wounded he becomes."
     ]
-  }
+	},
+  "blurd": "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the...",
+  "display_name": "Tryndamere",
+  "free": false,
+  "key": "23",
+  "meta_tier": 5,
+  "name": "Tryndamere",
+  "partype": "Fury",
+  "stats": {
+    "hp": 625.64,
+    "hpperlevel": 98,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 33,
+    "armorperlevel": 3.1,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.9,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 69,
+    "attackdamageperlevel": 3.7,
+    "attackspeedperlevel": 2.9,
+    "attackspeed": 0.67
+  },
+  "title": "the Barbarian King",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Veigar",
-  "name": "Veigar",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Phenomenal Evil Power",
@@ -24,5 +20,37 @@
       "Primordial Burst",
       "Blasts target enemy champion, dealing a large amount of magic damage, increasing based on the target's missing health."
     ]
-  }
+	},
+  "blurd": "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been...",
+  "display_name": "Veigar",
+  "free": false,
+  "key": "45",
+  "meta_tier": 5,
+  "name": "Veigar",
+  "partype": "Mana",
+  "stats": {
+    "hp": 505,
+    "hpperlevel": 94,
+    "mp": 490,
+    "mpperlevel": 26,
+    "movespeed": 340,
+    "armor": 23,
+    "armorperlevel": 3.75,
+    "spellblock": 32,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 52,
+    "attackdamageperlevel": 2.7,
+    "attackspeedperlevel": 2.24,
+    "attackspeed": 0.625
+  },
+  "title": "the Tiny Master of Evil",
+  "version": "10.16.1"
+  
 }

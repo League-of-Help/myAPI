@@ -1,8 +1,4 @@
 {
-  "display_name": "Lillia",
-  "name": "Lillia",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Dream-Laden Bough",
@@ -24,5 +20,37 @@
       "Lilting Lullaby",
       "Lillia causes all enemies with Dream Dust on them to become Drowsy before falling asleep. Those enemies will take extra damage on being forcibly woken up."
     ]
-  }
+	},
+  "blurd": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming...",
+  "display_name": "Lillia",
+  "free": false,
+  "key": "876",
+  "meta_tier": 2,
+  "name": "Lillia",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 90,
+    "mp": 410,
+    "mpperlevel": 50,
+    "movespeed": 330,
+    "armor": 20,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 0.75,
+    "attackrange": 325,
+    "hpregen": 9,
+    "hpregenperlevel": 0.75,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.95,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2.7,
+    "attackspeed": 0.625
+  },
+  "title": "the Bashful Bloom",
+  "version": "10.16.1"
+  
 }

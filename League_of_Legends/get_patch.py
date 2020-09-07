@@ -12,7 +12,7 @@ def get_patch():
   except: url_0_result = '0'
 
   # Get the data from url_1
-  try: url_1_result = (json.loads(urllib.request.urlopen(url_1).read()))[0]
+  try: url_1_result = json.loads(urllib.request.urlopen(url_1).read())[0]
   except: url_1_result = '0'
 
   return max(url_0_result, url_1_result[0:5])

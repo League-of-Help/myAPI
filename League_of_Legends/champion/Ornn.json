@@ -1,8 +1,4 @@
 {
-  "display_name": "Ornn",
-  "name": "Ornn",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Living Forge",
@@ -24,5 +20,37 @@
       "Call of the Forge God",
       "Ornn summons a massive elemental at a location which travels toward him with increasing speed. Enemies run over by the elemental take damage, are slowed and are made Brittle. Ornn can recast the ability to charge into the elemental, redirecting it in the direction he hits it, causing the elemental to affect any enemies it runs over to be knocked up, dealing the same damage and re-applying Brittle."
     ]
-  }
+	},
+  "blurd": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion...",
+  "display_name": "Ornn",
+  "free": false,
+  "key": "516",
+  "meta_tier": 2,
+  "name": "Ornn",
+  "partype": "Mana",
+  "stats": {
+    "hp": 590,
+    "hpperlevel": 95,
+    "mp": 340.6,
+    "mpperlevel": 45,
+    "movespeed": 335,
+    "armor": 33,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 9,
+    "hpregenperlevel": 0.9,
+    "mpregen": 8.01,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 69,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.625
+  },
+  "title": "The Fire below the Mountain",
+  "version": "10.16.1"
+  
 }

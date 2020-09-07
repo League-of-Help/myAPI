@@ -1,8 +1,4 @@
 {
-  "display_name": "Kled",
-  "name": "Kled",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Skaarl, the Cowardly Lizard",
@@ -24,5 +20,37 @@
       "Chaaaaaaaarge!!!",
       "Kled and Skaarl charge to a location, leaving a speed-granting trail behind them and gaining a shield. Skaarl locks onto and rams the first enemy champion encountered."
     ]
-  }
+	},
+  "blurd": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire's soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the...",
+  "display_name": "Kled",
+  "free": false,
+  "key": "240",
+  "meta_tier": 2,
+  "name": "Kled",
+  "partype": "Courage",
+  "stats": {
+    "hp": 340,
+    "hpperlevel": 70,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 35,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 6,
+    "hpregenperlevel": 0.75,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 65,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Cantankerous Cavalier",
+  "version": "10.16.1"
+  
 }

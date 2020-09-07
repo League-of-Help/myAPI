@@ -1,8 +1,4 @@
 {
-  "display_name": "Orianna",
-  "name": "Orianna",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Clockwork Windup",
@@ -24,5 +20,37 @@
       "Command: Shockwave",
       "Orianna commands her Ball to unleash a shockwave, dealing magic damage and launching nearby enemies towards the Ball after a short delay."
     ]
-  }
+	},
+  "blurd": "Once a curious girl of flesh and blood, Orianna is now a technological marvel comprised entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice...",
+  "display_name": "Orianna",
+  "free": false,
+  "key": "61",
+  "meta_tier": 3,
+  "name": "Orianna",
+  "partype": "Mana",
+  "stats": {
+    "hp": 530,
+    "hpperlevel": 91,
+    "mp": 418,
+    "mpperlevel": 25,
+    "movespeed": 325,
+    "armor": 17.04,
+    "armorperlevel": 3,
+    "spellblock": 26,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 7,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 40.368,
+    "attackdamageperlevel": 2.6,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.658
+  },
+  "title": "the Lady of Clockwork",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Trundle",
-  "name": "Trundle",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "King's Tribute",
@@ -24,5 +20,37 @@
       "Subjugate",
       "Trundle immediately steals a percent of his target's Health, Armor and Magic Resistance. Over the next 4 seconds the amount of Health, Armor, and Magic Resistance stolen is doubled."
     ]
-  }
+	},
+  "blurd": "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his...",
+  "display_name": "Trundle",
+  "free": false,
+  "key": "48",
+  "meta_tier": 5,
+  "name": "Trundle",
+  "partype": "Mana",
+  "stats": {
+    "hp": 616,
+    "hpperlevel": 96,
+    "mp": 281,
+    "mpperlevel": 45,
+    "movespeed": 350,
+    "armor": 37,
+    "armorperlevel": 2.7,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 6,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7.5,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.9,
+    "attackspeed": 0.67
+  },
+  "title": "the Troll King",
+  "version": "10.16.1"
+  
 }

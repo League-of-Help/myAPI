@@ -1,8 +1,4 @@
 {
-  "display_name": "Janna",
-  "name": "Janna",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Tailwind",
@@ -24,5 +20,37 @@
       "Monsoon",
       "Janna surrounds herself in a magical storm, throwing enemies back. After the storm has settled, soothing winds heal nearby allies while the ability is active."
     ]
-  }
+	},
+  "blurd": "Armed with the power of Runeterra's gales, Janna is a mysterious, elemental wind spirit who protects the dispossessed of Zaun. Some believe she was brought into existence by the pleas of Runeterra's sailors who prayed for fair winds as they navigated...",
+  "display_name": "Janna",
+  "free": true,
+  "key": "40",
+  "meta_tier": 4,
+  "name": "Janna",
+  "partype": "Mana",
+  "stats": {
+    "hp": 500,
+    "hpperlevel": 70,
+    "mp": 350,
+    "mpperlevel": 64,
+    "movespeed": 315,
+    "armor": 28,
+    "armorperlevel": 3.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 46,
+    "attackdamageperlevel": 1.5,
+    "attackspeedperlevel": 2.95,
+    "attackspeed": 0.625
+  },
+  "title": "the Storm's Fury",
+  "version": "10.16.1"
+  
 }

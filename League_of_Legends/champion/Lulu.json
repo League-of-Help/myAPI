@@ -1,8 +1,4 @@
 {
-  "display_name": "Lulu",
-  "name": "Lulu",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Pix, Faerie Companion",
@@ -24,5 +20,37 @@
       "Wild Growth",
       "Lulu enlarges an ally, knocking nearby enemies into the air and granting the ally a large amount of bonus health. For the next few seconds, that ally gains an aura that slows nearby enemies."
     ]
-  }
+	},
+  "blurd": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this...",
+  "display_name": "Lulu",
+  "free": false,
+  "key": "117",
+  "meta_tier": 2,
+  "name": "Lulu",
+  "partype": "Mana",
+  "stats": {
+    "hp": 525,
+    "hpperlevel": 74,
+    "mp": 350,
+    "mpperlevel": 55,
+    "movespeed": 330,
+    "armor": 29,
+    "armorperlevel": 3.7,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 6,
+    "hpregenperlevel": 0.6,
+    "mpregen": 11,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 47,
+    "attackdamageperlevel": 2.6,
+    "attackspeedperlevel": 2.25,
+    "attackspeed": 0.625
+  },
+  "title": "the Fae Sorceress",
+  "version": "10.16.1"
+  
 }

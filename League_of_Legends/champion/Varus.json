@@ -1,8 +1,4 @@
 {
-  "display_name": "Varus",
-  "name": "Varus",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Living Vengeance",
@@ -24,5 +20,37 @@
       "Chain of Corruption",
       "Varus flings out a damaging tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact."
     ]
-  }
+	},
+  "blurd": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade...",
+  "display_name": "Varus",
+  "free": false,
+  "key": "110",
+  "meta_tier": 5,
+  "name": "Varus",
+  "partype": "Mana",
+  "stats": {
+    "hp": 530,
+    "hpperlevel": 91,
+    "mp": 360,
+    "mpperlevel": 33,
+    "movespeed": 330,
+    "armor": 27,
+    "armorperlevel": 3.4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 575,
+    "hpregen": 3.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.658
+  },
+  "title": "the Arrow of Retribution",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Azir",
-  "name": "Azir",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Shurima's Legacy",
@@ -24,5 +20,37 @@
       "Emperor's Divide",
       "Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies."
     ]
-  }
+	},
+  "blurd": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended...",
+  "display_name": "Azir",
+  "free": false,
+  "key": "268",
+  "meta_tier": 5,
+  "name": "Azir",
+  "partype": "Mana",
+  "stats": {
+    "hp": 552,
+    "hpperlevel": 92,
+    "mp": 480,
+    "mpperlevel": 21,
+    "movespeed": 335,
+    "armor": 19.04,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 7,
+    "hpregenperlevel": 0.75,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 52,
+    "attackdamageperlevel": 2.8,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.625
+  },
+  "title": "the Emperor of the Sands",
+  "version": "10.16.1"
+  
 }

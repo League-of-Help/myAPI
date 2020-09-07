@@ -1,8 +1,4 @@
 {
-  "display_name": "Irelia",
-  "name": "Irelia",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Ionian Fervor",
@@ -24,5 +20,37 @@
       "Vanguard's Edge",
       "Irelia fires a massive number of blades that explode outward upon hitting an enemy champion. Enemies hit by the blades are damaged and Marked. Afterwards the blades form a wall that will damage and slow enemies that walk through it."
     ]
-  }
+	},
+  "blurd": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of...",
+  "display_name": "Irelia",
+  "free": false,
+  "key": "39",
+  "meta_tier": 3,
+  "name": "Irelia",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 95,
+    "mp": 350,
+    "mpperlevel": 30,
+    "movespeed": 335,
+    "armor": 36,
+    "armorperlevel": 3,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 200,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.85,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.656
+  },
+  "title": "the Blade Dancer",
+  "version": "10.16.1"
+  
 }

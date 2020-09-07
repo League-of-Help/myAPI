@@ -1,8 +1,4 @@
 {
-  "display_name": "Zilean",
-  "name": "Zilean",
-  "meta_tier": 2,
-  "free": true,
   "abilities": {
     "p": [
       "Time In A Bottle",
@@ -24,5 +20,37 @@
       "Chronoshift",
       "Zilean places a protective time rune on an allied champion, teleporting the champion back in time if they take lethal damage."
     ]
-  }
+	},
+  "blurd": "Once a powerful Icathian mage, Zilean became obsessed with the passage of time after witnessing his homeland's destruction by the Void. Unable to spare even a minute to grieve the catastrophic loss, he called upon ancient temporal magic to divine all...",
+  "display_name": "Zilean",
+  "free": true,
+  "key": "26",
+  "meta_tier": 2,
+  "name": "Zilean",
+  "partype": "Mana",
+  "stats": {
+    "hp": 504,
+    "hpperlevel": 82,
+    "mp": 452,
+    "mpperlevel": 30,
+    "movespeed": 335,
+    "armor": 24,
+    "armorperlevel": 3.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.5,
+    "mpregen": 11.335,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 51.64,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.13,
+    "attackspeed": 0.625
+  },
+  "title": "the Chronokeeper",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Kayn",
-  "name": "Kayn",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "The Darkin Scythe",
@@ -24,5 +20,37 @@
       "Umbral Trespass",
       "Kayn hides in an enemy's body, dealing massive damage when he bursts out."
     ]
-  }
+	},
+  "blurd": "A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of...",
+  "display_name": "Kayn",
+  "free": false,
+  "key": "141",
+  "meta_tier": 2,
+  "name": "Kayn",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 85,
+    "mp": 410,
+    "mpperlevel": 50,
+    "movespeed": 340,
+    "armor": 38,
+    "armorperlevel": 3.3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8,
+    "hpregenperlevel": 0.75,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.95,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 2.7,
+    "attackspeed": 0.669
+  },
+  "title": "the Shadow Reaper",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Nami",
-  "name": "Nami",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Surging Tides",
@@ -24,5 +20,37 @@
       "Tidal Wave",
       "Summons a massive Tidal Wave that knocks up, slows, and damages enemies. Allies hit gain double the effect of Surging Tides."
     ]
-  }
+	},
+  "blurd": "A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred...",
+  "display_name": "Nami",
+  "free": false,
+  "key": "267",
+  "meta_tier": 4,
+  "name": "Nami",
+  "partype": "Mana",
+  "stats": {
+    "hp": 475,
+    "hpperlevel": 74,
+    "mp": 365,
+    "mpperlevel": 43,
+    "movespeed": 335,
+    "armor": 29,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 51.208,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2.61,
+    "attackspeed": 0.644
+  },
+  "title": "the Tidecaller",
+  "version": "10.16.1"
+  
 }

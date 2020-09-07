@@ -1,8 +1,4 @@
 {
-  "display_name": "Rek'Sai",
-  "name": "Rek-Sai",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Fury of the Xer'Sai",
@@ -24,5 +20,37 @@
       "Void Rush",
       "Rek'sai passively marks targets by damaging them. She can activate this ability to become briefly untargetable and lunge at a marked target for heavy damage based on their missing health."
     ]
-  }
+	},
+  "blurd": "An apex predator, Rek'Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed...",
+  "display_name": "Rek'Sai",
+  "free": false,
+  "key": "421",
+  "meta_tier": 1,
+  "name": "Rek-Sai",
+  "partype": "Rage",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 85,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 335,
+    "armor": 36,
+    "armorperlevel": 3.75,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.65,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.667
+  },
+  "title": "the Void Burrower",
+  "version": "10.16.1"
+  
 }

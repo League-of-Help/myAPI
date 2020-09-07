@@ -1,8 +1,4 @@
 {
-  "display_name": "Ryze",
-  "name": "Ryze",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Arcane Mastery",
@@ -24,5 +20,37 @@
       "Realm Warp",
       "Passively, Overload deals even more damage against targets with Flux.  On cast, Ryze creates a portal to a nearby location. After a few seconds, allies standing near the portal are teleported to the target location."
     ]
-  }
+	},
+  "blurd": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments...",
+  "display_name": "Ryze",
+  "free": false,
+  "key": "13",
+  "meta_tier": 5,
+  "name": "Ryze",
+  "partype": "Mana",
+  "stats": {
+    "hp": 575,
+    "hpperlevel": 98,
+    "mp": 300,
+    "mpperlevel": 50,
+    "movespeed": 340,
+    "armor": 22,
+    "armorperlevel": 3,
+    "spellblock": 36,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 8,
+    "hpregenperlevel": 0.8,
+    "mpregen": 8,
+    "mpregenlevel": 1,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.112,
+    "attackspeed": 0.625
+  },
+  "title": "the Rune Mage",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Master Yi",
-  "name": "Master-Yi",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Double Strike",
@@ -24,5 +20,37 @@
       "Highlander",
       "Master Yi moves with unparalleled agility, temporarily increasing his Movement and Attack Speeds as well as making him immune to all slowing effects. While active, Champion kills or assists extend Highlander's duration. Passively reduces cooldown for his other abilities on a kill or assist."
     ]
-  }
+	},
+  "blurd": "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of...",
+  "display_name": "Master Yi",
+  "free": false,
+  "key": "11",
+  "meta_tier": 3,
+  "name": "Master-Yi",
+  "partype": "Mana",
+  "stats": {
+    "hp": 598.56,
+    "hpperlevel": 92,
+    "mp": 250.56,
+    "mpperlevel": 42,
+    "movespeed": 355,
+    "armor": 33,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.65,
+    "mpregen": 7.256,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.679
+  },
+  "title": "the Wuju Bladesman",
+  "version": "10.16.1"
+  
 }

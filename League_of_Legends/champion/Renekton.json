@@ -1,8 +1,4 @@
 {
-  "display_name": "Renekton",
-  "name": "Renekton",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Reign of Anger",
@@ -24,5 +20,37 @@
       "Dominus",
       "Renekton transforms into the Tyrant form, gaining bonus Health and dealing damage to enemies around him. While in this form, Renekton gains Fury periodically."
     ]
-  }
+	},
+  "blurd": "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the nation's armies to countless victories. However, after the empire's fall, Renekton was entombed...",
+  "display_name": "Renekton",
+  "free": false,
+  "key": "58",
+  "meta_tier": 2,
+  "name": "Renekton",
+  "partype": "Fury",
+  "stats": {
+    "hp": 575,
+    "hpperlevel": 87,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 35,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8,
+    "hpregenperlevel": 0.75,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 69,
+    "attackdamageperlevel": 3.75,
+    "attackspeedperlevel": 2.75,
+    "attackspeed": 0.665
+  },
+  "title": "the Butcher of the Sands",
+  "version": "10.16.1"
+  
 }

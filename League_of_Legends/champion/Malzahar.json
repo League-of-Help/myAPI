@@ -1,8 +1,4 @@
 {
-  "display_name": "Malzahar",
-  "name": "Malzahar",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Void Shift",
@@ -24,5 +20,37 @@
       "Nether Grasp",
       "Malzahar channels the essence of the Void to suppress an enemy champion over a zone of damaging negative energy."
     ]
-  }
+	},
+  "blurd": "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra's salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient...",
+  "display_name": "Malzahar",
+  "free": false,
+  "key": "90",
+  "meta_tier": 3,
+  "name": "Malzahar",
+  "partype": "Mana",
+  "stats": {
+    "hp": 537,
+    "hpperlevel": 87,
+    "mp": 375,
+    "mpperlevel": 27.5,
+    "movespeed": 335,
+    "armor": 18,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 500,
+    "hpregen": 6,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 1.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Prophet of the Void",
+  "version": "10.16.1"
+  
 }

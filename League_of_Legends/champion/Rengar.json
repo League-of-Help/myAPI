@@ -1,8 +1,4 @@
 {
-  "display_name": "Rengar",
-  "name": "Rengar",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Unseen Predator",
@@ -24,5 +20,37 @@
       "Thrill of the Hunt",
       "Rengar's predatory instincts take over, Camouflaging him and revealing the nearest enemy champion in a large radius around him. During Thrill of the Hunt, Rengar gains Movement Speed and he can leap to the tracked enemy without being in brush, reducing their armor."
     ]
-  }
+	},
+  "blurd": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who...",
+  "display_name": "Rengar",
+  "free": false,
+  "key": "107",
+  "meta_tier": 2,
+  "name": "Rengar",
+  "partype": "Ferocity",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 90,
+    "mp": 4,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 34,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7,
+    "hpregenperlevel": 0.5,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.667
+  },
+  "title": "the Pridestalker",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Fiora",
-  "name": "Fiora",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Duelist's Dance",
@@ -24,5 +20,37 @@
       "Grand Challenge",
       "Fiora reveals all four Vitals on an enemy champion and gains movement speed while near them. If Fiora hits all 4 Vitals or if the target dies after she has hit at least one, Fiora and her allies in the area are healed over the next few seconds."
     ]
-  }
+	},
+  "blurd": "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and cunning mind as she is for the speed of her bluesteel rapier. Born to House Laurent in the kingdom of Demacia, Fiora took control of the family from her father in...",
+  "display_name": "Fiora",
+  "free": false,
+  "key": "114",
+  "meta_tier": 1,
+  "name": "Fiora",
+  "partype": "Mana",
+  "stats": {
+    "hp": 550,
+    "hpperlevel": 85,
+    "mp": 300,
+    "mpperlevel": 40,
+    "movespeed": 345,
+    "armor": 33,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 3.2,
+    "attackspeed": 0.69
+  },
+  "title": "the Grand Duelist",
+  "version": "10.16.1"
+  
 }

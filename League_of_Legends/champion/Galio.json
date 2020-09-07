@@ -1,8 +1,4 @@
 {
-  "display_name": "Galio",
-  "name": "Galio",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Colossal Smash",
@@ -24,5 +20,37 @@
       "Hero's Entrance",
       "Galio designates an ally's position as his landing spot, granting all allies in the area a magic shield. After a delay Galio smashes down location, knocking up nearby enemies."
     ]
-  }
+	},
+  "blurd": "Outside the gleaming city of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the...",
+  "display_name": "Galio",
+  "free": false,
+  "key": "3",
+  "meta_tier": 1,
+  "name": "Galio",
+  "partype": "Mana",
+  "stats": {
+    "hp": 562,
+    "hpperlevel": 112,
+    "mp": 500,
+    "mpperlevel": 40,
+    "movespeed": 335,
+    "armor": 24,
+    "armorperlevel": 3.5,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 8,
+    "hpregenperlevel": 0.8,
+    "mpregen": 9.5,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 59,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 1.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Colossus",
+  "version": "10.16.1"
+  
 }

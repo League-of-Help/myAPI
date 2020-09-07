@@ -1,8 +1,4 @@
 {
-  "display_name": "Camille",
-  "name": "Camille",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Adaptive Defenses",
@@ -24,5 +20,37 @@
       "The Hextech Ultimatum",
       "Camille dashes to target champion, anchoring them to the area. She also deals bonus magic damage to the target with her basic attacks."
     ]
-  }
+	},
+  "blurd": "Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros—an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly runs smoothly. Adaptable and precise, she views sloppy...",
+  "display_name": "Camille",
+  "free": false,
+  "key": "164",
+  "meta_tier": 1,
+  "name": "Camille",
+  "partype": "Mana",
+  "stats": {
+    "hp": 575.6,
+    "hpperlevel": 85,
+    "mp": 338.8,
+    "mpperlevel": 32,
+    "movespeed": 340,
+    "armor": 35,
+    "armorperlevel": 3.8,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.8,
+    "mpregen": 8.15,
+    "mpregenlevel": 0.75,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.644
+  },
+  "title": "the Steel Shadow",
+  "version": "10.16.1"
+  
 }

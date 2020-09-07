@@ -1,8 +1,4 @@
 {
-  "display_name": "Rumble",
-  "name": "Rumble",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Junkyard Titan",
@@ -24,5 +20,37 @@
       "The Equalizer",
       "Rumble fires off a group of rockets, creating a wall of flames that damages and slows enemies."
     ]
-  }
+	},
+  "blurd": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff...",
+  "display_name": "Rumble",
+  "free": false,
+  "key": "68",
+  "meta_tier": 4,
+  "name": "Rumble",
+  "partype": "Heat",
+  "stats": {
+    "hp": 589,
+    "hpperlevel": 85,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 31,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8,
+    "hpregenperlevel": 0.6,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 1.85,
+    "attackspeed": 0.644
+  },
+  "title": "the Mechanized Menace",
+  "version": "10.16.1"
+  
 }

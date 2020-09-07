@@ -1,8 +1,4 @@
 {
-  "display_name": "Jinx",
-  "name": "Jinx",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Get Excited!",
@@ -24,5 +20,37 @@
       "Super Mega Death Rocket!",
       "Jinx fires a super rocket across the map that gains damage as it travels. The rocket will explode upon colliding with an enemy champion, dealing damage to it and surrounding enemies based on their missing Health."
     ]
-  }
+	},
+  "blurd": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx...",
+  "display_name": "Jinx",
+  "free": false,
+  "key": "222",
+  "meta_tier": 4,
+  "name": "Jinx",
+  "partype": "Mana",
+  "stats": {
+    "hp": 610,
+    "hpperlevel": 86,
+    "mp": 245,
+    "mpperlevel": 45,
+    "movespeed": 325,
+    "armor": 28,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.5,
+    "mpregen": 6.7,
+    "mpregenlevel": 1,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 57,
+    "attackdamageperlevel": 3.4,
+    "attackspeedperlevel": 1,
+    "attackspeed": 0.625
+  },
+  "title": "the Loose Cannon",
+  "version": "10.16.1"
+  
 }

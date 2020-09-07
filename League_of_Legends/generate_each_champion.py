@@ -20,9 +20,15 @@ except:
 
 class load_LoL_data():
   def __init__(self):
+    # ddragon_version = json.loads(urllib.request.urlopen('https://ddragon.leagueoflegends.com/api/versions.json').read())[0]
+    ddragon_version = requests.get('https://ddragon.leagueoflegends.com/api/versions.json').json()[0]
     self.urls = {
       'league of legends': {
-        'champions': 'https://na.leagueoflegends.com/champions'
+        'champions': 'https://na.leagueoflegends.com/champions',
+        'ddragon': {
+            'version': 'https://ddragon.leagueoflegends.com/api/versions.json',
+            'champions': f'http://ddragon.leagueoflegends.com/cdn/{ddragon_version}/data/en_US/champion.json'
+        }
       },
       'league of legends fandom': {
         'free rotation': 'https://leagueoflegends.fandom.com/wiki/Free_champion_rotation'
@@ -31,6 +37,11 @@ class load_LoL_data():
         'champions': 'https://na.op.gg/champion'
       }
     }
+    print(self.urls['league of legends']['ddragon']['champions'])
+
+  def load_ddragon(self, champion):
+    data = requests.get(self.urls['league of legends']['ddragon']['champions']).json()['data']
+    return data[champion]
   
   def load_url(self, url):
     return html.fromstring(requests.get(url).content)
@@ -80,15 +91,16 @@ if __name__ == '__main__' and internet_access:          # Run the programm if th
     else: name = champion
     champion_abilities = data.get_champion_ability(name.lower())
 
+    try: champion_riot_data = data.load_ddragon(name.replace('-', ''))
+    except:
+      try: champion_riot_data = data.load_ddragon(name[0] + name[1:].replace('-', '').lower())
+      except: pass
+
     if champion in free_rotation: free = 'true'
     else: free = 'false'
 
     try:
       word = f'''{{
-  "display_name": "{champion}",
-  "name": "{name}",
-  "meta_tier": {data.get_champion_meta_tier(champion)},
-  "free": {free},
   "abilities": {{
     "p": [
       "{champion_abilities[0]}",
@@ -109,8 +121,39 @@ if __name__ == '__main__' and internet_access:          # Run the programm if th
     "r": [
       "{champion_abilities[8]}",
       "{champion_abilities[9]}"
-    ]
-  }}\n}}'''
+    ]\n\t}},
+  "blurd": "{champion_riot_data["blurb"]}",
+  "display_name": "{champion}",
+  "free": {free},
+  "key": "{champion_riot_data["key"]}",
+  "meta_tier": {data.get_champion_meta_tier(champion)},
+  "name": "{name}",
+  "partype": "{champion_riot_data["partype"]}",
+  "stats": {{
+    "hp": {champion_riot_data["stats"]["hp"]},
+    "hpperlevel": {champion_riot_data["stats"]["hpperlevel"]},
+    "mp": {champion_riot_data["stats"]["mp"]},
+    "mpperlevel": {champion_riot_data["stats"]["mpperlevel"]},
+    "movespeed": {champion_riot_data["stats"]["movespeed"]},
+    "armor": {champion_riot_data["stats"]["armor"]},
+    "armorperlevel": {champion_riot_data["stats"]["armorperlevel"]},
+    "spellblock": {champion_riot_data["stats"]["spellblock"]},
+    "spellblockperlevel": {champion_riot_data["stats"]["spellblockperlevel"]},
+    "attackrange": {champion_riot_data["stats"]["attackrange"]},
+    "hpregen": {champion_riot_data["stats"]["hpregen"]},
+    "hpregenperlevel": {champion_riot_data["stats"]["hpregenperlevel"]},
+    "mpregen": {champion_riot_data["stats"]["mpregen"]},
+    "mpregenlevel": {champion_riot_data["stats"]["mpregenperlevel"]},
+    "crit": {champion_riot_data["stats"]["crit"]},
+    "critperlevel": {champion_riot_data["stats"]["critperlevel"]},
+    "attackdamage": {champion_riot_data["stats"]["attackdamage"]},
+    "attackdamageperlevel": {champion_riot_data["stats"]["attackdamageperlevel"]},
+    "attackspeedperlevel": {champion_riot_data["stats"]["attackspeedperlevel"]},
+    "attackspeed": {champion_riot_data["stats"]["attackspeed"]}
+  }},
+  "title": "{champion_riot_data["title"]}",
+  "version": "{champion_riot_data["version"]}"
+  \n}}'''
     except: word = '"No data"'
 
     with open(f'{path}/{name}.json', 'w+') as f:

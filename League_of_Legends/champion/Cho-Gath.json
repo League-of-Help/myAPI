@@ -1,8 +1,4 @@
 {
-  "display_name": "Cho'Gath",
-  "name": "Cho-Gath",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Carnivore",
@@ -24,5 +20,37 @@
       "Feast",
       "Devours an enemy unit, dealing a high amount of true damage. If the target is killed, Cho'Gath grows, gaining maximum Health."
     ]
-  }
+	},
+  "blurd": "From the moment Cho'Gath first emerged into the harsh light of Runeterra's sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void's desire to consume all life, Cho'Gath's complex biology quickly converts...",
+  "display_name": "Cho'Gath",
+  "free": false,
+  "key": "31",
+  "meta_tier": 5,
+  "name": "Cho-Gath",
+  "partype": "Mana",
+  "stats": {
+    "hp": 574.4,
+    "hpperlevel": 80,
+    "mp": 272.2,
+    "mpperlevel": 40,
+    "movespeed": 345,
+    "armor": 38,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 9,
+    "hpregenperlevel": 0.85,
+    "mpregen": 7.206,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 69,
+    "attackdamageperlevel": 4.2,
+    "attackspeedperlevel": 1.44,
+    "attackspeed": 0.625
+  },
+  "title": "the Terror of the Void",
+  "version": "10.16.1"
+  
 }

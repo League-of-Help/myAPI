@@ -1,8 +1,4 @@
 {
-  "display_name": "Sona",
-  "name": "Sona",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Power Chord",
@@ -24,5 +20,37 @@
       "Crescendo",
       "Sona plays her ultimate chord, stunning enemy champions and forcing them to dance and dealing magic damage to them. Each rank reduces the base cooldown of Sona's basic abilities."
     ]
-  }
+	},
+  "blurd": "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a...",
+  "display_name": "Sona",
+  "free": false,
+  "key": "37",
+  "meta_tier": 2,
+  "name": "Sona",
+  "partype": "Mana",
+  "stats": {
+    "hp": 482.36,
+    "hpperlevel": 77,
+    "mp": 340.6,
+    "mpperlevel": 45,
+    "movespeed": 325,
+    "armor": 28,
+    "armorperlevel": 3.3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 49,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.3,
+    "attackspeed": 0.644
+  },
+  "title": "Maven of the Strings",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Qiyana",
-  "name": "Qiyana",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Royal Privilege",
@@ -24,5 +20,37 @@
       "Supreme Display of Talent",
       "Qiyana sends out a shockwave that detonates whatever elements she hits with it, stunning and damaging nearby enemies."
     ]
-  }
+	},
+  "blurd": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the...",
+  "display_name": "Qiyana",
+  "free": false,
+  "key": "246",
+  "meta_tier": 3,
+  "name": "Qiyana",
+  "partype": "Mana",
+  "stats": {
+    "hp": 590,
+    "hpperlevel": 90,
+    "mp": 320,
+    "mpperlevel": 50,
+    "movespeed": 335,
+    "armor": 28,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.65,
+    "mpregen": 8,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2.1,
+    "attackspeed": 0.625
+  },
+  "title": "Empress of the Elements",
+  "version": "10.16.1"
+  
 }

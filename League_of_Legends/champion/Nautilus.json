@@ -1,8 +1,4 @@
 {
-  "display_name": "Nautilus",
-  "name": "Nautilus",
-  "meta_tier": 3,
-  "free": true,
   "abilities": {
     "p": [
       "Staggering Blow",
@@ -24,5 +20,37 @@
       "Depth Charge",
       "Nautilus fires a shockwave into the earth that chases an opponent. This shockwave rips up the earth above it, knocking enemies into the air. When it reaches the opponent, the shockwave erupts, knocking his target into the air and stunning them."
     ]
-  }
+	},
+  "blurd": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to...",
+  "display_name": "Nautilus",
+  "free": true,
+  "key": "111",
+  "meta_tier": 3,
+  "name": "Nautilus",
+  "partype": "Mana",
+  "stats": {
+    "hp": 576.48,
+    "hpperlevel": 86,
+    "mp": 400,
+    "mpperlevel": 47,
+    "movespeed": 325,
+    "armor": 39,
+    "armorperlevel": 3.75,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8.626,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 1,
+    "attackspeed": 0.706
+  },
+  "title": "the Titan of the Depths",
+  "version": "10.16.1"
+  
 }

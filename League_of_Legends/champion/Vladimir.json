@@ -1,8 +1,4 @@
 {
-  "display_name": "Vladimir",
-  "name": "Vladimir",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Crimson Pact",
@@ -24,5 +20,37 @@
       "Hemoplague",
       "Vladimir infects an area with a virulent plague. Affected enemies take increased damage for the duration. After a few seconds, Hemoplague deals magic damage to infected enemies and heals Vladimir for each enemy Champion hit."
     ]
-  }
+	},
+  "blurd": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire's earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily...",
+  "display_name": "Vladimir",
+  "free": false,
+  "key": "8",
+  "meta_tier": 3,
+  "name": "Vladimir",
+  "partype": "Crimson Rush",
+  "stats": {
+    "hp": 537,
+    "hpperlevel": 96,
+    "mp": 2,
+    "mpperlevel": 0,
+    "movespeed": 330,
+    "armor": 23,
+    "armorperlevel": 3.3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 450,
+    "hpregen": 7,
+    "hpregenperlevel": 0.6,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.658
+  },
+  "title": "the Crimson Reaper",
+  "version": "10.16.1"
+  
 }

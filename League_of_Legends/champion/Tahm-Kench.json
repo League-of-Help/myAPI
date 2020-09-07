@@ -1,8 +1,4 @@
 {
-  "display_name": "Tahm Kench",
-  "name": "Tahm-Kench",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "An Acquired Taste",
@@ -24,5 +20,37 @@
       "Abyssal Voyage",
       "Tahm Kench teleports across the map, and he may bring one ally champion with him."
     ]
-  }
+	},
+  "blurd": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a...",
+  "display_name": "Tahm Kench",
+  "free": false,
+  "key": "223",
+  "meta_tier": 5,
+  "name": "Tahm-Kench",
+  "partype": "Mana",
+  "stats": {
+    "hp": 600,
+    "hpperlevel": 100,
+    "mp": 325,
+    "mpperlevel": 40,
+    "movespeed": 335,
+    "armor": 47,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 1,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 56,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.658
+  },
+  "title": "the River King",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Lee Sin",
-  "name": "Lee-Sin",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Flurry",
@@ -24,5 +20,37 @@
       "Dragon's Rage",
       "Lee Sin performs a powerful roundhouse kick launching his target back, dealing physical damage to the target and any enemies they collide with. Enemies the target collides with are knocked into the air for a short duration. This technique was taught to him by Jesse Perring, although Lee Sin does not kick players off the map."
     ]
-  }
+	},
+  "blurd": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland...",
+  "display_name": "Lee Sin",
+  "free": false,
+  "key": "64",
+  "meta_tier": 3,
+  "name": "Lee-Sin",
+  "partype": "Energy",
+  "stats": {
+    "hp": 575,
+    "hpperlevel": 85,
+    "mp": 200,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 33,
+    "armorperlevel": 3.7,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.7,
+    "mpregen": 50,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 70,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.651
+  },
+  "title": "the Blind Monk",
+  "version": "10.16.1"
+  
 }

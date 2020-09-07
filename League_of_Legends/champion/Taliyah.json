@@ -1,8 +1,4 @@
 {
-  "display_name": "Taliyah",
-  "name": "Taliyah",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Rock Surfing",
@@ -24,5 +20,37 @@
       "Weaver's Wall",
       "Taliyah creates a very long wall and then surfs it."
     ]
-  }
+	},
+  "blurd": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe...",
+  "display_name": "Taliyah",
+  "free": false,
+  "key": "163",
+  "meta_tier": 5,
+  "name": "Taliyah",
+  "partype": "Mana",
+  "stats": {
+    "hp": 532,
+    "hpperlevel": 90,
+    "mp": 425,
+    "mpperlevel": 30,
+    "movespeed": 335,
+    "armor": 20,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 7,
+    "hpregenperlevel": 0.7,
+    "mpregen": 9.335,
+    "mpregenlevel": 0.85,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.625
+  },
+  "title": "the Stoneweaver",
+  "version": "10.16.1"
+  
 }

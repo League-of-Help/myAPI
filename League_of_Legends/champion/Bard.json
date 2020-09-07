@@ -1,8 +1,4 @@
 {
-  "display_name": "Bard",
-  "name": "Bard",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Traveler's Call",
@@ -24,5 +20,37 @@
       "Tempered Fate",
       "Bard sends spirit energy arcing to a location, putting all champions, minions, monsters, and turrets hit into stasis for a brief time."
     ]
-  }
+	},
+  "blurd": "A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic...",
+  "display_name": "Bard",
+  "free": false,
+  "key": "432",
+  "meta_tier": 1,
+  "name": "Bard",
+  "partype": "Mana",
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 89,
+    "mp": 350,
+    "mpperlevel": 50,
+    "movespeed": 330,
+    "armor": 34,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 500,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 52,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.625
+  },
+  "title": "the Wandering Caretaker",
+  "version": "10.16.1"
+  
 }

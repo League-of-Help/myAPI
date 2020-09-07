@@ -1,8 +1,4 @@
 {
-  "display_name": "Taric",
-  "name": "Taric",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Bravado",
@@ -24,5 +20,37 @@
       "Cosmic Radiance",
       "Pulses cosmic energy onto nearby allied champions after a delay, making them invulnerable for a short duration."
     ]
-  }
+	},
+  "blurd": "Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a...",
+  "display_name": "Taric",
+  "free": false,
+  "key": "44",
+  "meta_tier": 3,
+  "name": "Taric",
+  "partype": "Mana",
+  "stats": {
+    "hp": 575,
+    "hpperlevel": 85,
+    "mp": 300,
+    "mpperlevel": 60,
+    "movespeed": 340,
+    "armor": 40,
+    "armorperlevel": 3.4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 6,
+    "hpregenperlevel": 0.5,
+    "mpregen": 8.5,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.625
+  },
+  "title": "the Shield of Valoran",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Kassadin",
-  "name": "Kassadin",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Void Stone",
@@ -24,5 +20,37 @@
       "Riftwalk",
       "Kassadin teleports to a nearby location dealing damage to nearby enemy units. Multiple Riftwalks in a short period of time cost additional Mana but also deal additional damage."
     ]
-  }
+	},
+  "blurd": "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes—until the day his village was...",
+  "display_name": "Kassadin",
+  "free": false,
+  "key": "38",
+  "meta_tier": 2,
+  "name": "Kassadin",
+  "partype": "Mana",
+  "stats": {
+    "hp": 576,
+    "hpperlevel": 90,
+    "mp": 397.6,
+    "mpperlevel": 67,
+    "movespeed": 335,
+    "armor": 19,
+    "armorperlevel": 2.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 150,
+    "hpregen": 6,
+    "hpregenperlevel": 0.5,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58.852,
+    "attackdamageperlevel": 3.9,
+    "attackspeedperlevel": 3.7,
+    "attackspeed": 0.64
+  },
+  "title": "the Void Walker",
+  "version": "10.16.1"
+  
 }

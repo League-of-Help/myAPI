@@ -1,8 +1,4 @@
 {
-  "display_name": "Diana",
-  "name": "Diana",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Moonsilver Blade",
@@ -24,5 +20,37 @@
       "Moonfall",
       "Diana reveals and draws in all nearby enemies and slows them.  If Diana pulls in one or more enemy champions, the moonlight crashes down onto her after a short delay, dealing magic damage in an area around her, increased for each target beyond the first pulled."
     ]
-  }
+	},
+  "blurd": "Bearing her crescent moonblade, Diana fights as a warrior of the Lunari—a faith all but quashed in the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon's power. Imbued...",
+  "display_name": "Diana",
+  "free": true,
+  "key": "131",
+  "meta_tier": 4,
+  "name": "Diana",
+  "partype": "Mana",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 95,
+    "mp": 375,
+    "mpperlevel": 25,
+    "movespeed": 345,
+    "armor": 31,
+    "armorperlevel": 3.6,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.85,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 57,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.25,
+    "attackspeed": 0.625
+  },
+  "title": "Scorn of the Moon",
+  "version": "10.16.1"
+  
 }

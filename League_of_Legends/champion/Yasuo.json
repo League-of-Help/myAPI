@@ -1,8 +1,4 @@
 {
-  "display_name": "Yasuo",
-  "name": "Yasuo",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Way of the Wanderer",
@@ -24,5 +20,37 @@
       "Last Breath",
       "Blinks to an Airborne enemy champion, dealing physical damage and holding all Airborne enemies in the area in the air. Grants maximum Flow but resets all stacks of Gathering Storm.  For a moderate time afterwards, Yasuo's critical strikes gain significant Bonus Armor Penetration."
     ]
-  }
+	},
+  "blurd": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self...",
+  "display_name": "Yasuo",
+  "free": false,
+  "key": "157",
+  "meta_tier": 2,
+  "name": "Yasuo",
+  "partype": "Flow",
+  "stats": {
+    "hp": 490,
+    "hpperlevel": 87,
+    "mp": 100,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 30,
+    "armorperlevel": 3.4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.9,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.697
+  },
+  "title": "the Unforgiven",
+  "version": "10.16.1"
+  
 }

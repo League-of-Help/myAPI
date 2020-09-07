@@ -1,8 +1,4 @@
 {
-  "display_name": "Swain",
-  "name": "Swain",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Ravenous Flock",
@@ -24,5 +20,37 @@
       "Demonic Ascension",
       "Swain transforms into a demon and drains health from nearby enemy champions, minions, and neutral monsters. Swain can cast Demonflare to decimate nearby enemies with a nova of soulfire, dealing damage equal to a portion of the health he drained and ending his transformation."
     ]
-  }
+	},
+  "blurd": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new...",
+  "display_name": "Swain",
+  "free": false,
+  "key": "50",
+  "meta_tier": 4,
+  "name": "Swain",
+  "partype": "Mana",
+  "stats": {
+    "hp": 525,
+    "hpperlevel": 85,
+    "mp": 468,
+    "mpperlevel": 28.5,
+    "movespeed": 325,
+    "armor": 22.72,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 7,
+    "hpregenperlevel": 0.65,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58,
+    "attackdamageperlevel": 2.7,
+    "attackspeedperlevel": 2.11,
+    "attackspeed": 0.625
+  },
+  "title": "the Noxian Grand General",
+  "version": "10.16.1"
+  
 }

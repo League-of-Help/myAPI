@@ -1,8 +1,4 @@
 {
-  "display_name": "Jhin",
-  "name": "Jhin",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Whisper",
@@ -24,5 +20,37 @@
       "Curtain Call",
       "Jhin channels, transforming Whisper into a shoulder-mounted mega-cannon. It is able to fire 4 super shots at extreme range that pierce through minions and monsters, but stop on the first champion impacted. Whisper cripples enemies hit, which slows them and deals execute damage. The 4th shot is perfectly crafted, epically powerful, and guaranteed to critically strike."
     ]
-  }
+	},
+  "blurd": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin...",
+  "display_name": "Jhin",
+  "free": false,
+  "key": "202",
+  "meta_tier": 2,
+  "name": "Jhin",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 93,
+    "mp": 300,
+    "mpperlevel": 50,
+    "movespeed": 330,
+    "armor": 24,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 59,
+    "attackdamageperlevel": 4.7,
+    "attackspeedperlevel": 0,
+    "attackspeed": 0.625
+  },
+  "title": "the Virtuoso",
+  "version": "10.16.1"
+  
 }

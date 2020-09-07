@@ -1,8 +1,4 @@
 {
-  "display_name": "Jax",
-  "name": "Jax",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Relentless Assault",
@@ -24,5 +20,37 @@
       "Grandmaster's Might",
       "Every third consecutive attack deals additional Magic Damage. Additionally, Jax can activate this ability to strengthen his resolve, increasing his Armor and Magic Resist for a short duration."
     ]
-  }
+	},
+  "blurd": "Unmatched in both his skill with unique armaments and his biting sarcasm, Jax is the last known weapons master of Icathia. After his homeland was laid low by its own hubris in unleashing the Void, Jax and his kind vowed to protect what little remained...",
+  "display_name": "Jax",
+  "free": false,
+  "key": "24",
+  "meta_tier": 2,
+  "name": "Jax",
+  "partype": "Mana",
+  "stats": {
+    "hp": 592.8,
+    "hpperlevel": 85,
+    "mp": 338.8,
+    "mpperlevel": 32,
+    "movespeed": 350,
+    "armor": 36,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 7.576,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3.375,
+    "attackspeedperlevel": 3.4,
+    "attackspeed": 0.638
+  },
+  "title": "Grandmaster at Arms",
+  "version": "10.16.1"
+  
 }

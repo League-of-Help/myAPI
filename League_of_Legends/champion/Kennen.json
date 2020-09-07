@@ -1,8 +1,4 @@
 {
-  "display_name": "Kennen",
-  "name": "Kennen",
-  "meta_tier": 5,
-  "free": true,
   "abilities": {
     "p": [
       "Mark of the Storm",
@@ -24,5 +20,37 @@
       "Slicing Maelstrom",
       "Kennen summons a storm that strikes at nearby enemy champions for magical damage."
     ]
-  }
+	},
+  "blurd": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his...",
+  "display_name": "Kennen",
+  "free": true,
+  "key": "85",
+  "meta_tier": 5,
+  "name": "Kennen",
+  "partype": "Energy",
+  "stats": {
+    "hp": 541,
+    "hpperlevel": 84,
+    "mp": 200,
+    "mpperlevel": 0,
+    "movespeed": 335,
+    "armor": 29,
+    "armorperlevel": 3.75,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.65,
+    "mpregen": 50,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 48,
+    "attackdamageperlevel": 3.75,
+    "attackspeedperlevel": 3.4,
+    "attackspeed": 0.625
+  },
+  "title": "the Heart of the Tempest",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Yone",
-  "name": "Yone",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Way of the Hunter",
@@ -24,5 +20,37 @@
       "Fate Sealed",
       "Yone blinks behind the last champion in a line with a slash so powerful it pulls all enemies hit towards him."
     ]
-  }
+	},
+  "blurd": "In life, he was Yone—half-brother of Yasuo, and renowned student of his village's sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own...",
+  "display_name": "Yone",
+  "free": false,
+  "key": "777",
+  "meta_tier": 1,
+  "name": "Yone",
+  "partype": "Flow",
+  "stats": {
+    "hp": 550,
+    "hpperlevel": 85,
+    "mp": 500,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 28,
+    "armorperlevel": 3.4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Unforgotten",
+  "version": "10.16.1"
+  
 }

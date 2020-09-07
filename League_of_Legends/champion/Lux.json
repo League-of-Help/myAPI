@@ -1,8 +1,4 @@
 {
-  "display_name": "Lux",
-  "name": "Lux",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Illumination",
@@ -24,5 +20,37 @@
       "Final Spark",
       "After gathering energy, Lux fires a beam of light that deals damage to all targets in the area. In addition, triggers Lux's passive ability and refreshes the Illumination debuff duration."
     ]
-  }
+	},
+  "blurd": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve...",
+  "display_name": "Lux",
+  "free": false,
+  "key": "99",
+  "meta_tier": 1,
+  "name": "Lux",
+  "partype": "Mana",
+  "stats": {
+    "hp": 490,
+    "hpperlevel": 85,
+    "mp": 480,
+    "mpperlevel": 23.5,
+    "movespeed": 330,
+    "armor": 18.72,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.54,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 1,
+    "attackspeed": 0.669
+  },
+  "title": "the Lady of Luminosity",
+  "version": "10.16.1"
+  
 }

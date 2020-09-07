@@ -1,8 +1,4 @@
 {
-  "display_name": "Xin Zhao",
-  "name": "Xin-Zhao",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Determination",
@@ -24,5 +20,37 @@
       "Crescent Guard",
       "Xin Zhao deals damage to nearby enemies based on their current Health and knocks non-challenged targets back. Xin Zhao is impervious to damage dealt by champions outside of the circle created."
     ]
-  }
+	},
+  "blurd": "Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave...",
+  "display_name": "Xin Zhao",
+  "free": true,
+  "key": "5",
+  "meta_tier": 4,
+  "name": "Xin-Zhao",
+  "partype": "Mana",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 92,
+    "mp": 273.8,
+    "mpperlevel": 35,
+    "movespeed": 345,
+    "armor": 35,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8,
+    "hpregenperlevel": 0.7,
+    "mpregen": 7.256,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.645
+  },
+  "title": "the Seneschal of Demacia",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Karma",
-  "name": "Karma",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Gathering Fire",
@@ -24,5 +20,37 @@
       "Mantra",
       "Karma empowers her next ability to do an additional effect. Mantra is available at level 1 and does not require a skill point."
     ]
-  }
+	},
+  "blurd": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can...",
+  "display_name": "Karma",
+  "free": false,
+  "key": "43",
+  "meta_tier": 4,
+  "name": "Karma",
+  "partype": "Mana",
+  "stats": {
+    "hp": 534,
+    "hpperlevel": 95,
+    "mp": 374,
+    "mpperlevel": 50,
+    "movespeed": 335,
+    "armor": 26,
+    "armorperlevel": 3.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.544,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 2.3,
+    "attackspeed": 0.625
+  },
+  "title": "the Enlightened One",
+  "version": "10.16.1"
+  
 }

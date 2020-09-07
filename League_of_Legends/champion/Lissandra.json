@@ -1,8 +1,4 @@
 {
-  "display_name": "Lissandra",
-  "name": "Lissandra",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Iceborn Subjugation",
@@ -24,5 +20,37 @@
       "Frozen Tomb",
       "If cast on an enemy champion, the target is frozen solid, stunning it. If cast on Lissandra, she encases herself in dark ice, healing herself while becoming untargetable and invulnerable. Dark ice then emanates from the target dealing magic damage to enemies and slowing Movement Speed."
     ]
-  }
+	},
+  "blurd": "Lissandra's magic twists the pure power of ice into something dark and terrible. With the force of her black ice, she does more than freeze—she impales and crushes those who oppose her. To the terrified denizens of the north, she is known only as ''The...",
+  "display_name": "Lissandra",
+  "free": false,
+  "key": "127",
+  "meta_tier": 5,
+  "name": "Lissandra",
+  "partype": "Mana",
+  "stats": {
+    "hp": 550,
+    "hpperlevel": 90,
+    "mp": 475,
+    "mpperlevel": 30,
+    "movespeed": 325,
+    "armor": 22,
+    "armorperlevel": 3.7,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 7,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53,
+    "attackdamageperlevel": 2.7,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.656
+  },
+  "title": "the Ice Witch",
+  "version": "10.16.1"
+  
 }

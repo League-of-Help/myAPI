@@ -1,8 +1,4 @@
 {
-  "display_name": "Teemo",
-  "name": "Teemo",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Guerrilla Warfare",
@@ -24,5 +20,37 @@
       "Noxious Trap",
       "Teemo throws an explosive poisonous trap using one of the mushrooms stored in his pack. If an enemy steps on the trap, it will release a poisonous cloud, slowing enemies and damaging them over time. If Teemo throws a mushroom onto another mushroom it will bounce, gaining additional range."
     ]
-  }
+	},
+  "blurd": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes...",
+  "display_name": "Teemo",
+  "free": false,
+  "key": "17",
+  "meta_tier": 2,
+  "name": "Teemo",
+  "partype": "Mana",
+  "stats": {
+    "hp": 528,
+    "hpperlevel": 90,
+    "mp": 334,
+    "mpperlevel": 20,
+    "movespeed": 330,
+    "armor": 24.3,
+    "armorperlevel": 3.75,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 500,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.65,
+    "mpregen": 9.6,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 54,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.38,
+    "attackspeed": 0.69
+  },
+  "title": "the Swift Scout",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Shaco",
-  "name": "Shaco",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Backstab",
@@ -24,5 +20,37 @@
       "Hallucinate",
       "Shaco creates an illusion of himself near him, which can attack nearby enemies (Deals reduced damage to turrets).  Upon death, it explodes, spawning three mini Jack in the Boxes and dealing damage to nearby enemies."
     ]
-  }
+	},
+  "blurd": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls...",
+  "display_name": "Shaco",
+  "free": false,
+  "key": "35",
+  "meta_tier": 4,
+  "name": "Shaco",
+  "partype": "Mana",
+  "stats": {
+    "hp": 587,
+    "hpperlevel": 89,
+    "mp": 297.2,
+    "mpperlevel": 40,
+    "movespeed": 350,
+    "armor": 30,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 7.156,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.694
+  },
+  "title": "the Demon Jester",
+  "version": "10.16.1"
+  
 }

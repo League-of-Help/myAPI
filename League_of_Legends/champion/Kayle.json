@@ -1,8 +1,4 @@
 {
-  "display_name": "Kayle",
-  "name": "Kayle",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Divine Ascent",
@@ -24,5 +20,37 @@
       "Divine Judgment",
       "Kayle makes an ally invulnerable and calls upon former Aspects of Justice to purify the area around her target with a holy rain of swords."
     ]
-  }
+	},
+  "blurd": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned...",
+  "display_name": "Kayle",
+  "free": false,
+  "key": "10",
+  "meta_tier": 3,
+  "name": "Kayle",
+  "partype": "Mana",
+  "stats": {
+    "hp": 600,
+    "hpperlevel": 85,
+    "mp": 330,
+    "mpperlevel": 50,
+    "movespeed": 335,
+    "armor": 26,
+    "armorperlevel": 3,
+    "spellblock": 34,
+    "spellblockperlevel": 0.5,
+    "attackrange": 175,
+    "hpregen": 5,
+    "hpregenperlevel": 0.5,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 50,
+    "attackdamageperlevel": 2.5,
+    "attackspeedperlevel": 1.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Righteous",
+  "version": "10.16.1"
+  
 }

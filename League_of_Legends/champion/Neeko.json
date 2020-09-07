@@ -1,8 +1,4 @@
 {
-  "display_name": "Neeko",
-  "name": "Neeko",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Inherent Glamour",
@@ -24,5 +20,37 @@
       "Pop Blossom",
       "After a short preparation, Neeko leaps into the air and gains a shield. Upon landing, nearby enemies are damaged and stunned. The preparation is hidden if Neeko is disguised."
     ]
-  }
+	},
+  "blurd": "Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where—or who—Neeko might be...",
+  "display_name": "Neeko",
+  "free": false,
+  "key": "518",
+  "meta_tier": 5,
+  "name": "Neeko",
+  "partype": "Mana",
+  "stats": {
+    "hp": 540,
+    "hpperlevel": 90,
+    "mp": 450,
+    "mpperlevel": 30,
+    "movespeed": 340,
+    "armor": 21,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 48,
+    "attackdamageperlevel": 2.5,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Curious Chameleon",
+  "version": "10.16.1"
+  
 }

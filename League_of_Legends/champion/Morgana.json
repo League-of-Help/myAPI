@@ -1,8 +1,4 @@
 {
-  "display_name": "Morgana",
-  "name": "Morgana",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Soul Siphon",
@@ -24,5 +20,37 @@
       "Soul Shackles",
       "Morgana unleashes the full force of her Celestial power as she unbinds her wings and hovers above the ground. She lashes chains of dark pain onto nearby enemy champions, gaining movement speed towards them. The chains slow and deal initial damage and, after a delay, stun those who are unable to break them."
     ]
-  }
+	},
+  "blurd": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from...",
+  "display_name": "Morgana",
+  "free": false,
+  "key": "25",
+  "meta_tier": 2,
+  "name": "Morgana",
+  "partype": "Mana",
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 90,
+    "mp": 340,
+    "mpperlevel": 60,
+    "movespeed": 335,
+    "armor": 25,
+    "armorperlevel": 3.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 450,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.4,
+    "mpregen": 11,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 56,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 1.53,
+    "attackspeed": 0.625
+  },
+  "title": "the Fallen",
+  "version": "10.16.1"
+  
 }

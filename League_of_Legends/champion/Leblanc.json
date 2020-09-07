@@ -1,8 +1,4 @@
 {
-  "display_name": "Leblanc",
-  "name": "Leblanc",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Mirror Image",
@@ -24,5 +20,37 @@
       "Mimic",
       "LeBlanc casts a mimicked version of one of her basic spells."
     ]
-  }
+	},
+  "blurd": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone...",
+  "display_name": "Leblanc",
+  "free": false,
+  "key": "7",
+  "meta_tier": 4,
+  "name": "Leblanc",
+  "partype": "Mana",
+  "stats": {
+    "hp": 528,
+    "hpperlevel": 92,
+    "mp": 334,
+    "mpperlevel": 50,
+    "movespeed": 340,
+    "armor": 21.88,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 54.88,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 1.4,
+    "attackspeed": 0.625
+  },
+  "title": "the Deceiver",
+  "version": "10.16.1"
+  
 }

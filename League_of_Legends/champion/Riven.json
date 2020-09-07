@@ -1,8 +1,4 @@
 {
-  "display_name": "Riven",
-  "name": "Riven",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Runic Blade",
@@ -24,5 +20,37 @@
       "Blade of the Exile",
       "Riven empowers her keepsake weapon with energy, and gains Attack Damage and Range. During this time, she also gains the ability to use Wind Slash, a powerful ranged attack, once."
     ]
-  }
+	},
+  "blurd": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a...",
+  "display_name": "Riven",
+  "free": false,
+  "key": "92",
+  "meta_tier": 4,
+  "name": "Riven",
+  "partype": "None",
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 86,
+    "mp": 0,
+    "mpperlevel": 0,
+    "movespeed": 340,
+    "armor": 33,
+    "armorperlevel": 3.2,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.5,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Exile",
+  "version": "10.16.1"
+  
 }

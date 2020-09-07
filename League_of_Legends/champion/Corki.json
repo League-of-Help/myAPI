@@ -1,8 +1,4 @@
 {
-  "display_name": "Corki",
-  "name": "Corki",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Hextech Munitions",
@@ -24,5 +20,37 @@
       "Missile Barrage",
       "Corki fires a missile toward his target location that explodes on impact, dealing damage to enemies in an area. Corki stores missiles over time, up to a maximum. Every 3rd missile fired will be a Big One, dealing extra damage."
     ]
-  }
+	},
+  "blurd": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He...",
+  "display_name": "Corki",
+  "free": false,
+  "key": "42",
+  "meta_tier": 5,
+  "name": "Corki",
+  "partype": "Mana",
+  "stats": {
+    "hp": 518,
+    "hpperlevel": 87,
+    "mp": 350.16,
+    "mpperlevel": 34,
+    "movespeed": 325,
+    "armor": 28,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 7.424,
+    "mpregenlevel": 0.55,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55,
+    "attackdamageperlevel": 2.5,
+    "attackspeedperlevel": 2.3,
+    "attackspeed": 0.638
+  },
+  "title": "the Daring Bombardier",
+  "version": "10.16.1"
+  
 }

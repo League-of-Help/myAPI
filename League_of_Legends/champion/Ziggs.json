@@ -1,8 +1,4 @@
 {
-  "display_name": "Ziggs",
-  "name": "Ziggs",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Short Fuse",
@@ -24,5 +20,37 @@
       "Mega Inferno Bomb",
       "Ziggs deploys his ultimate creation, the Mega Inferno Bomb, hurling it an enormous distance. Enemies in the primary blast zone take more damage than those farther away."
     ]
-  }
+	},
+  "blurd": "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor's assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town...",
+  "display_name": "Ziggs",
+  "free": false,
+  "key": "115",
+  "meta_tier": 5,
+  "name": "Ziggs",
+  "partype": "Mana",
+  "stats": {
+    "hp": 536,
+    "hpperlevel": 92,
+    "mp": 480,
+    "mpperlevel": 23.5,
+    "movespeed": 325,
+    "armor": 21.544,
+    "armorperlevel": 3.3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 54.208,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.656
+  },
+  "title": "the Hexplosives Expert",
+  "version": "10.16.1"
+  
 }

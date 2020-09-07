@@ -1,8 +1,4 @@
 {
-  "display_name": "Elise",
-  "name": "Elise",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Spider Queen",
@@ -24,5 +20,37 @@
       "Spider Form",
       "Transforms into a menacing spider, reducing her attack range in exchange for movement speed, new abilities, and a Spiderling swarm that will attack her foes."
     ]
-  }
+	},
+  "blurd": "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. Once mortal, she was the mistress of a powerful house, but the bite of a vile demigod transformed her into something beautiful, yet utterly...",
+  "display_name": "Elise",
+  "free": false,
+  "key": "60",
+  "meta_tier": 1,
+  "name": "Elise",
+  "partype": "Mana",
+  "stats": {
+    "hp": 534,
+    "hpperlevel": 93,
+    "mp": 324,
+    "mpperlevel": 50,
+    "movespeed": 330,
+    "armor": 27,
+    "armorperlevel": 3.35,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 1.75,
+    "attackspeed": 0.625
+  },
+  "title": "the Spider Queen",
+  "version": "10.16.1"
+  
 }

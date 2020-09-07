@@ -1,8 +1,4 @@
 {
-  "display_name": "Amumu",
-  "name": "Amumu",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Cursed Touch",
@@ -24,5 +20,37 @@
       "Curse of the Sad Mummy",
       "Amumu entangles surrounding enemy units in bandages, applying his Curse, damaging them and rendering them unable to attack or move."
     ]
-  }
+	},
+  "blurd": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe...",
+  "display_name": "Amumu",
+  "free": false,
+  "key": "32",
+  "meta_tier": 5,
+  "name": "Amumu",
+  "partype": "Mana",
+  "stats": {
+    "hp": 613.12,
+    "hpperlevel": 84,
+    "mp": 287.2,
+    "mpperlevel": 40,
+    "movespeed": 335,
+    "armor": 33,
+    "armorperlevel": 3.8,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 9,
+    "hpregenperlevel": 0.85,
+    "mpregen": 7.382,
+    "mpregenlevel": 0.525,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.38,
+    "attackdamageperlevel": 3.8,
+    "attackspeedperlevel": 2.18,
+    "attackspeed": 0.736
+  },
+  "title": "the Sad Mummy",
+  "version": "10.16.1"
+  
 }

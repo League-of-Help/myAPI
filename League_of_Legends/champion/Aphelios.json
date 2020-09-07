@@ -1,8 +1,4 @@
 {
-  "display_name": "Aphelios",
-  "name": "Aphelios",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "The Hitman and the Seer",
@@ -24,5 +20,37 @@
       "Moonlight Vigil",
       "Fire a concentrated blast of moonlight that explodes on enemy champions. Applies the unique effect of Aphelios' main-hand gun."
     ]
-  }
+	},
+  "blurd": "Emerging from moonlight's shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence—speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by...",
+  "display_name": "Aphelios",
+  "free": false,
+  "key": "523",
+  "meta_tier": 4,
+  "name": "Aphelios",
+  "partype": "Mana",
+  "stats": {
+    "hp": 530,
+    "hpperlevel": 88,
+    "mp": 348,
+    "mpperlevel": 42,
+    "movespeed": 325,
+    "armor": 28,
+    "armorperlevel": 3,
+    "spellblock": 26,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 3.25,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6.5,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 57,
+    "attackdamageperlevel": 2,
+    "attackspeedperlevel": 2.1,
+    "attackspeed": 0.64
+  },
+  "title": "the Weapon of the Faithful",
+  "version": "10.16.1"
+  
 }

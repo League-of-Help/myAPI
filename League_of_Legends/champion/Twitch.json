@@ -1,8 +1,4 @@
 {
-  "display_name": "Twitch",
-  "name": "Twitch",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Deadly Venom",
@@ -24,5 +20,37 @@
       "Spray and Pray",
       "Twitch unleashes the full power of his crossbow, shooting bolts over a great distance that pierce all enemies caught in their path."
     ]
-  }
+	},
+  "blurd": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really...",
+  "display_name": "Twitch",
+  "free": true,
+  "key": "29",
+  "meta_tier": 4,
+  "name": "Twitch",
+  "partype": "Mana",
+  "stats": {
+    "hp": 612,
+    "hpperlevel": 86,
+    "mp": 287.2,
+    "mpperlevel": 40,
+    "movespeed": 330,
+    "armor": 27,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.6,
+    "mpregen": 7.256,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 59,
+    "attackdamageperlevel": 3.11,
+    "attackspeedperlevel": 3.38,
+    "attackspeed": 0.679
+  },
+  "title": "the Plague Rat",
+  "version": "10.16.1"
+  
 }

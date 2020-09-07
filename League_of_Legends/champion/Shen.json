@@ -1,8 +1,4 @@
 {
-  "display_name": "Shen",
-  "name": "Shen",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Ki Barrier",
@@ -24,5 +20,37 @@
       "Stand United",
       "Shen shields target allied champion from incoming damage, and soon after teleports to their location."
     ]
-  }
+	},
+  "blurd": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit...",
+  "display_name": "Shen",
+  "free": false,
+  "key": "98",
+  "meta_tier": 2,
+  "name": "Shen",
+  "partype": "Energy",
+  "stats": {
+    "hp": 540,
+    "hpperlevel": 85,
+    "mp": 400,
+    "mpperlevel": 0,
+    "movespeed": 340,
+    "armor": 34,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 50,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.751
+  },
+  "title": "the Eye of Twilight",
+  "version": "10.16.1"
+  
 }

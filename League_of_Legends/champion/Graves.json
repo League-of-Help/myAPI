@@ -1,8 +1,4 @@
 {
-  "display_name": "Graves",
-  "name": "Graves",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "New Destiny",
@@ -24,5 +20,37 @@
       "Collateral Damage",
       "Graves fires an explosive shell dealing heavy damage to the first champion it hits. After hitting a champion or reaching the end of its range, the shell explodes dealing damage in a cone."
     ]
-  }
+	},
+  "blurd": "Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his...",
+  "display_name": "Graves",
+  "free": false,
+  "key": "104",
+  "meta_tier": 1,
+  "name": "Graves",
+  "partype": "Mana",
+  "stats": {
+    "hp": 555,
+    "hpperlevel": 92,
+    "mp": 325,
+    "mpperlevel": 40,
+    "movespeed": 340,
+    "armor": 33,
+    "armorperlevel": 3.4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 425,
+    "hpregen": 8,
+    "hpregenperlevel": 0.7,
+    "mpregen": 8,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.6,
+    "attackspeed": 0.475
+  },
+  "title": "the Outlaw",
+  "version": "10.16.1"
+  
 }

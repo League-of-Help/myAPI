@@ -1,8 +1,4 @@
 {
-  "display_name": "Rammus",
-  "name": "Rammus",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Spiked Shell",
@@ -24,5 +20,37 @@
       "Tremors",
       "Rammus creates waves of destruction pulsing through the ground, causing damage to nearby enemies and slowing them. Turrets take double damage from Tremors."
     ]
-  }
+	},
+  "blurd": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast...",
+  "display_name": "Rammus",
+  "free": false,
+  "key": "33",
+  "meta_tier": 3,
+  "name": "Rammus",
+  "partype": "Mana",
+  "stats": {
+    "hp": 564.48,
+    "hpperlevel": 95,
+    "mp": 310.44,
+    "mpperlevel": 33,
+    "movespeed": 335,
+    "armor": 36,
+    "armorperlevel": 4.3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8,
+    "hpregenperlevel": 0.55,
+    "mpregen": 7.84,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55.88,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2.215,
+    "attackspeed": 0.656
+  },
+  "title": "the Armordillo",
+  "version": "10.16.1"
+  
 }

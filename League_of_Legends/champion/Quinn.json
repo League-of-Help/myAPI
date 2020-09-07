@@ -1,8 +1,4 @@
 {
-  "display_name": "Quinn",
-  "name": "Quinn",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Harrier",
@@ -24,5 +20,37 @@
       "Behind Enemy Lines",
       "Quinn and Valor team up to fly around at great speed.  Ending the ability casts Skystrike, which deals damage to nearby enemies and marks champions as Vulnerable."
     ]
-  }
+	},
+  "blurd": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two...",
+  "display_name": "Quinn",
+  "free": false,
+  "key": "133",
+  "meta_tier": 3,
+  "name": "Quinn",
+  "partype": "Mana",
+  "stats": {
+    "hp": 532.8,
+    "hpperlevel": 85,
+    "mp": 268.8,
+    "mpperlevel": 35,
+    "movespeed": 335,
+    "armor": 28,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6.972,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 59,
+    "attackdamageperlevel": 2.4,
+    "attackspeedperlevel": 3.1,
+    "attackspeed": 0.668
+  },
+  "title": "Demacia's Wings",
+  "version": "10.16.1"
+  
 }

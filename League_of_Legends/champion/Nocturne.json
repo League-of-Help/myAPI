@@ -1,8 +1,4 @@
 {
-  "display_name": "Nocturne",
-  "name": "Nocturne",
-  "meta_tier": 5,
-  "free": true,
   "abilities": {
     "p": [
       "Umbra Blades",
@@ -24,5 +20,37 @@
       "Paranoia",
       "Nocturne reduces the sight radius of all enemy champions and removes their ally vision in the process. He can then launch himself at a nearby enemy champion."
     ]
-  }
+	},
+  "blurd": "A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure evil. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking...",
+  "display_name": "Nocturne",
+  "free": true,
+  "key": "56",
+  "meta_tier": 5,
+  "name": "Nocturne",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 85,
+    "mp": 275,
+    "mpperlevel": 35,
+    "movespeed": 345,
+    "armor": 38,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 0.75,
+    "attackrange": 125,
+    "hpregen": 7,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 62,
+    "attackdamageperlevel": 3.1,
+    "attackspeedperlevel": 2.7,
+    "attackspeed": 0.721
+  },
+  "title": "the Eternal Nightmare",
+  "version": "10.16.1"
+  
 }

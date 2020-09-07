@@ -1,8 +1,4 @@
 {
-  "display_name": "Fizz",
-  "name": "Fizz",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Nimble Fighter",
@@ -24,5 +20,37 @@
       "Chum the Waters",
       "Fizz tosses a fish in a direction that attaches to any champion that touches it, slowing the target. After a short delay, a shark erupts from the ground, knocking up the target and knocking any nearby enemies aside. All enemies hit are dealt magic damage and slowed."
     ]
-  }
+	},
+  "blurd": "Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him—for many are the tales...",
+  "display_name": "Fizz",
+  "free": false,
+  "key": "105",
+  "meta_tier": 2,
+  "name": "Fizz",
+  "partype": "Mana",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 98,
+    "mp": 317.2,
+    "mpperlevel": 37,
+    "movespeed": 335,
+    "armor": 22.412,
+    "armorperlevel": 3.4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8,
+    "hpregenperlevel": 0.7,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58.04,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.1,
+    "attackspeed": 0.658
+  },
+  "title": "the Tidal Trickster",
+  "version": "10.16.1"
+  
 }

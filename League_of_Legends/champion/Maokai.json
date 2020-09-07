@@ -1,8 +1,4 @@
 {
-  "display_name": "Maokai",
-  "name": "Maokai",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Sap Magic",
@@ -24,5 +20,37 @@
       "Nature's Grasp",
       "Maokai summons a colossal wall of brambles and thorns that slowly advances forwards, damaging and rooting any enemies in the path."
     ]
-  }
+	},
+  "blurd": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his...",
+  "display_name": "Maokai",
+  "free": false,
+  "key": "57",
+  "meta_tier": 1,
+  "name": "Maokai",
+  "partype": "Mana",
+  "stats": {
+    "hp": 565,
+    "hpperlevel": 95,
+    "mp": 375,
+    "mpperlevel": 43,
+    "movespeed": 335,
+    "armor": 39,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7.2,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63.54,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 2.125,
+    "attackspeed": 0.8
+  },
+  "title": "the Twisted Treant",
+  "version": "10.16.1"
+  
 }

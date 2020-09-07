@@ -1,8 +1,4 @@
 {
-  "display_name": "Vayne",
-  "name": "Vayne",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Night Hunter",
@@ -24,5 +20,37 @@
       "Final Hour",
       "Readying herself for an epic confrontation, Vayne gains increased Attack Damage, Invisibility during Tumble, reduced Tumble cooldown, and more bonus Movement Speed from Night Hunter"
     ]
-  }
+	},
+  "blurd": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when...",
+  "display_name": "Vayne",
+  "free": false,
+  "key": "67",
+  "meta_tier": 3,
+  "name": "Vayne",
+  "partype": "Mana",
+  "stats": {
+    "hp": 515,
+    "hpperlevel": 89,
+    "mp": 231.8,
+    "mpperlevel": 35,
+    "movespeed": 330,
+    "armor": 23,
+    "armorperlevel": 3.4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 3.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 6.972,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 2.36,
+    "attackspeedperlevel": 3.3,
+    "attackspeed": 0.658
+  },
+  "title": "the Night Hunter",
+  "version": "10.16.1"
+  
 }

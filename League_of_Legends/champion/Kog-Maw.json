@@ -1,8 +1,4 @@
 {
-  "display_name": "Kog'Maw",
-  "name": "Kog-Maw",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Icathian Surprise",
@@ -24,5 +20,37 @@
       "Living Artillery",
       "Kog'Maw fires an artillery shell at a great distance dealing magic damage (increased significantly on low health enemies) and revealing non-stealthed targets. Additionally, multiple Living Artilleries in a short period of time cause them to cost additional Mana."
     ]
-  }
+	},
+  "blurd": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it...",
+  "display_name": "Kog'Maw",
+  "free": false,
+  "key": "96",
+  "meta_tier": 5,
+  "name": "Kog-Maw",
+  "partype": "Mana",
+  "stats": {
+    "hp": 565,
+    "hpperlevel": 90,
+    "mp": 325,
+    "mpperlevel": 40,
+    "movespeed": 330,
+    "armor": 24,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 500,
+    "hpregen": 3.75,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8.75,
+    "mpregenlevel": 0.7,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3.11,
+    "attackspeedperlevel": 2.65,
+    "attackspeed": 0.665
+  },
+  "title": "the Mouth of the Abyss",
+  "version": "10.16.1"
+  
 }

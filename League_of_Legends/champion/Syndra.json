@@ -1,8 +1,4 @@
 {
-  "display_name": "Syndra",
-  "name": "Syndra",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Transcendent",
@@ -24,5 +20,37 @@
       "Unleashed Power",
       "Syndra bombards an enemy Champion with all of her Dark Spheres."
     ]
-  }
+	},
+  "blurd": "Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was...",
+  "display_name": "Syndra",
+  "free": false,
+  "key": "134",
+  "meta_tier": 5,
+  "name": "Syndra",
+  "partype": "Mana",
+  "stats": {
+    "hp": 523,
+    "hpperlevel": 90,
+    "mp": 480,
+    "mpperlevel": 40,
+    "movespeed": 330,
+    "armor": 24.712,
+    "armorperlevel": 3.4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.872,
+    "attackdamageperlevel": 2.9,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.625
+  },
+  "title": "the Dark Sovereign",
+  "version": "10.16.1"
+  
 }

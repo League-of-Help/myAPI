@@ -1,8 +1,4 @@
 {
-  "display_name": "Anivia",
-  "name": "Anivia",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Rebirth",
@@ -24,5 +20,37 @@
       "Glacial Storm",
       "Anivia summons a driving rain of ice and hail to damage her enemies and slow their advance."
     ]
-  }
+	},
+  "blurd": "Anivia is a benevolent winged spirit who endures endless cycles of life, death, and rebirth to protect the Freljord. A demigod born of unforgiving ice and bitter winds, she wields those elemental powers to thwart any who dare disturb her homeland...",
+  "display_name": "Anivia",
+  "free": false,
+  "key": "34",
+  "meta_tier": 4,
+  "name": "Anivia",
+  "partype": "Mana",
+  "stats": {
+    "hp": 480,
+    "hpperlevel": 82,
+    "mp": 495,
+    "mpperlevel": 25,
+    "movespeed": 325,
+    "armor": 21.22,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 600,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 51.376,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 1.68,
+    "attackspeed": 0.625
+  },
+  "title": "the Cryophoenix",
+  "version": "10.16.1"
+  
 }

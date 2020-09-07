@@ -1,8 +1,4 @@
 {
-  "display_name": "Zoe",
-  "name": "Zoe",
-  "meta_tier": 3,
-  "free": true,
   "abilities": {
     "p": [
       "More Sparkles!",
@@ -24,5 +20,37 @@
       "Portal Jump",
       "Blink to a nearby position for 1 second. Then blink back."
     ]
-  }
+	},
+  "blurd": "As the embodiment of mischief, imagination, and change, Zoe acts as the cosmic messenger of Targon, heralding major events that reshape worlds. Her mere presence warps the arcane mathematics governing realities, sometimes causing cataclysms without...",
+  "display_name": "Zoe",
+  "free": true,
+  "key": "142",
+  "meta_tier": 3,
+  "name": "Zoe",
+  "partype": "Mana",
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 92,
+    "mp": 425,
+    "mpperlevel": 25,
+    "movespeed": 340,
+    "armor": 20.8,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.65,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58,
+    "attackdamageperlevel": 3.3,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.625
+  },
+  "title": "the Aspect of Twilight",
+  "version": "10.16.1"
+  
 }

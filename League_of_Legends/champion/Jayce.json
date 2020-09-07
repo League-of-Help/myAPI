@@ -1,8 +1,4 @@
 {
-  "display_name": "Jayce",
-  "name": "Jayce",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Hextech Capacitor",
@@ -24,5 +20,37 @@
       "Mercury Cannon / Mercury Hammer",
       "Hammer Stance: Transforms the Mercury Hammer into the Mercury Cannon gaining new abilities and increased range. The first attack in this form reduces the target's Armor and Magic Resist.  Cannon Stance: Transforms the Mercury Cannon into the Mercury Hammer gaining new abilities and increasing Armor and Magic Resist. The first attack in this form deals additional magic damage."
     ]
-  }
+	},
+  "blurd": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his...",
+  "display_name": "Jayce",
+  "free": true,
+  "key": "126",
+  "meta_tier": 4,
+  "name": "Jayce",
+  "partype": "Mana",
+  "stats": {
+    "hp": 560,
+    "hpperlevel": 90,
+    "mp": 375,
+    "mpperlevel": 45,
+    "movespeed": 335,
+    "armor": 27,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 125,
+    "hpregen": 6,
+    "hpregenperlevel": 0.6,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 54,
+    "attackdamageperlevel": 4.25,
+    "attackspeedperlevel": 3,
+    "attackspeed": 0.658
+  },
+  "title": "the Defender of Tomorrow",
+  "version": "10.16.1"
+  
 }

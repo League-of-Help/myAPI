@@ -1,8 +1,4 @@
 {
-  "display_name": "Soraka",
-  "name": "Soraka",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Salvation",
@@ -24,5 +20,37 @@
       "Wish",
       "Soraka fills her allies with hope, instantly restoring health to herself and all friendly champions."
     ]
-  }
+	},
+  "blurd": "A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even...",
+  "display_name": "Soraka",
+  "free": false,
+  "key": "16",
+  "meta_tier": 3,
+  "name": "Soraka",
+  "partype": "Mana",
+  "stats": {
+    "hp": 535,
+    "hpperlevel": 74,
+    "mp": 425,
+    "mpperlevel": 40,
+    "movespeed": 325,
+    "armor": 32,
+    "armorperlevel": 3.8,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 2.5,
+    "hpregenperlevel": 0.5,
+    "mpregen": 11.5,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 50,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.14,
+    "attackspeed": 0.625
+  },
+  "title": "the Starchild",
+  "version": "10.16.1"
+  
 }

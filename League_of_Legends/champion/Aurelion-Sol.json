@@ -1,8 +1,4 @@
 {
-  "display_name": "Aurelion Sol",
-  "name": "Aurelion-Sol",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Center of the Universe",
@@ -24,5 +20,37 @@
       "Voice of Light",
       "Aurelion Sol projects a blast of pure starfire, damaging and slowing all enemies caught in it and knocking nearby enemies back to a safer distance."
     ]
-  }
+	},
+  "blurd": "Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising. Now, he is forced to wield his awesome power at the behest of a space-faring empire that tricked him into servitude. Desiring a return to his...",
+  "display_name": "Aurelion Sol",
+  "free": true,
+  "key": "136",
+  "meta_tier": 4,
+  "name": "Aurelion-Sol",
+  "partype": "Mana",
+  "stats": {
+    "hp": 575,
+    "hpperlevel": 92,
+    "mp": 350,
+    "mpperlevel": 50,
+    "movespeed": 325,
+    "armor": 19,
+    "armorperlevel": 3.6,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 7,
+    "hpregenperlevel": 0.6,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 57,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.625
+  },
+  "title": "The Star Forger",
+  "version": "10.16.1"
+  
 }

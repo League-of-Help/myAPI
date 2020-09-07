@@ -1,8 +1,4 @@
 {
-  "display_name": "Vel'Koz",
-  "name": "Vel-Koz",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Organic Deconstruction",
@@ -24,5 +20,37 @@
       "Life Form Disintegration Ray",
       "Vel'Koz unleashes a channelled beam that follows the cursor for 2.5 seconds that deals magic damage. Organic Deconstruction Researches enemy champions causing them to take true damage instead."
     ]
-  }
+	},
+  "blurd": "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to...",
+  "display_name": "Vel'Koz",
+  "free": false,
+  "key": "161",
+  "meta_tier": 5,
+  "name": "Vel-Koz",
+  "partype": "Mana",
+  "stats": {
+    "hp": 520,
+    "hpperlevel": 88,
+    "mp": 469,
+    "mpperlevel": 21,
+    "movespeed": 340,
+    "armor": 21.88,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 54.9379,
+    "attackdamageperlevel": 3.1416,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.625
+  },
+  "title": "the Eye of the Void",
+  "version": "10.16.1"
+  
 }

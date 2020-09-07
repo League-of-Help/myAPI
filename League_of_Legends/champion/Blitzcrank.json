@@ -1,8 +1,4 @@
 {
-  "display_name": "Blitzcrank",
-  "name": "Blitzcrank",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Mana Barrier",
@@ -24,5 +20,37 @@
       "Static Field",
       "Enemies attacked by Blitzcrank are marked and take lightning damage after 1 second. Additionally, Blitzcrank can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly."
     ]
-  }
+	},
+  "blurd": "Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump...",
+  "display_name": "Blitzcrank",
+  "free": false,
+  "key": "53",
+  "meta_tier": 1,
+  "name": "Blitzcrank",
+  "partype": "Mana",
+  "stats": {
+    "hp": 582.6,
+    "hpperlevel": 95,
+    "mp": 267.2,
+    "mpperlevel": 40,
+    "movespeed": 325,
+    "armor": 37,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 8.5,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61.54,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 1.13,
+    "attackspeed": 0.625
+  },
+  "title": "the Great Steam Golem",
+  "version": "10.16.1"
+  
 }

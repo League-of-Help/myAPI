@@ -1,8 +1,4 @@
 {
-  "display_name": "Dr. Mundo",
-  "name": "Dr-Mundo",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Adrenaline Rush",
@@ -24,5 +20,37 @@
       "Sadism",
       "Dr. Mundo sacrifices a portion of his Health for increased Movement Speed and drastically increased Health Regeneration."
     ]
-  }
+	},
+  "blurd": "Utterly insane, unrepentantly homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. This monosyllabic monstrosity seems to want nothing more than pain—both the giving of it, and the...",
+  "display_name": "Dr. Mundo",
+  "free": false,
+  "key": "36",
+  "meta_tier": 5,
+  "name": "Dr-Mundo",
+  "partype": "None",
+  "stats": {
+    "hp": 582.52,
+    "hpperlevel": 89,
+    "mp": 0,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 36,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8,
+    "hpregenperlevel": 0.75,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61.27,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 2.8,
+    "attackspeed": 0.721
+  },
+  "title": "the Madman of Zaun",
+  "version": "10.16.1"
+  
 }

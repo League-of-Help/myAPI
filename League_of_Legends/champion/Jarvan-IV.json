@@ -1,8 +1,4 @@
 {
-  "display_name": "Jarvan IV",
-  "name": "Jarvan-IV",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Martial Cadence",
@@ -24,5 +20,37 @@
       "Cataclysm",
       "Jarvan IV heroically leaps into battle at a target with such force that he terraforms the surrounding area to create an arena around them. Nearby enemies are damaged at the moment of impact."
     ]
-  }
+	},
+  "blurd": "Prince Jarvan, scion of the Lightshield dynasty, is heir apparent to the throne of Demacia. Raised to be a paragon of his nation's greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to fight on the front...",
+  "display_name": "Jarvan IV",
+  "free": false,
+  "key": "59",
+  "meta_tier": 5,
+  "name": "Jarvan-IV",
+  "partype": "Mana",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 90,
+    "mp": 300,
+    "mpperlevel": 40,
+    "movespeed": 340,
+    "armor": 34,
+    "armorperlevel": 3.6,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 8,
+    "hpregenperlevel": 0.7,
+    "mpregen": 6.5,
+    "mpregenlevel": 0.45,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 64,
+    "attackdamageperlevel": 3.4,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.658
+  },
+  "title": "the Exemplar of Demacia",
+  "version": "10.16.1"
+  
 }

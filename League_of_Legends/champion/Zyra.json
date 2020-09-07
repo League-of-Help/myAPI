@@ -1,8 +1,4 @@
 {
-  "display_name": "Zyra",
-  "name": "Zyra",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Garden of Thorns",
@@ -24,5 +20,37 @@
       "Stranglethorns",
       "Zyra summons a twisted thicket at her target location, dealing damage to enemies as it expands and knocking them airborne as it contracts. Plants within the thicket are enraged."
     ]
-  }
+	},
+  "blurd": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form—an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks...",
+  "display_name": "Zyra",
+  "free": false,
+  "key": "143",
+  "meta_tier": 4,
+  "name": "Zyra",
+  "partype": "Mana",
+  "stats": {
+    "hp": 504,
+    "hpperlevel": 79,
+    "mp": 418,
+    "mpperlevel": 25,
+    "movespeed": 340,
+    "armor": 29,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 575,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.5,
+    "mpregen": 13,
+    "mpregenlevel": 0.4,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53.376,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 2.11,
+    "attackspeed": 0.625
+  },
+  "title": "Rise of the Thorns",
+  "version": "10.16.1"
+  
 }

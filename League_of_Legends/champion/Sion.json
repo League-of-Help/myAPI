@@ -1,8 +1,4 @@
 {
-  "display_name": "Sion",
-  "name": "Sion",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Glory in Death",
@@ -24,5 +20,37 @@
       "Unstoppable Onslaught",
       "Sion charges in a direction, ramping up speed over time. He can steer his charge slightly with the mouse cursor location. When he collides with an enemy he deals damage and knocks them up based on the distance he has charged."
     ]
-  }
+	},
+  "blurd": "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his...",
+  "display_name": "Sion",
+  "free": false,
+  "key": "14",
+  "meta_tier": 5,
+  "name": "Sion",
+  "partype": "Mana",
+  "stats": {
+    "hp": 545,
+    "hpperlevel": 73,
+    "mp": 330,
+    "mpperlevel": 42,
+    "movespeed": 345,
+    "armor": 32,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 7.5,
+    "hpregenperlevel": 0.8,
+    "mpregen": 8,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 68,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 1.3,
+    "attackspeed": 0.679
+  },
+  "title": "The Undead Juggernaut",
+  "version": "10.16.1"
+  
 }

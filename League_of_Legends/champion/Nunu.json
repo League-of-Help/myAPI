@@ -1,8 +1,4 @@
 {
-  "display_name": "Nunu & Willump",
-  "name": "Nunu",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Call of the Freljord",
@@ -24,5 +20,37 @@
       "Absolute Zero",
       "Nunu & Willump create a powerful blizzard in an area that slows enemies and deals massive damage at the end."
     ]
-  }
+	},
+  "blurd": "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu...",
+  "display_name": "Nunu & Willump",
+  "free": false,
+  "key": "20",
+  "meta_tier": 2,
+  "name": "Nunu",
+  "partype": "Mana",
+  "stats": {
+    "hp": 570,
+    "hpperlevel": 82,
+    "mp": 280,
+    "mpperlevel": 42,
+    "movespeed": 345,
+    "armor": 32,
+    "armorperlevel": 3,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 5,
+    "hpregenperlevel": 0.8,
+    "mpregen": 7,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.25,
+    "attackspeed": 0.625
+  },
+  "title": "the Boy and His Yeti",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Aatrox",
-  "name": "Aatrox",
-  "meta_tier": 4,
-  "free": true,
   "abilities": {
     "p": [
       "Deathbringer Stance",
@@ -24,5 +20,37 @@
       "World Ender",
       "Aatrox unleashes his demonic form, fearing nearby enemy minions and gaining attack damage, increased healing, and movement speed. If he gets a takedown, this effect is extended."
     ]
-  }
+	},
+  "blurd": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find...",
+  "display_name": "Aatrox",
+  "free": true,
+  "key": "266",
+  "meta_tier": 4,
+  "name": "Aatrox",
+  "partype": "Blood Well",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 90,
+    "mp": 0,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 38,
+    "armorperlevel": 3.25,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 3,
+    "hpregenperlevel": 1,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 5,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.651
+  },
+  "title": "the Darkin Blade",
+  "version": "10.16.1"
+  
 }

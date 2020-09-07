@@ -1,8 +1,4 @@
 {
-  "display_name": "Heimerdinger",
-  "name": "Heimerdinger",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Hextech Affinity",
@@ -24,5 +20,37 @@
       "UPGRADE!!!",
       "Heimerdinger invents an upgrade, causing his next spell to have increased effects. "
     ]
-  }
+	},
+  "blurd": "A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors Piltover has ever known. Relentless in his work to the point of neurotic obsession, he thrives on answering the universe's...",
+  "display_name": "Heimerdinger",
+  "free": false,
+  "key": "74",
+  "meta_tier": 4,
+  "name": "Heimerdinger",
+  "partype": "Mana",
+  "stats": {
+    "hp": 488,
+    "hpperlevel": 87,
+    "mp": 385,
+    "mpperlevel": 20,
+    "movespeed": 340,
+    "armor": 19.04,
+    "armorperlevel": 3,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 7,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55.536,
+    "attackdamageperlevel": 2.7,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.625
+  },
+  "title": "the Revered Inventor",
+  "version": "10.16.1"
+  
 }

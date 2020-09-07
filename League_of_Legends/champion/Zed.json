@@ -1,8 +1,4 @@
 {
-  "display_name": "Zed",
-  "name": "Zed",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Contempt for the Weak",
@@ -24,5 +20,37 @@
       "Death Mark",
       "Zed becomes untargetable and dashes to an enemy champion, marking them. After 3 seconds the mark triggers, repeating a portion of all the damage Zed dealt to the target while they were marked."
     ]
-  }
+	},
+  "blurd": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock...",
+  "display_name": "Zed",
+  "free": false,
+  "key": "238",
+  "meta_tier": 1,
+  "name": "Zed",
+  "partype": "Energy",
+  "stats": {
+    "hp": 584,
+    "hpperlevel": 85,
+    "mp": 200,
+    "mpperlevel": 0,
+    "movespeed": 345,
+    "armor": 32,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7,
+    "hpregenperlevel": 0.65,
+    "mpregen": 50,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 63,
+    "attackdamageperlevel": 3.4,
+    "attackspeedperlevel": 3.3,
+    "attackspeed": 0.651
+  },
+  "title": "the Master of Shadows",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Annie",
-  "name": "Annie",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Pyromania",
@@ -24,5 +20,37 @@
       "Summon: Tibbers",
       "Annie wills her bear Tibbers to life, dealing damage to units in the area. Tibbers can attack and also burns enemies that stand near him."
     ]
-  }
+	},
+  "blurd": "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable...",
+  "display_name": "Annie",
+  "free": false,
+  "key": "1",
+  "meta_tier": 3,
+  "name": "Annie",
+  "partype": "Mana",
+  "stats": {
+    "hp": 524,
+    "hpperlevel": 88,
+    "mp": 418,
+    "mpperlevel": 25,
+    "movespeed": 335,
+    "armor": 19.22,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 625,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 50.41,
+    "attackdamageperlevel": 2.625,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.579
+  },
+  "title": "the Dark Child",
+  "version": "10.16.1"
+  
 }

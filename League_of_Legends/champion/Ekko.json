@@ -1,8 +1,4 @@
 {
-  "display_name": "Ekko",
-  "name": "Ekko",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Z-Drive Resonance",
@@ -24,5 +20,37 @@
       "Chronobreak",
       "Ekko shatters his timeline, becoming untargetable and rewinding to a more favorable point in time. He returns to whenever he was a few seconds ago, and heals for a percentage of the damage received in that duration. Enemies near his arrival zone take massive damage."
     ]
-  }
+	},
+  "blurd": "A prodigy from the rough streets of Zaun, Ekko manipulates time to twist any situation to his advantage. Using his own invention, the Zero Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this...",
+  "display_name": "Ekko",
+  "free": false,
+  "key": "245",
+  "meta_tier": 2,
+  "name": "Ekko",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 85,
+    "mp": 280,
+    "mpperlevel": 50,
+    "movespeed": 340,
+    "armor": 32,
+    "armorperlevel": 3,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 9,
+    "hpregenperlevel": 0.9,
+    "mpregen": 7,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 58,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.3,
+    "attackspeed": 0.688
+  },
+  "title": "the Boy Who Shattered Time",
+  "version": "10.16.1"
+  
 }

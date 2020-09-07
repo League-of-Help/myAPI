@@ -1,8 +1,4 @@
 {
-  "display_name": "Hecarim",
-  "name": "Hecarim",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Warpath",
@@ -24,5 +20,37 @@
       "Onslaught of Shadows",
       "Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, causing nearby enemies to flee in terror."
     ]
-  }
+	},
+  "blurd": "Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was obliterated by the destructive energies of the Ruination, along with all his...",
+  "display_name": "Hecarim",
+  "free": false,
+  "key": "120",
+  "meta_tier": 2,
+  "name": "Hecarim",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 90,
+    "mp": 277.2,
+    "mpperlevel": 40,
+    "movespeed": 345,
+    "armor": 36,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 175,
+    "hpregen": 7,
+    "hpregenperlevel": 0.75,
+    "mpregen": 6.5,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 66,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 2.5,
+    "attackspeed": 0.67
+  },
+  "title": "the Shadow of War",
+  "version": "10.16.1"
+  
 }

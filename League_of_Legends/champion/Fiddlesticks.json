@@ -1,8 +1,4 @@
 {
-  "display_name": "Fiddlesticks",
-  "name": "Fiddlesticks",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "A Harmless Scarecrow",
@@ -24,5 +20,37 @@
       "Crowstorm",
       "A murder of crows flock wildly around Fiddlesticks, dealing damage per second to all enemy units in the area."
     ]
-  }
+	},
+  "blurd": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe...",
+  "display_name": "Fiddlesticks",
+  "free": false,
+  "key": "9",
+  "meta_tier": 2,
+  "name": "Fiddlesticks",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580.4,
+    "hpperlevel": 92,
+    "mp": 500,
+    "mpperlevel": 28,
+    "movespeed": 335,
+    "armor": 34,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 480,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.6,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55.36,
+    "attackdamageperlevel": 2.625,
+    "attackspeedperlevel": 2.11,
+    "attackspeed": 0.625
+  },
+  "title": "the Ancient Fear",
+  "version": "10.16.1"
+  
 }

@@ -1,8 +1,4 @@
 {
-  "display_name": "Sylas",
-  "name": "Sylas",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Petricite Burst",
@@ -24,5 +20,37 @@
       "Hijack",
       "Sylas steals the enemy's ultimate ability and can cast it freely."
     ]
-  }
+	},
+  "blurd": "Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him...",
+  "display_name": "Sylas",
+  "free": false,
+  "key": "517",
+  "meta_tier": 2,
+  "name": "Sylas",
+  "partype": "Mana",
+  "stats": {
+    "hp": 525,
+    "hpperlevel": 115,
+    "mp": 280,
+    "mpperlevel": 50,
+    "movespeed": 340,
+    "armor": 27,
+    "armorperlevel": 4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.75,
+    "attackrange": 175,
+    "hpregen": 9,
+    "hpregenperlevel": 0.9,
+    "mpregen": 7,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.645
+  },
+  "title": "the Unshackled",
+  "version": "10.16.1"
+  
 }

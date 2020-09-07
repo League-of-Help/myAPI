@@ -1,8 +1,4 @@
 {
-  "display_name": "Volibear",
-  "name": "Volibear",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "The Relentless Storm",
@@ -24,5 +20,37 @@
       "Stormbringer",
       "Volibear leaps to a target location, slowing and damaging enemies beneath him while gaining bonus health.  Enemy towers near his landing location become temporarily disabled."
     ]
-  }
+	},
+  "blurd": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord's tundra, and is fiercely protective of the lands that he and his demi-god kin created...",
+  "display_name": "Volibear",
+  "free": false,
+  "key": "106",
+  "meta_tier": 3,
+  "name": "Volibear",
+  "partype": "Mana",
+  "stats": {
+    "hp": 580,
+    "hpperlevel": 90,
+    "mp": 350,
+    "mpperlevel": 50,
+    "movespeed": 340,
+    "armor": 31,
+    "armorperlevel": 4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 150,
+    "hpregen": 9,
+    "hpregenperlevel": 0.75,
+    "mpregen": 6.25,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2,
+    "attackspeed": 0.625
+  },
+  "title": "the Relentless Storm",
+  "version": "10.16.1"
+  
 }

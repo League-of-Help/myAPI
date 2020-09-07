@@ -1,8 +1,4 @@
 {
-  "display_name": "Viktor",
-  "name": "Viktor",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Glorious Evolution",
@@ -24,5 +20,37 @@
       "Chaos Storm",
       "Viktor conjures a singularity on the field which deals magic damage and interrupts enemy channels. The singularity then periodically does magic damage to all nearby enemies. Viktor can redirect the singularity.  Augment: The Chaos Storm moves 25% faster."
     ]
-  }
+	},
+  "blurd": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology...",
+  "display_name": "Viktor",
+  "free": false,
+  "key": "112",
+  "meta_tier": 5,
+  "name": "Viktor",
+  "partype": "Mana",
+  "stats": {
+    "hp": 530,
+    "hpperlevel": 90,
+    "mp": 405,
+    "mpperlevel": 25,
+    "movespeed": 335,
+    "armor": 23,
+    "armorperlevel": 4,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 525,
+    "hpregen": 8,
+    "hpregenperlevel": 0.65,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 53,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.11,
+    "attackspeed": 0.658
+  },
+  "title": "the Machine Herald",
+  "version": "10.16.1"
+  
 }

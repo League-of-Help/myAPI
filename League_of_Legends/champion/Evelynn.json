@@ -1,8 +1,4 @@
 {
-  "display_name": "Evelynn",
-  "name": "Evelynn",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Demon Shade",
@@ -24,5 +20,37 @@
       "Last Caress",
       "Evelynn briefly goes untargetable and decimates the area in front of her before warping backwards a long distance."
     ]
-  }
+	},
+  "blurd": "Within the dark seams of Runeterra, the demon Evelynn searches for her next victim. She lures in prey with the voluptuous façade of a human female, but once a person succumbs to her charms, Evelynn's true form is unleashed. She then subjects her victim...",
+  "display_name": "Evelynn",
+  "free": false,
+  "key": "28",
+  "meta_tier": 2,
+  "name": "Evelynn",
+  "partype": "Mana",
+  "stats": {
+    "hp": 572,
+    "hpperlevel": 84,
+    "mp": 315.6,
+    "mpperlevel": 42,
+    "movespeed": 335,
+    "armor": 37,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.75,
+    "mpregen": 8.108,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 61,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.1,
+    "attackspeed": 0.667
+  },
+  "title": "Agony's Embrace",
+  "version": "10.16.1"
+  
 }

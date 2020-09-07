@@ -1,8 +1,4 @@
 {
-  "display_name": "Brand",
-  "name": "Brand",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Blaze",
@@ -24,5 +20,37 @@
       "Pyroclasm",
       "Brand unleashes a devastating torrent of fire, dealing magic damage each time it bounces, up to 5 bounces. Bounces prioritize stacking Blaze to max on Champions. If a target is ablaze, Pyroclasm will briefly slow them."
     ]
-  }
+	},
+  "blurd": "Once a tribesman of the icy Freljord named Kegan Rodhe, the creature known as Brand is a lesson in the temptation of greater power. Seeking one of the legendary World Runes, Kegan betrayed his companions and seized it for himself—and, in an instant, the...",
+  "display_name": "Brand",
+  "free": false,
+  "key": "63",
+  "meta_tier": 5,
+  "name": "Brand",
+  "partype": "Mana",
+  "stats": {
+    "hp": 519.68,
+    "hpperlevel": 88,
+    "mp": 469,
+    "mpperlevel": 21,
+    "movespeed": 340,
+    "armor": 21.88,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 550,
+    "hpregen": 5.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 10.665,
+    "mpregenlevel": 0.6,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 57.04,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 1.36,
+    "attackspeed": 0.625
+  },
+  "title": "the Burning Vengeance",
+  "version": "10.16.1"
+  
 }

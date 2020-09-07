@@ -1,8 +1,4 @@
 {
-  "display_name": "Braum",
-  "name": "Braum",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Concussive Blows",
@@ -24,5 +20,37 @@
       "Glacial Fissure",
       "Braum slams the ground, knocking up enemies nearby and in a line in front of him. A fissure is left along the line that slows enemies."
     ]
-  }
+	},
+  "blurd": "Blessed with massive biceps and an even bigger heart, Braum is a beloved hero of the Freljord. Every mead hall north of Frostheld toasts his legendary strength, said to have felled a forest of oaks in a single night, and punched an entire mountain into...",
+  "display_name": "Braum",
+  "free": false,
+  "key": "201",
+  "meta_tier": 5,
+  "name": "Braum",
+  "partype": "Mana",
+  "stats": {
+    "hp": 540,
+    "hpperlevel": 98,
+    "mp": 310.6,
+    "mpperlevel": 45,
+    "movespeed": 335,
+    "armor": 47,
+    "armorperlevel": 4,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 1,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 55.376,
+    "attackdamageperlevel": 3.2,
+    "attackspeedperlevel": 3.5,
+    "attackspeed": 0.644
+  },
+  "title": "the Heart of the Freljord",
+  "version": "10.16.1"
+  
 }

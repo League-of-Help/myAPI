@@ -1,8 +1,4 @@
 {
-  "display_name": "Warwick",
-  "name": "Warwick",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Eternal Hunger",
@@ -24,5 +20,37 @@
       "Infinite Duress",
       "Warwick leaps in a direction (scaling with his bonus movement speed), suppressing the first champion he collides with for 1.5 seconds."
     ]
-  }
+	},
+  "blurd": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon...",
+  "display_name": "Warwick",
+  "free": false,
+  "key": "19",
+  "meta_tier": 4,
+  "name": "Warwick",
+  "partype": "Mana",
+  "stats": {
+    "hp": 550,
+    "hpperlevel": 85,
+    "mp": 280,
+    "mpperlevel": 35,
+    "movespeed": 335,
+    "armor": 33,
+    "armorperlevel": 3.2,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 4,
+    "hpregenperlevel": 0.75,
+    "mpregen": 7.466,
+    "mpregenlevel": 0.575,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 65,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.3,
+    "attackspeed": 0.638
+  },
+  "title": "the Uncaged Wrath of Zaun",
+  "version": "10.16.1"
+  
 }

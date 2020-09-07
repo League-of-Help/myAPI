@@ -1,8 +1,4 @@
 {
-  "display_name": "Karthus",
-  "name": "Karthus",
-  "meta_tier": 1,
-  "free": false,
   "abilities": {
     "p": [
       "Death Defied",
@@ -24,5 +20,37 @@
       "Requiem",
       "After channeling for 3 seconds, Karthus deals damage to all enemy champions."
     ]
-  }
+	},
+  "blurd": "The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of...",
+  "display_name": "Karthus",
+  "free": false,
+  "key": "30",
+  "meta_tier": 1,
+  "name": "Karthus",
+  "partype": "Mana",
+  "stats": {
+    "hp": 550,
+    "hpperlevel": 87,
+    "mp": 467,
+    "mpperlevel": 30.5,
+    "movespeed": 335,
+    "armor": 20.88,
+    "armorperlevel": 3.5,
+    "spellblock": 30,
+    "spellblockperlevel": 0.5,
+    "attackrange": 450,
+    "hpregen": 6.5,
+    "hpregenperlevel": 0.55,
+    "mpregen": 8,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 45.66,
+    "attackdamageperlevel": 3.25,
+    "attackspeedperlevel": 2.11,
+    "attackspeed": 0.625
+  },
+  "title": "the Deathsinger",
+  "version": "10.16.1"
+  
 }

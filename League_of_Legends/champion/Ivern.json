@@ -1,8 +1,4 @@
 {
-  "display_name": "Ivern",
-  "name": "Ivern",
-  "meta_tier": 5,
-  "free": false,
   "abilities": {
     "p": [
       "Friend of the Forest",
@@ -24,5 +20,37 @@
       "Daisy!",
       "Ivern summons his Sentinel friend Daisy to fight with him. Daisy will send out a shockwave if she attacks the same champion three times in a row."
     ]
-  }
+	},
+  "blurd": "Ivern Bramblefoot, known to many as the Green Father, is a peculiar half man, half tree who roams Runeterra's forests, cultivating life everywhere he goes. He knows the secrets of the natural world, and holds deep friendships with all things that grow...",
+  "display_name": "Ivern",
+  "free": false,
+  "key": "427",
+  "meta_tier": 5,
+  "name": "Ivern",
+  "partype": "Mana",
+  "stats": {
+    "hp": 585,
+    "hpperlevel": 95,
+    "mp": 450,
+    "mpperlevel": 60,
+    "movespeed": 330,
+    "armor": 27,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 475,
+    "hpregen": 7,
+    "hpregenperlevel": 0.85,
+    "mpregen": 6,
+    "mpregenlevel": 0.75,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 50,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 3.4,
+    "attackspeed": 0.644
+  },
+  "title": "the Green Father",
+  "version": "10.16.1"
+  
 }

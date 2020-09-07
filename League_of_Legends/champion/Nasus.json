@@ -1,8 +1,4 @@
 {
-  "display_name": "Nasus",
-  "name": "Nasus",
-  "meta_tier": 3,
-  "free": false,
   "abilities": {
     "p": [
       "Soul Eater",
@@ -24,5 +20,37 @@
       "Fury of the Sands",
       "Nasus unleashes a mighty sandstorm that batters nearby enemies. While the storm rages, he gains increased Health, Attack Range, damages nearby enemies, has a reduced cooldown on Siphoning Strike, and gains bonus Armor and Magic Resistance for the duration."
     ]
-  }
+	},
+  "blurd": "Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient...",
+  "display_name": "Nasus",
+  "free": false,
+  "key": "75",
+  "meta_tier": 3,
+  "name": "Nasus",
+  "partype": "Mana",
+  "stats": {
+    "hp": 561.2,
+    "hpperlevel": 90,
+    "mp": 325.6,
+    "mpperlevel": 42,
+    "movespeed": 350,
+    "armor": 34,
+    "armorperlevel": 3.5,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 9,
+    "hpregenperlevel": 0.9,
+    "mpregen": 7.44,
+    "mpregenlevel": 0.5,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 67,
+    "attackdamageperlevel": 3.5,
+    "attackspeedperlevel": 3.48,
+    "attackspeed": 0.638
+  },
+  "title": "the Curator of the Sands",
+  "version": "10.16.1"
+  
 }

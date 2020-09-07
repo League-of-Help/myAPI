@@ -1,8 +1,4 @@
 {
-  "display_name": "Leona",
-  "name": "Leona",
-  "meta_tier": 2,
-  "free": false,
   "abilities": {
     "p": [
       "Sunlight",
@@ -24,5 +20,37 @@
       "Solar Flare",
       "Leona calls down a beam of solar energy, dealing damage to enemies in an area. Enemies in the center of the area are stunned, while enemies on the outside are slowed."
     ]
-  }
+	},
+  "blurd": "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her...",
+  "display_name": "Leona",
+  "free": false,
+  "key": "89",
+  "meta_tier": 2,
+  "name": "Leona",
+  "partype": "Mana",
+  "stats": {
+    "hp": 576.16,
+    "hpperlevel": 87,
+    "mp": 302.2,
+    "mpperlevel": 40,
+    "movespeed": 335,
+    "armor": 47,
+    "armorperlevel": 3.6,
+    "spellblock": 32.1,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 8.5,
+    "hpregenperlevel": 0.85,
+    "mpregen": 6,
+    "mpregenlevel": 0.8,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60.04,
+    "attackdamageperlevel": 3,
+    "attackspeedperlevel": 2.9,
+    "attackspeed": 0.625
+  },
+  "title": "the Radiant Dawn",
+  "version": "10.16.1"
+  
 }

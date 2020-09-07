@@ -1,8 +1,4 @@
 {
-  "display_name": "Sett",
-  "name": "Sett",
-  "meta_tier": 4,
-  "free": false,
   "abilities": {
     "p": [
       "Pit Grit",
@@ -24,5 +20,37 @@
       "The Show Stopper",
       "Sett carries an enemy champion through the air and slams them into the ground, dealing damage and slowing all enemies near where they land."
     ]
-  }
+	},
+  "blurd": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to...",
+  "display_name": "Sett",
+  "free": false,
+  "key": "875",
+  "meta_tier": 4,
+  "name": "Sett",
+  "partype": "Grit",
+  "stats": {
+    "hp": 600,
+    "hpperlevel": 93,
+    "mp": 0,
+    "mpperlevel": 0,
+    "movespeed": 340,
+    "armor": 33,
+    "armorperlevel": 4,
+    "spellblock": 32,
+    "spellblockperlevel": 1.25,
+    "attackrange": 125,
+    "hpregen": 7,
+    "hpregenperlevel": 0.5,
+    "mpregen": 0,
+    "mpregenlevel": 0,
+    "crit": 0,
+    "critperlevel": 0,
+    "attackdamage": 60,
+    "attackdamageperlevel": 4,
+    "attackspeedperlevel": 1.75,
+    "attackspeed": 0.625
+  },
+  "title": "the Boss",
+  "version": "10.16.1"
+  
 }
