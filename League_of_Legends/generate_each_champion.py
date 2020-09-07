@@ -20,7 +20,6 @@ except:
 
 class load_LoL_data():
   def __init__(self):
-    # ddragon_version = json.loads(urllib.request.urlopen('https://ddragon.leagueoflegends.com/api/versions.json').read())[0]
     ddragon_version = requests.get('https://ddragon.leagueoflegends.com/api/versions.json').json()[0]
     self.urls = {
       'league of legends': {
@@ -63,7 +62,7 @@ class load_LoL_data():
     try:
       for i in range(1, 6):
         xpaths.append(
-          tree.xpath(f'//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[{i}]/h5/text()')[0].replace("\n", " "),
+          tree.xpath(f'//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[{i}]/h5/text()')[0].replace("\n", " ")
         )
         xpaths.append(
           tree.xpath(f'//*[@id="gatsby-focus-wrapper"]/div/section[2]/div[1]/div[2]/div/div[1]/div/div/div[2]/div[2]/ol/li[{i}]/p/text()')[0].replace("\n", " ")
@@ -96,7 +95,14 @@ if __name__ == '__main__' and internet_access:          # Run the programm if th
     try: champion_riot_data = data.load_ddragon(name.replace('-', ''))
     except:
       try: champion_riot_data = data.load_ddragon(name[0] + name[1:].replace('-', '').lower())
-      except: champion_riot_data = ['?' for _ in range(26)]
+      except: champion_riot_data = {
+        "blurb": "?", "key": "?", "partype": "?", "stats": { "hp": "?", "hpperlevel": "?",
+          "mp": "?", "mpperlevel": "?", "movespeed": "?", "armor": "?", "armorperlevel": "?",
+          "spellblock": "?", "spellblockperlevel": "?", "attackrange": "?", "hpregen": "?",
+          "hpregenperlevel": "?", "mpregen": "?", "mpregenperlevel": "?", "crit": "?",
+          "critperlevel": "?", "attackdamage": "?", "attackdamageperlevel": "?",
+          "attackspeedperlevel": "?", "attackspeed": "?" }, "title": "?", "version": "?"
+      }
 
     if champion in free_rotation: free = 'true'
     else: free = 'false'
@@ -156,7 +162,9 @@ if __name__ == '__main__' and internet_access:          # Run the programm if th
   "title": "{champion_riot_data["title"]}",
   "version": "{champion_riot_data["version"]}"
   \n}}'''
-    except: word = '"No data"'
+    except:
+      word = '"No data"'
+      print(f"Error loading {champion}'s data")
 
     with open(f'{path}/{name}.json', 'w+') as f:
       f.write(word)

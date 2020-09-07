@@ -1,1 +1,56 @@
-"No data"
+{
+  "abilities": {
+    "p": [
+      "HARMONY / ECHO",
+      "Every third basic ability cast will echo, casting it again. Casting an ability grants a Note to nearby allies. For each Note your next attack gains Attack Range and deals additional magic damage."
+    ],
+    "q": [
+      "?",
+      "Deals magic damage in target area, increased with the enemy's missing health."
+    ],
+    "w": [
+      "?",
+      "Shields all nearby ally champion and grants them movement speed for a few seconds. If you are already shielded, each nearby allies are healed a percentage of their missing health."
+    ],
+    "e": [
+      "?",
+      "Deals magic damage to enemies and slows them for a few seconds. If the enemy is already slowed, they are rooted instead."
+    ],
+    "r": [
+      "?",
+      "Deals magic damage to enemies and charm they for several seconds. Spell extends when it touches an ally or enemy champion."
+    ]
+	},
+  "blurd": "?",
+  "display_name": "Seraphine",
+  "free": false,
+  "key": "?",
+  "meta_tier": None,
+  "name": "Seraphine",
+  "partype": "?",
+  "stats": {
+    "hp": ?,
+    "hpperlevel": ?,
+    "mp": ?,
+    "mpperlevel": ?,
+    "movespeed": ?,
+    "armor": ?,
+    "armorperlevel": ?,
+    "spellblock": ?,
+    "spellblockperlevel": ?,
+    "attackrange": ?,
+    "hpregen": ?,
+    "hpregenperlevel": ?,
+    "mpregen": ?,
+    "mpregenlevel": ?,
+    "crit": ?,
+    "critperlevel": ?,
+    "attackdamage": ?,
+    "attackdamageperlevel": ?,
+    "attackspeedperlevel": ?,
+    "attackspeed": ?
+  },
+  "title": "?",
+  "version": "?"
+  
+}
